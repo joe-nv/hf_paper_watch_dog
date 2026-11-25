@@ -1,58 +1,58 @@
-# HuggingFace Daily Papers Archive
+# HuggingFace Daily Papers Archive, Summaries & Living Chronicle
 
-Automatically fetch and archive [Hugging Face Daily Papers](https://huggingface.co/papers) via GitHub Actions.
+Automatically fetch, summarize, and synthesize [Hugging Face Daily Papers](https://huggingface.co/papers) into a per-paper structured knowledge base and an auto-compiled **Western university textbook-style AI Research Chronicle PDF** with multi-year Sankey flow diagrams.
 
-## Structure
+## Repository Structure
 
 ```
-papers/
-└── 2026/
-    └── 03/
-        ├── 2026-03-17.md    # human-readable markdown
-        └── 2026-03-17.json  # structured data
+papers/                                     # Raw daily paper archive (2023-05 to present)
+└── YYYY/MM/
+    ├── YYYY-MM-DD.md                       # Human-readable daily papers
+    └── YYYY-MM-DD.json                     # Structured metadata & abstracts
+
+summaries/                                  # Per-paper structured summaries (中文为主 + 英文术语)
+├── README.md                               # Domain breakdown & archive index
+├── index.json                              # Cumulative summary counts
+└── YYYY/MM/
+    ├── YYYY-MM-DD.md                       # 观点 / 实验 / 结论 / Takeaway per paper
+    └── YYYY-MM-DD.json                     # Machine-readable structured summaries
+
+chronicle/                                  # Living University Textbook & Sankey Trend Atlas
+├── README.md                               # Chapter navigation & embedded Sankey previews
+├── AI_Research_Chronicle_Textbook.pdf      # Auto-compiled merged textbook PDF (110+ pages, vector charts)
+├── stats_snapshot.json                     # Longitudinal metrics across 15+ quarters
+├── chapters/                               # 18 modular chapters & appendices (ch00..ch14, appA..appC)
+├── figures/                                # 12 vector SVG Sankey diagrams, heatmaps & trend curves
+└── template/textbook.typ                   # Typst university textbook typesetting template
 ```
 
-Each daily file contains:
+## Key Features
 
-- **ArXiv ID** with links to both ArXiv and HuggingFace
-- **Title**
-- **Authors**
-- **Organization**
-- **Published / Submitted dates**
-- **Upvotes**
-- **Abstract**
-- **Links** (GitHub repo, project page if available)
+1. **Daily Raw Archive (`papers/`)**: ArXiv ID, Title, Authors, Organization, Published/Submitted dates, Upvotes, Abstract, and GitHub/Project links sorted by upvotes.
+2. **Per-Paper Structured Digest (`summaries/`)**: Every archived paper is distilled into four structured dimensions — **核心观点 (Perspective)**, **方法与实验 (Experiments)**, **实验结论 (Conclusions)**, and **核心启示 (Takeaway)** — with unified bilingual terminology.
+3. **Living Chronicle Textbook (`chronicle/`)**:
+   - **Multi-Year Sankey / Alluvial Flow Diagrams** tracking how research attention flows and mutates from 2023 → 2024 → 2025 → 2026 across 10 core domains and 24 subtopics.
+   - **Hybrid Structure**: Part I (Macro Panorama & Sankey Flows), Part II (2023–2026 Annual Chronicles + Live 30-Day Frontier Radar), Part III (9 Vertical Technical Deep-Dive Chapters), and Part IV (Methodology, Top-100 Landmark Compendium & Bilingual Glossary).
+   - **Auto-Merged PDF**: Rebuilt automatically after every daily paper update into [`chronicle/AI_Research_Chronicle_Textbook.pdf`](./chronicle/AI_Research_Chronicle_Textbook.pdf).
 
-Papers are sorted by upvotes (descending).
+## Automation & Local Usage
 
-## Automation
-
-A GitHub Actions workflow runs daily at **08:00 UTC**, fetches the day's papers, and commits them to this repo.
-
-### Manual trigger
-
-You can also trigger the workflow manually via GitHub Actions UI with:
-
-- **date**: a specific date in `YYYY-MM-DD` format
-- **backfill**: number of days to backfill
-
-### Local usage
+A GitHub Actions workflow runs daily at **08:00 UTC**, fetches the day's papers, generates structured summaries, updates all Sankey/trend charts, recompiles the textbook PDF, and commits the updates.
 
 ```bash
-# fetch today's papers
-python scripts/fetch_papers.py
+# install PDF compiler dependency (fetching, summarizing & SVG generation use Python stdlib only)
+pip install -r requirements.txt
 
-# fetch papers for a specific date
+# run full pipeline: fetch today's papers -> incremental summaries -> rebuild figures & textbook PDF
+python scripts/update_all.py
+
+# rebuild summaries, Sankey figures, and textbook PDF from existing local papers/ without network fetch
+python scripts/update_all.py --skip-fetch
+
+# fetch papers only for a specific date or backfill range
 python scripts/fetch_papers.py 2026-03-17
-
-# backfill the last 7 days
 python scripts/fetch_papers.py --backfill 7
-
-# backfill 7 days starting from a specific date
-python scripts/fetch_papers.py 2026-03-15 --backfill 7
 ```
-
-No external dependencies required — uses only Python standard library.
 
 ## Data Source & Credit
 

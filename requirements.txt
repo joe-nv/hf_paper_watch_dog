@@ -1,1 +1,3 @@
-# no external dependencies - uses only python stdlib
+# Core fetching, per-paper summarization, and SVG Sankey/chart generation use Python stdlib only.
+# Typst compiler wheel is used to merge chronicle chapters + vector figures into the textbook PDF.
+typst==0.15.2
