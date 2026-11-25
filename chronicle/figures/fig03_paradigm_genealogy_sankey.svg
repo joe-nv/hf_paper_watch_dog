@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 660" width="1240" height="660">
+  <defs>
+    <linearGradient id="hdrGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#13294B"/>
+      <stop offset="100%" stop-color="#1F4E79"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1238" height="658" rx="6" fill="#FAF8F4" stroke="#C8C1B4" stroke-width="1.2"/>
+  <rect x="1" y="1" width="1238" height="62" rx="6" fill="url(#hdrGrad)"/>
+  <rect x="1" y="54" width="1238" height="9" fill="url(#hdrGrad)"/>
+  <text x="24" y="27" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#E8C574" letter-spacing="1.2">FIGURE 1.3 · ALGORITHMIC LINEAGE &amp; PARADIGM GENEALOGY SANKEY</text>
+  <text x="24" y="49" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="700" fill="#FFFFFF">核心技术范式四代演进谱系桑基图（从参数微调、偏好对齐、RLVR 推理到自主代理与物理智能）</text>
+  <text x="24" y="84" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5568">展示具体方法论如何跨代合流：如 DPO+提示思维链催生 GRPO/RLVR，进而裂变为 2026 智能体脚手架、递归自进化与混合思考</text>
+  <line x1="24" y1="94" x2="1216" y2="94" stroke="#DED8CC" stroke-width="1"/>
+  <text x="26.0" y="110.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#13294B">Stage I · 2023 基座奠基</text>
+  <text x="26.0" y="126.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#64748B">SFT · Diffusion · SSM</text>
+  <text x="348.7" y="110.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#13294B">Stage II · 2024 效率与融合</text>
+  <text x="348.7" y="126.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#64748B">DPO · 1.58-bit · Omni</text>
+  <text x="662.3" y="110.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#13294B">Stage III · 2025 推理大爆发</text>
+  <text x="662.3" y="126.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#64748B">RLVR · TTC · SWE</text>
+  <text x="967.0" y="110.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#13294B">Stage IV · 2026 代理与具身化</text>
+  <text x="967.0" y="126.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#64748B">Harness · RSI · VLA</text>
+  <path d="M 44.00,136.00 C 191.83,136.00 191.83,136.00 339.67,136.00 L 339.67,197.62 C 191.83,197.62 191.83,189.30 44.00,189.30 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,189.30 C 191.83,189.30 191.83,232.60 339.67,232.60 L 339.67,275.82 C 191.83,275.82 191.83,217.99 44.00,217.99 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,230.99 C 191.83,230.99 191.83,295.04 339.67,295.04 L 339.67,344.98 C 191.83,344.98 191.83,296.87 44.00,296.87 Z" fill="#3B7EA1" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,296.87 C 191.83,296.87 191.83,397.86 339.67,397.86 L 339.67,503.66 C 191.83,503.66 191.83,419.22 44.00,419.22 Z" fill="#3B7EA1" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,432.22 C 191.83,432.22 191.83,275.82 339.67,275.82 L 339.67,282.04 C 191.83,282.04 191.83,436.34 44.00,436.34 Z" fill="#4A5568" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,436.34 C 191.83,436.34 191.83,531.82 339.67,531.82 L 339.67,541.86 C 191.83,541.86 191.83,442.53 44.00,442.53 Z" fill="#4A5568" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,455.53 C 191.83,455.53 191.83,344.98 339.67,344.98 L 339.67,384.86 C 191.83,384.86 191.83,508.13 44.00,508.13 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,508.13 C 191.83,508.13 191.83,503.66 339.67,503.66 L 339.67,518.82 C 191.83,518.82 191.83,525.66 44.00,525.66 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,538.66 C 191.83,538.66 191.83,197.62 339.67,197.62 L 339.67,219.60 C 191.83,219.60 191.83,557.67 44.00,557.67 Z" fill="#B84A39" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,557.67 C 191.83,557.67 191.83,573.69 339.67,573.69 L 339.67,593.73 C 191.83,593.73 191.83,573.22 44.00,573.22 Z" fill="#B84A39" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,586.22 C 191.83,586.22 191.83,541.86 339.67,541.86 L 339.67,560.69 C 191.83,560.69 191.83,597.82 44.00,597.82 Z" fill="#5C6B73" fill-opacity="0.24" stroke="none"/>
+  <path d="M 44.00,597.82 C 191.83,597.82 191.83,593.73 339.67,593.73 L 339.67,612.00 C 191.83,612.00 191.83,612.00 44.00,612.00 Z" fill="#5C6B73" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,136.00 C 505.50,136.00 505.50,136.00 653.33,136.00 L 653.33,193.98 C 505.50,193.98 505.50,186.16 357.67,186.16 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,186.16 C 505.50,186.16 505.50,226.40 653.33,226.40 L 653.33,264.75 C 505.50,264.75 505.50,207.06 357.67,207.06 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,207.06 C 505.50,207.06 505.50,341.13 653.33,341.13 L 653.33,350.99 C 505.50,350.99 505.50,219.60 357.67,219.60 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,232.60 C 505.50,232.60 505.50,264.75 653.33,264.75 L 653.33,296.50 C 505.50,296.50 505.50,249.90 357.67,249.90 Z" fill="#C98A2C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,249.90 C 505.50,249.90 505.50,502.58 653.33,502.58 L 653.33,516.61 C 505.50,516.61 505.50,282.04 357.67,282.04 Z" fill="#C98A2C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,295.04 C 505.50,295.04 505.50,350.99 653.33,350.99 L 653.33,375.72 C 505.50,375.72 505.50,326.48 357.67,326.48 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,326.48 C 505.50,326.48 505.50,403.44 653.33,403.44 L 653.33,456.56 C 505.50,456.56 505.50,384.86 357.67,384.86 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,397.86 C 505.50,397.86 505.50,456.56 653.33,456.56 L 653.33,489.58 C 505.50,489.58 505.50,434.15 357.67,434.15 Z" fill="#3B7EA1" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,434.15 C 505.50,434.15 505.50,535.91 653.33,535.91 L 653.33,612.00 C 505.50,612.00 505.50,518.82 357.67,518.82 Z" fill="#3B7EA1" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,531.82 C 505.50,531.82 505.50,193.98 653.33,193.98 L 653.33,202.33 C 505.50,202.33 505.50,539.04 357.67,539.04 Z" fill="#4A5568" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,539.04 C 505.50,539.04 505.50,375.72 653.33,375.72 L 653.33,381.40 C 505.50,381.40 505.50,546.26 357.67,546.26 Z" fill="#4A5568" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,546.26 C 505.50,546.26 505.50,516.61 653.33,516.61 L 653.33,522.91 C 505.50,522.91 505.50,560.69 357.67,560.69 Z" fill="#4A5568" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,573.69 C 505.50,573.69 505.50,202.33 653.33,202.33 L 653.33,213.40 C 505.50,213.40 505.50,583.27 357.67,583.27 Z" fill="#9E3B52" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,583.27 C 505.50,583.27 505.50,296.50 653.33,296.50 L 653.33,328.13 C 505.50,328.13 505.50,600.51 357.67,600.51 Z" fill="#9E3B52" fill-opacity="0.24" stroke="none"/>
+  <path d="M 357.67,600.51 C 505.50,600.51 505.50,381.40 653.33,381.40 L 653.33,390.44 C 505.50,390.44 505.50,612.00 357.67,612.00 Z" fill="#9E3B52" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,136.00 C 819.17,136.00 819.17,136.00 967.00,136.00 L 967.00,161.44 C 819.17,161.44 819.17,163.09 671.33,163.09 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,163.09 C 819.17,163.09 819.17,251.79 967.00,251.79 L 967.00,280.97 C 819.17,280.97 819.17,195.60 671.33,195.60 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,195.60 C 819.17,195.60 819.17,304.60 967.00,304.60 L 967.00,314.71 C 819.17,314.71 819.17,213.40 671.33,213.40 Z" fill="#1F4E79" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,226.40 C 819.17,226.40 819.17,161.44 967.00,161.44 L 967.00,190.10 C 819.17,190.10 819.17,256.92 671.33,256.92 Z" fill="#B84A39" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,256.92 C 819.17,256.92 819.17,314.71 967.00,314.71 L 967.00,339.00 C 819.17,339.00 819.17,299.64 671.33,299.64 Z" fill="#B84A39" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,299.64 C 819.17,299.64 819.17,569.22 967.00,569.22 L 967.00,594.20 C 819.17,594.20 819.17,328.13 671.33,328.13 Z" fill="#B84A39" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,341.13 C 819.17,341.13 819.17,190.10 967.00,190.10 L 967.00,216.95 C 819.17,216.95 819.17,369.73 671.33,369.73 Z" fill="#2E7D6B" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,369.73 C 819.17,369.73 819.17,280.97 967.00,280.97 L 967.00,291.60 C 819.17,291.60 819.17,381.57 671.33,381.57 Z" fill="#2E7D6B" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,381.57 C 819.17,381.57 819.17,594.20 967.00,594.20 L 967.00,601.99 C 819.17,601.99 819.17,390.44 671.33,390.44 Z" fill="#2E7D6B" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,403.44 C 819.17,403.44 819.17,216.95 967.00,216.95 L 967.00,238.79 C 819.17,238.79 819.17,426.70 671.33,426.70 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,426.70 C 819.17,426.70 819.17,357.20 967.00,357.20 L 967.00,415.12 C 819.17,415.12 819.17,468.04 671.33,468.04 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,468.04 C 819.17,468.04 819.17,506.32 967.00,506.32 L 967.00,532.16 C 819.17,532.16 819.17,489.58 671.33,489.58 Z" fill="#6C4F8F" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,502.58 C 819.17,502.58 819.17,339.00 967.00,339.00 L 967.00,344.20 C 819.17,344.20 819.17,511.73 671.33,511.73 Z" fill="#C98A2C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,511.73 C 819.17,511.73 819.17,415.12 967.00,415.12 L 967.00,420.82 C 819.17,420.82 819.17,515.79 671.33,515.79 Z" fill="#C98A2C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,515.79 C 819.17,515.79 819.17,532.16 967.00,532.16 L 967.00,540.69 C 819.17,540.69 819.17,522.91 671.33,522.91 Z" fill="#C98A2C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,535.91 C 819.17,535.91 819.17,420.82 967.00,420.82 L 967.00,493.32 C 819.17,493.32 819.17,587.65 671.33,587.65 Z" fill="#2F6B3C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,587.65 C 819.17,587.65 819.17,540.69 967.00,540.69 L 967.00,556.22 C 819.17,556.22 819.17,600.59 671.33,600.59 Z" fill="#2F6B3C" fill-opacity="0.24" stroke="none"/>
+  <path d="M 671.33,600.59 C 819.17,600.59 819.17,601.99 967.00,601.99 L 967.00,612.00 C 819.17,612.00 819.17,612.00 671.33,612.00 Z" fill="#2F6B3C" fill-opacity="0.24" stroke="none"/>
+  <rect x="26.00" y="136.00" width="18.0" height="81.99" rx="2.5" fill="#1F4E79" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="181.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#1F4E79">SFT 与 LoRA 微调  19.9%</text>
+  <text x="51.0" y="181.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">SFT 与 LoRA 微调  19.9%</text>
+  <rect x="26.00" y="230.99" width="18.0" height="188.22" rx="2.5" fill="#3B7EA1" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="329.1" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#3B7EA1">图像扩散与 3DGS  45.8%</text>
+  <text x="51.0" y="329.1" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">图像扩散与 3DGS  45.8%</text>
+  <rect x="26.00" y="432.22" width="18.0" height="10.31" rx="2.5" fill="#4A5568" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="441.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#4A5568">SSM 与亚二次架构  2.5%</text>
+  <text x="51.0" y="441.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">SSM 与亚二次架构  2.5%</text>
+  <rect x="26.00" y="455.53" width="18.0" height="70.13" rx="2.5" fill="#6C4F8F" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="494.6" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#6C4F8F">桥接式视觉语言模型  17.1%</text>
+  <text x="51.0" y="494.6" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">桥接式视觉语言模型  17.1%</text>
+  <rect x="26.00" y="538.66" width="18.0" height="34.55" rx="2.5" fill="#B84A39" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="559.9" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#B84A39">提示思维链与工具初探  8.4%</text>
+  <text x="51.0" y="559.9" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">提示思维链与工具初探  8.4%</text>
+  <rect x="26.00" y="586.22" width="18.0" height="25.78" rx="2.5" fill="#5C6B73" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="51.0" y="603.1" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#5C6B73">RAG 与基础对齐  6.3%</text>
+  <text x="51.0" y="603.1" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">RAG 与基础对齐  6.3%</text>
+  <rect x="339.67" y="136.00" width="18.0" height="83.60" rx="2.5" fill="#1F4E79" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="181.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#1F4E79">DPO 对齐与合成数据  20.3%</text>
+  <text x="364.7" y="181.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">DPO 对齐与合成数据  20.3%</text>
+  <rect x="339.67" y="232.60" width="18.0" height="49.44" rx="2.5" fill="#C98A2C" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="261.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#C98A2C">1.58-bit 与端侧小模型  12.0%</text>
+  <text x="364.7" y="261.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">1.58-bit 与端侧小模型  12.0%</text>
+  <rect x="339.67" y="295.04" width="18.0" height="89.82" rx="2.5" fill="#6C4F8F" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="343.9" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#6C4F8F">早期融合全模态基座  21.9%</text>
+  <text x="364.7" y="343.9" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">早期融合全模态基座  21.9%</text>
+  <rect x="339.67" y="397.86" width="18.0" height="120.96" rx="2.5" fill="#3B7EA1" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="462.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#3B7EA1">视频生成与流匹配  29.4%</text>
+  <text x="364.7" y="462.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">视频生成与流匹配  29.4%</text>
+  <rect x="339.67" y="531.82" width="18.0" height="28.87" rx="2.5" fill="#4A5568" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="550.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#4A5568">MoE 与混合序列架构  7.0%</text>
+  <text x="364.7" y="550.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">MoE 与混合序列架构  7.0%</text>
+  <rect x="339.67" y="573.69" width="18.0" height="38.31" rx="2.5" fill="#9E3B52" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="364.7" y="596.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#9E3B52">机器遗忘与稀疏探针(SAE)  9.3%</text>
+  <text x="364.7" y="596.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">机器遗忘与稀疏探针(SAE)  9.3%</text>
+  <rect x="653.33" y="136.00" width="18.0" height="77.40" rx="2.5" fill="#1F4E79" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="178.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#1F4E79">GRPO 与 RLVR 强化学习  18.8%</text>
+  <text x="678.3" y="178.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">GRPO 与 RLVR 强化学习  18.8%</text>
+  <rect x="653.33" y="226.40" width="18.0" height="101.73" rx="2.5" fill="#B84A39" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="281.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#B84A39">测试时计算扩展与数学推理  24.8%</text>
+  <text x="678.3" y="281.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">测试时计算扩展与数学推理  24.8%</text>
+  <rect x="653.33" y="341.13" width="18.0" height="49.31" rx="2.5" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="369.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#2E7D6B">代码基座与 SWE 智能体  12.0%</text>
+  <text x="678.3" y="369.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">代码基座与 SWE 智能体  12.0%</text>
+  <rect x="653.33" y="403.44" width="18.0" height="86.14" rx="2.5" fill="#6C4F8F" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="450.5" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#6C4F8F">多模态慢思考与视觉推理  21.0%</text>
+  <text x="678.3" y="450.5" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">多模态慢思考与视觉推理  21.0%</text>
+  <rect x="653.33" y="502.58" width="18.0" height="20.33" rx="2.5" fill="#C98A2C" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="516.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#C98A2C">KV压缩、推测解码与 DLM  4.9%</text>
+  <text x="678.3" y="516.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">KV压缩、推测解码与 DLM  4.9%</text>
+  <rect x="653.33" y="535.91" width="18.0" height="76.09" rx="2.5" fill="#2F6B3C" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="678.3" y="578.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#2F6B3C">物理视频与初代 VLA  18.5%</text>
+  <text x="678.3" y="578.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">物理视频与初代 VLA  18.5%</text>
+  <rect x="967.00" y="136.00" width="18.0" height="102.79" rx="2.5" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="191.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#2E7D6B">脚手架、Repo转技能与轨迹合成  25.0%</text>
+  <text x="992.0" y="191.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">脚手架、Repo转技能与轨迹合成  25.0%</text>
+  <rect x="967.00" y="251.79" width="18.0" height="39.80" rx="2.5" fill="#1F4E79" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="275.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#1F4E79">递归自改进与自主科研 (RSI)  9.7%</text>
+  <text x="992.0" y="275.7" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">递归自改进与自主科研 (RSI)  9.7%</text>
+  <rect x="967.00" y="304.60" width="18.0" height="39.60" rx="2.5" fill="#B84A39" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="328.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#B84A39">混合思考、隐推理与超连接(mHC)  9.6%</text>
+  <text x="992.0" y="328.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">混合思考、隐推理与超连接(mHC)  9.6%</text>
+  <rect x="967.00" y="357.20" width="18.0" height="136.12" rx="2.5" fill="#2F6B3C" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="429.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#2F6B3C">跨本体 VLA、人形控制与世界模型  33.1%</text>
+  <text x="992.0" y="429.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">跨本体 VLA、人形控制与世界模型  33.1%</text>
+  <rect x="967.00" y="506.32" width="18.0" height="49.90" rx="2.5" fill="#5C6B73" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="535.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#5C6B73">持续学习、长程记忆与科学智能  12.1%</text>
+  <text x="992.0" y="535.3" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">持续学习、长程记忆与科学智能  12.1%</text>
+  <rect x="967.00" y="569.22" width="18.0" height="42.78" rx="2.5" fill="#9E3B52" stroke="#FFFFFF" stroke-width="0.8"/>
+  <text x="992.0" y="594.6" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" stroke="#FAF8F4" stroke-width="3.2" stroke-linejoin="round" fill="#9E3B52">思维链监控、对齐熵增与护栏  10.4%</text>
+  <text x="992.0" y="594.6" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1E293B">思维链监控、对齐熵增与护栏  10.4%</text>
+  <line x1="24" y1="628" x2="1216" y2="628" stroke="#DED8CC" stroke-width="1"/>
+  <text x="24" y="647" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B7280">数据依据：各节点高度对应当年相关子方向真实归档论文规模占比（2023–2026 累计 18,137 篇），流带刻画关键方法学谱系演进。</text>
+</svg>

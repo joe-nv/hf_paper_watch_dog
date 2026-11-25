@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 530" width="1100" height="530">
+  <defs>
+    <linearGradient id="hdrGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#13294B"/>
+      <stop offset="100%" stop-color="#1F4E79"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1098" height="528" rx="6" fill="#FAF8F4" stroke="#C8C1B4" stroke-width="1.2"/>
+  <rect x="1" y="1" width="1098" height="62" rx="6" fill="url(#hdrGrad)"/>
+  <rect x="1" y="54" width="1098" height="9" fill="url(#hdrGrad)"/>
+  <text x="24" y="27" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#E8C574" letter-spacing="1.2">FIGURE 14.1 · GLOBAL INSTITUTIONAL OUTPUT &amp; OPEN-SOURCE ECOSYSTEM</text>
+  <text x="24" y="49" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="700" fill="#FFFFFF">全球头部产学研机构贡献分布与各技术领域代码开源率对比</text>
+  <text x="24" y="84" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5568">NVIDIA、腾讯、字节跳动、Google、北大、清华、NUS、Qwen、DeepSeek 等共同构成前沿开源与高影响力研究主力军</text>
+  <line x1="24" y1="94" x2="1076" y2="94" stroke="#DED8CC" stroke-width="1"/>
+  <text x="28" y="122" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#13294B">A. 全球核心研究机构高热度论文产出榜（2024–2026 累计标注机构）</text>
+  <text x="187" y="153" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">NVIDIA</text>
+  <rect x="195" y="142" width="280.0" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="481.0" y="153" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">166</text>
+  <text x="187" y="180" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Tencent</text>
+  <rect x="195" y="169" width="215.9" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="416.9" y="180" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">128</text>
+  <text x="187" y="207" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">ByteDance Seed</text>
+  <rect x="195" y="196" width="195.7" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="396.7" y="207" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">116</text>
+  <text x="187" y="234" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Peking University</text>
+  <rect x="195" y="223" width="163.6" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="364.6" y="234" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">97</text>
+  <text x="187" y="261" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Google</text>
+  <rect x="195" y="250" width="161.9" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="362.9" y="261" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">96</text>
+  <text x="187" y="288" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">KAIST AI</text>
+  <rect x="195" y="277" width="155.2" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="356.2" y="288" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">92</text>
+  <text x="187" y="315" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">National University of..</text>
+  <rect x="195" y="304" width="138.3" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="339.3" y="315" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">82</text>
+  <text x="187" y="342" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">ByteDance</text>
+  <rect x="195" y="331" width="136.6" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="337.6" y="342" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">81</text>
+  <text x="187" y="369" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Tencent Hunyuan</text>
+  <rect x="195" y="358" width="131.6" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="332.6" y="369" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">78</text>
+  <text x="187" y="396" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Zhejiang University</text>
+  <rect x="195" y="385" width="116.4" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="317.4" y="396" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">69</text>
+  <text x="187" y="423" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Tsinghua University</text>
+  <rect x="195" y="412" width="114.7" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="315.7" y="423" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">68</text>
+  <text x="187" y="450" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#1E293B">Shanghai Jiao Tong Uni..</text>
+  <rect x="195" y="439" width="97.8" height="15" rx="2.5" fill="#1F4E79" fill-opacity="0.88"/>
+  <text x="298.8" y="450" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.8" font-weight="600" fill="#13294B">58</text>
+  <text x="565" y="122" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#13294B">B. 十大研究领域附带开源代码仓库（GitHub）比例 (%)</text>
+  <text x="727" y="155" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">多模态与统一基座</text>
+  <rect x="735" y="143" width="289.1" height="17" rx="2.5" fill="#6C4F8F"/>
+  <text x="1031.1" y="155" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">64.8%</text>
+  <text x="727" y="187" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">模型架构与序列建模</text>
+  <rect x="735" y="175" width="282.0" height="17" rx="2.5" fill="#4A5568"/>
+  <text x="1024.0" y="187" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">63.2%</text>
+  <text x="727" y="219" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">推理与测试时计算</text>
+  <rect x="735" y="207" width="281.1" height="17" rx="2.5" fill="#B84A39"/>
+  <text x="1023.1" y="219" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">63.0%</text>
+  <text x="727" y="251" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">智能体与代码工程</text>
+  <rect x="735" y="239" width="281.1" height="17" rx="2.5" fill="#2E7D6B"/>
+  <text x="1023.1" y="251" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">63.0%</text>
+  <text x="727" y="283" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">AI4Science与记忆评测</text>
+  <rect x="735" y="271" width="279.7" height="17" rx="2.5" fill="#5C6B73"/>
+  <text x="1021.7" y="283" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">62.7%</text>
+  <text x="727" y="315" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">具身智能与物理AI</text>
+  <rect x="735" y="303" width="278.0" height="17" rx="2.5" fill="#2F6B3C"/>
+  <text x="1020.0" y="315" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">62.3%</text>
+  <text x="727" y="347" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">安全对齐与可解释性</text>
+  <rect x="735" y="335" width="274.4" height="17" rx="2.5" fill="#9E3B52"/>
+  <text x="1016.4" y="347" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">61.5%</text>
+  <text x="727" y="379" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">高效推理与系统</text>
+  <rect x="735" y="367" width="273.9" height="17" rx="2.5" fill="#C98A2C"/>
+  <text x="1015.9" y="379" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">61.4%</text>
+  <text x="727" y="411" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">视觉生成与世界模型</text>
+  <rect x="735" y="399" width="270.4" height="17" rx="2.5" fill="#3B7EA1"/>
+  <text x="1012.4" y="411" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">60.6%</text>
+  <text x="727" y="443" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">训练与强化学习</text>
+  <rect x="735" y="431" width="263.7" height="17" rx="2.5" fill="#1F4E79"/>
+  <text x="1005.7" y="443" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" fill="#1E293B">59.1%</text>
+  <line x1="24" y1="498" x2="1076" y2="498" stroke="#DED8CC" stroke-width="1"/>
+  <text x="24" y="517" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B7280">注：HuggingFace Daily Papers 自 2024 下半年起完善机构（Organization）元数据关联；面板 B 统计各主领域论文明确附带 GitHub 链接的实证比例。</text>
+</svg>

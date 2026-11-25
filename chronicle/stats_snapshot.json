@@ -1,0 +1,6568 @@
+{
+  "earliest_date": "2023-05-04",
+  "latest_date": "2026-11-24",
+  "total_days": 920,
+  "total_papers": 18137,
+  "unique_papers": 18122,
+  "years": {
+    "2023": {
+      "total": 1609,
+      "avg_upvotes": 16.42,
+      "github_rate": 50.03,
+      "project_rate": 2.55,
+      "primary_domain": {
+        "Vision_World": 423,
+        "Agents": 90,
+        "Training_RL": 216,
+        "Multimodal": 229,
+        "Science_Eval": 237,
+        "Reasoning": 118,
+        "Architecture": 97,
+        "Safety_Interp": 78,
+        "Embodied": 66,
+        "Efficiency": 55
+      },
+      "multi_domain": {
+        "Vision_World": 512,
+        "Agents": 151,
+        "Training_RL": 347,
+        "Safety_Interp": 173,
+        "Architecture": 180,
+        "Multimodal": 309,
+        "Science_Eval": 382,
+        "Reasoning": 187,
+        "Embodied": 102,
+        "Efficiency": 102
+      },
+      "subtopics": {
+        "img_flow": 237,
+        "peft_sft": 119,
+        "dpo_rlhf": 40,
+        "dyn_bench": 371,
+        "doc_ocr_gui": 15,
+        "3d_gs_mesh": 128,
+        "swe_coding": 41,
+        "ai4science": 57,
+        "slm_edge": 67,
+        "vlm_video_und": 121,
+        "data_synth": 89,
+        "cot_search": 30,
+        "video_world": 67,
+        "moe_routing": 13,
+        "humanoid_manip": 70,
+        "fact_unlearn": 34,
+        "redteam_guard": 7,
+        "interp_cot_mon": 22,
+        "harness_skills": 37,
+        "rag_memory": 16,
+        "omni_fusion": 7,
+        "ssm_linear": 7,
+        "math_formal": 31,
+        "rlvr_grpo": 7,
+        "kv_speculative": 11,
+        "quant_lowbit": 10,
+        "ttc_scaling": 18,
+        "rsi_self_evol": 4,
+        "vla_policy": 1
+      },
+      "cooccurrence": {
+        "Vision_World": {
+          "Vision_World": 512,
+          "Science_Eval": 40,
+          "Architecture": 24,
+          "Efficiency": 25,
+          "Multimodal": 47,
+          "Training_RL": 70,
+          "Safety_Interp": 35,
+          "Embodied": 8,
+          "Agents": 13,
+          "Reasoning": 17
+        },
+        "Agents": {
+          "Agents": 151,
+          "Training_RL": 37,
+          "Safety_Interp": 8,
+          "Architecture": 10,
+          "Science_Eval": 31,
+          "Embodied": 27,
+          "Multimodal": 13,
+          "Reasoning": 33,
+          "Vision_World": 13,
+          "Efficiency": 4
+        },
+        "Training_RL": {
+          "Training_RL": 347,
+          "Safety_Interp": 40,
+          "Agents": 37,
+          "Architecture": 40,
+          "Multimodal": 47,
+          "Embodied": 11,
+          "Reasoning": 29,
+          "Science_Eval": 57,
+          "Vision_World": 70,
+          "Efficiency": 18
+        },
+        "Safety_Interp": {
+          "Training_RL": 40,
+          "Safety_Interp": 173,
+          "Agents": 8,
+          "Architecture": 16,
+          "Reasoning": 17,
+          "Multimodal": 32,
+          "Vision_World": 35,
+          "Science_Eval": 42,
+          "Embodied": 5,
+          "Efficiency": 9
+        },
+        "Architecture": {
+          "Training_RL": 40,
+          "Safety_Interp": 16,
+          "Agents": 10,
+          "Architecture": 180,
+          "Science_Eval": 30,
+          "Vision_World": 24,
+          "Multimodal": 20,
+          "Reasoning": 22,
+          "Embodied": 4,
+          "Efficiency": 19
+        },
+        "Multimodal": {
+          "Multimodal": 309,
+          "Training_RL": 47,
+          "Reasoning": 20,
+          "Architecture": 20,
+          "Safety_Interp": 32,
+          "Vision_World": 47,
+          "Science_Eval": 48,
+          "Agents": 13,
+          "Efficiency": 8,
+          "Embodied": 15
+        },
+        "Science_Eval": {
+          "Science_Eval": 382,
+          "Architecture": 30,
+          "Agents": 31,
+          "Vision_World": 40,
+          "Reasoning": 31,
+          "Training_RL": 57,
+          "Multimodal": 48,
+          "Safety_Interp": 42,
+          "Embodied": 5,
+          "Efficiency": 8
+        },
+        "Reasoning": {
+          "Reasoning": 187,
+          "Multimodal": 20,
+          "Training_RL": 29,
+          "Safety_Interp": 17,
+          "Science_Eval": 31,
+          "Architecture": 22,
+          "Agents": 33,
+          "Efficiency": 12,
+          "Embodied": 20,
+          "Vision_World": 17
+        },
+        "Embodied": {
+          "Agents": 27,
+          "Training_RL": 11,
+          "Embodied": 102,
+          "Architecture": 4,
+          "Vision_World": 8,
+          "Multimodal": 15,
+          "Science_Eval": 5,
+          "Reasoning": 20,
+          "Safety_Interp": 5,
+          "Efficiency": 5
+        },
+        "Efficiency": {
+          "Vision_World": 25,
+          "Efficiency": 102,
+          "Multimodal": 8,
+          "Reasoning": 12,
+          "Training_RL": 18,
+          "Safety_Interp": 9,
+          "Science_Eval": 8,
+          "Architecture": 19,
+          "Agents": 4,
+          "Embodied": 5
+        }
+      },
+      "top_orgs": [
+        [
+          "Sea AI Lab",
+          2
+        ],
+        [
+          "CodeFuse AI",
+          2
+        ],
+        [
+          "Microsoft",
+          1
+        ],
+        [
+          "Max Planck Institute for Intelligent Systems",
+          1
+        ],
+        [
+          "NousResearch",
+          1
+        ],
+        [
+          "Adobe",
+          1
+        ],
+        [
+          "r-three",
+          1
+        ],
+        [
+          "University of Notre Dame DM2 Lab",
+          1
+        ],
+        [
+          "Pointcept",
+          1
+        ],
+        [
+          "Multimedia Intelligent Processing Group in Communication University of China",
+          1
+        ]
+      ],
+      "top_papers": [
+        {
+          "arxiv_id": "2312.11514",
+          "title": "LLM in a flash: Efficient Large Language Model Inference with Limited Memory",
+          "date": "2023-12-20",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 260,
+          "organization": "",
+          "primary_domain": "Efficiency",
+          "domains": [
+            "Efficiency"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2312.11514",
+          "arxiv_url": "https://arxiv.org/abs/2312.11514"
+        },
+        {
+          "arxiv_id": "2307.09288",
+          "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+          "date": "2023-07-19",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 250,
+          "organization": "",
+          "primary_domain": "Safety_Interp",
+          "domains": [
+            "Safety_Interp",
+            "Training_RL",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/facebookresearch/llama",
+          "hf_url": "https://huggingface.co/papers/2307.09288",
+          "arxiv_url": "https://arxiv.org/abs/2307.09288"
+        },
+        {
+          "arxiv_id": "2311.12983",
+          "title": "GAIA: a benchmark for General AI Assistants",
+          "date": "2023-11-23",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 246,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "harness_skills",
+            "ai4science",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2311.12983",
+          "arxiv_url": "https://arxiv.org/abs/2311.12983"
+        },
+        {
+          "arxiv_id": "2308.04079",
+          "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+          "date": "2023-08-09",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 199,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "3d_gs_mesh"
+          ],
+          "github_repo": "https://github.com/graphdeco-inria/gaussian-splatting",
+          "hf_url": "https://huggingface.co/papers/2308.04079",
+          "arxiv_url": "https://arxiv.org/abs/2308.04079"
+        },
+        {
+          "arxiv_id": "2307.08621",
+          "title": "Retentive Network: A Successor to Transformer for Large Language Models",
+          "date": "2023-07-18",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 173,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "ssm_linear"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2307.08621",
+          "arxiv_url": "https://arxiv.org/abs/2307.08621"
+        },
+        {
+          "arxiv_id": "2306.05284",
+          "title": "Simple and Controllable Music Generation",
+          "date": "2023-06-09",
+          "year": "2023",
+          "quarter": "2023-Q2",
+          "upvotes": 165,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/facebookresearch/audiocraft",
+          "hf_url": "https://huggingface.co/papers/2306.05284",
+          "arxiv_url": "https://arxiv.org/abs/2306.05284"
+        },
+        {
+          "arxiv_id": "2306.11644",
+          "title": "Textbooks Are All You Need",
+          "date": "2023-06-21",
+          "year": "2023",
+          "quarter": "2023-Q2",
+          "upvotes": 154,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Agents",
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2306.11644",
+          "arxiv_url": "https://arxiv.org/abs/2306.11644"
+        },
+        {
+          "arxiv_id": "2312.00752",
+          "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+          "date": "2023-12-04",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 150,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "ssm_linear"
+          ],
+          "github_repo": "https://github.com/state-spaces/mamba",
+          "hf_url": "https://huggingface.co/papers/2312.00752",
+          "arxiv_url": "https://arxiv.org/abs/2312.00752"
+        },
+        {
+          "arxiv_id": "2311.10770",
+          "title": "Exponentially Faster Language Modelling",
+          "date": "2023-11-21",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 119,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/pbelcak/fastbert",
+          "hf_url": "https://huggingface.co/papers/2311.10770",
+          "arxiv_url": "https://arxiv.org/abs/2311.10770"
+        },
+        {
+          "arxiv_id": "2306.07954",
+          "title": "Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation",
+          "date": "2023-06-14",
+          "year": "2023",
+          "quarter": "2023-Q2",
+          "upvotes": 113,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "img_flow"
+          ],
+          "github_repo": "https://github.com/williamyang1991/rerender_a_video",
+          "hf_url": "https://huggingface.co/papers/2306.07954",
+          "arxiv_url": "https://arxiv.org/abs/2306.07954"
+        },
+        {
+          "arxiv_id": "2308.16512",
+          "title": "MVDream: Multi-view Diffusion for 3D Generation",
+          "date": "2023-09-01",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 106,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "data_synth",
+            "3d_gs_mesh"
+          ],
+          "github_repo": "https://github.com/bytedance/MVDream",
+          "hf_url": "https://huggingface.co/papers/2308.16512",
+          "arxiv_url": "https://arxiv.org/abs/2308.16512"
+        },
+        {
+          "arxiv_id": "2310.11453",
+          "title": "BitNet: Scaling 1-bit Transformers for Large Language Models",
+          "date": "2023-10-18",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 106,
+          "organization": "",
+          "primary_domain": "Efficiency",
+          "domains": [
+            "Efficiency",
+            "Architecture"
+          ],
+          "subtopics": [
+            "quant_lowbit"
+          ],
+          "github_repo": "https://github.com/Beomi/BitNet-Transformers",
+          "hf_url": "https://huggingface.co/papers/2310.11453",
+          "arxiv_url": "https://arxiv.org/abs/2310.11453"
+        },
+        {
+          "arxiv_id": "2307.16789",
+          "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+          "date": "2023-07-31",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 102,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "harness_skills"
+          ],
+          "github_repo": "https://github.com/openbmb/toolbench",
+          "hf_url": "https://huggingface.co/papers/2307.16789",
+          "arxiv_url": "https://arxiv.org/abs/2307.16789"
+        },
+        {
+          "arxiv_id": "2311.06242",
+          "title": "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks",
+          "date": "2023-11-13",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 95,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Multimodal",
+            "Vision_World"
+          ],
+          "subtopics": [
+            "vlm_video_und"
+          ],
+          "github_repo": "https://github.com/retkowsky/florence-2",
+          "hf_url": "https://huggingface.co/papers/2311.06242",
+          "arxiv_url": "https://arxiv.org/abs/2311.06242"
+        },
+        {
+          "arxiv_id": "2307.01952",
+          "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+          "date": "2023-07-06",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 90,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "img_flow"
+          ],
+          "github_repo": "https://github.com/stability-ai/generative-models",
+          "hf_url": "https://huggingface.co/papers/2307.01952",
+          "arxiv_url": "https://arxiv.org/abs/2307.01952"
+        },
+        {
+          "arxiv_id": "2309.12307",
+          "title": "LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models",
+          "date": "2023-09-22",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 90,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "kv_speculative"
+          ],
+          "github_repo": "https://github.com/dvlab-research/longlora",
+          "hf_url": "https://huggingface.co/papers/2309.12307",
+          "arxiv_url": "https://arxiv.org/abs/2309.12307"
+        },
+        {
+          "arxiv_id": "2309.05463",
+          "title": "Textbooks Are All You Need II: phi-1.5 technical report",
+          "date": "2023-09-12",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 89,
+          "organization": "",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Agents",
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2309.05463",
+          "arxiv_url": "https://arxiv.org/abs/2309.05463"
+        },
+        {
+          "arxiv_id": "2309.09400",
+          "title": "CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages",
+          "date": "2023-09-19",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 87,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "fact_unlearn"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2309.09400",
+          "arxiv_url": "https://arxiv.org/abs/2309.09400"
+        },
+        {
+          "arxiv_id": "2311.05556",
+          "title": "LCM-LoRA: A Universal Stable-Diffusion Acceleration Module",
+          "date": "2023-11-10",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 87,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Vision_World"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "data_synth",
+            "img_flow"
+          ],
+          "github_repo": "https://github.com/luosiallen/latent-consistency-model",
+          "hf_url": "https://huggingface.co/papers/2311.05556",
+          "arxiv_url": "https://arxiv.org/abs/2311.05556"
+        },
+        {
+          "arxiv_id": "2309.16588",
+          "title": "Vision Transformers Need Registers",
+          "date": "2023-09-29",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 86,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/facebookresearch/dinov2",
+          "hf_url": "https://huggingface.co/papers/2309.16588",
+          "arxiv_url": "https://arxiv.org/abs/2309.16588"
+        },
+        {
+          "arxiv_id": "2309.10668",
+          "title": "Language Modeling Is Compression",
+          "date": "2023-09-20",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 84,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/google-deepmind/language_modeling_is_compression",
+          "hf_url": "https://huggingface.co/papers/2309.10668",
+          "arxiv_url": "https://arxiv.org/abs/2309.10668"
+        },
+        {
+          "arxiv_id": "2307.02486",
+          "title": "LongNet: Scaling Transformers to 1,000,000,000 Tokens",
+          "date": "2023-07-06",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 82,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture",
+            "Vision_World"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2307.02486",
+          "arxiv_url": "https://arxiv.org/abs/2307.02486"
+        },
+        {
+          "arxiv_id": "2309.09530",
+          "title": "Adapting Large Language Models via Reading Comprehension",
+          "date": "2023-09-19",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 82,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2309.09530",
+          "arxiv_url": "https://arxiv.org/abs/2309.09530"
+        },
+        {
+          "arxiv_id": "2312.02120",
+          "title": "Magicoder: Source Code Is All You Need",
+          "date": "2023-12-05",
+          "year": "2023",
+          "quarter": "2023-Q4",
+          "upvotes": 82,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Safety_Interp",
+            "Science_Eval",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "data_synth",
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/ise-uiuc/magicoder",
+          "hf_url": "https://huggingface.co/papers/2312.02120",
+          "arxiv_url": "https://arxiv.org/abs/2312.02120"
+        },
+        {
+          "arxiv_id": "2309.00071",
+          "title": "YaRN: Efficient Context Window Extension of Large Language Models",
+          "date": "2023-09-03",
+          "year": "2023",
+          "quarter": "2023-Q3",
+          "upvotes": 81,
+          "organization": "NousResearch",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture",
+            "Training_RL"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/qwenlm/qwq",
+          "hf_url": "https://huggingface.co/papers/2309.00071",
+          "arxiv_url": "https://arxiv.org/abs/2309.00071"
+        }
+      ]
+    },
+    "2024": {
+      "total": 3421,
+      "avg_upvotes": 23.88,
+      "github_rate": 55.01,
+      "project_rate": 10.29,
+      "primary_domain": {
+        "Agents": 202,
+        "Vision_World": 778,
+        "Science_Eval": 488,
+        "Multimodal": 550,
+        "Training_RL": 471,
+        "Safety_Interp": 205,
+        "Efficiency": 169,
+        "Embodied": 98,
+        "Reasoning": 240,
+        "Architecture": 220
+      },
+      "multi_domain": {
+        "Agents": 313,
+        "Vision_World": 989,
+        "Science_Eval": 908,
+        "Multimodal": 779,
+        "Reasoning": 410,
+        "Training_RL": 746,
+        "Safety_Interp": 413,
+        "Efficiency": 294,
+        "Architecture": 399,
+        "Embodied": 166
+      },
+      "subtopics": {
+        "harness_skills": 100,
+        "img_flow": 397,
+        "dyn_bench": 1100,
+        "vlm_video_und": 366,
+        "slm_edge": 178,
+        "data_synth": 267,
+        "peft_sft": 273,
+        "dpo_rlhf": 176,
+        "swe_coding": 85,
+        "video_world": 244,
+        "3d_gs_mesh": 223,
+        "kv_speculative": 65,
+        "humanoid_manip": 134,
+        "rag_memory": 92,
+        "omni_fusion": 34,
+        "rlvr_grpo": 17,
+        "doc_ocr_gui": 76,
+        "moe_routing": 76,
+        "ssm_linear": 77,
+        "cot_search": 95,
+        "redteam_guard": 26,
+        "interp_cot_mon": 76,
+        "fact_unlearn": 101,
+        "ai4science": 146,
+        "ttc_scaling": 41,
+        "math_formal": 89,
+        "quant_lowbit": 19,
+        "rsi_self_evol": 16,
+        "dlm_non_ar": 9,
+        "vla_policy": 13,
+        "residual_arch": 7
+      },
+      "cooccurrence": {
+        "Agents": {
+          "Agents": 313,
+          "Vision_World": 24,
+          "Training_RL": 55,
+          "Safety_Interp": 29,
+          "Reasoning": 58,
+          "Architecture": 10,
+          "Science_Eval": 96,
+          "Multimodal": 54,
+          "Embodied": 31,
+          "Efficiency": 5
+        },
+        "Vision_World": {
+          "Agents": 24,
+          "Vision_World": 989,
+          "Multimodal": 107,
+          "Training_RL": 140,
+          "Science_Eval": 90,
+          "Safety_Interp": 65,
+          "Reasoning": 27,
+          "Architecture": 74,
+          "Efficiency": 55,
+          "Embodied": 26
+        },
+        "Science_Eval": {
+          "Science_Eval": 908,
+          "Training_RL": 148,
+          "Reasoning": 125,
+          "Safety_Interp": 93,
+          "Efficiency": 44,
+          "Vision_World": 90,
+          "Agents": 96,
+          "Architecture": 70,
+          "Multimodal": 161,
+          "Embodied": 24
+        },
+        "Multimodal": {
+          "Multimodal": 779,
+          "Reasoning": 94,
+          "Training_RL": 98,
+          "Vision_World": 107,
+          "Efficiency": 30,
+          "Architecture": 64,
+          "Embodied": 26,
+          "Science_Eval": 161,
+          "Agents": 54,
+          "Safety_Interp": 70
+        },
+        "Reasoning": {
+          "Multimodal": 94,
+          "Reasoning": 410,
+          "Training_RL": 84,
+          "Science_Eval": 125,
+          "Safety_Interp": 27,
+          "Agents": 58,
+          "Architecture": 32,
+          "Efficiency": 21,
+          "Vision_World": 27,
+          "Embodied": 12
+        },
+        "Training_RL": {
+          "Training_RL": 746,
+          "Science_Eval": 148,
+          "Reasoning": 84,
+          "Safety_Interp": 117,
+          "Agents": 55,
+          "Efficiency": 75,
+          "Multimodal": 98,
+          "Vision_World": 140,
+          "Architecture": 77,
+          "Embodied": 23
+        },
+        "Safety_Interp": {
+          "Training_RL": 117,
+          "Science_Eval": 93,
+          "Reasoning": 27,
+          "Safety_Interp": 413,
+          "Agents": 29,
+          "Vision_World": 65,
+          "Efficiency": 26,
+          "Architecture": 18,
+          "Multimodal": 70,
+          "Embodied": 9
+        },
+        "Efficiency": {
+          "Training_RL": 75,
+          "Efficiency": 294,
+          "Science_Eval": 44,
+          "Multimodal": 30,
+          "Architecture": 46,
+          "Reasoning": 21,
+          "Safety_Interp": 26,
+          "Embodied": 2,
+          "Vision_World": 55,
+          "Agents": 5
+        },
+        "Architecture": {
+          "Agents": 10,
+          "Reasoning": 32,
+          "Training_RL": 77,
+          "Architecture": 399,
+          "Multimodal": 64,
+          "Efficiency": 46,
+          "Science_Eval": 70,
+          "Safety_Interp": 18,
+          "Vision_World": 74,
+          "Embodied": 13
+        },
+        "Embodied": {
+          "Embodied": 166,
+          "Multimodal": 26,
+          "Efficiency": 2,
+          "Vision_World": 26,
+          "Science_Eval": 24,
+          "Reasoning": 12,
+          "Agents": 31,
+          "Architecture": 13,
+          "Safety_Interp": 9,
+          "Training_RL": 23
+        }
+      },
+      "top_orgs": [
+        [
+          "DeepSeek",
+          10
+        ],
+        [
+          "math-ai",
+          4
+        ],
+        [
+          "NVIDIA",
+          4
+        ],
+        [
+          "University of Notre Dame DM2 Lab",
+          4
+        ],
+        [
+          "T-Tech",
+          3
+        ],
+        [
+          "Jina AI",
+          3
+        ],
+        [
+          "CIS, LMU Munich",
+          3
+        ],
+        [
+          "Mohamed Bin Zayed University of Artificial Intelligence",
+          3
+        ],
+        [
+          "The Fin AI",
+          2
+        ],
+        [
+          "HUAWEI Noah's Ark Lab",
+          2
+        ],
+        [
+          "Sony",
+          2
+        ],
+        [
+          "LG AI Research",
+          2
+        ],
+        [
+          "OpenBMB",
+          2
+        ],
+        [
+          "OpenAI",
+          2
+        ],
+        [
+          "McGill NLP Group",
+          1
+        ]
+      ],
+      "top_papers": [
+        {
+          "arxiv_id": "2402.17764",
+          "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+          "date": "2024-02-28",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 627,
+          "organization": "",
+          "primary_domain": "Efficiency",
+          "domains": [
+            "Efficiency"
+          ],
+          "subtopics": [
+            "quant_lowbit"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2402.17764",
+          "arxiv_url": "https://arxiv.org/abs/2402.17764"
+        },
+        {
+          "arxiv_id": "2412.15115",
+          "title": "Qwen2.5 Technical Report",
+          "date": "2024-12-20",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 377,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/QwenLM/Qwen2.5",
+          "hf_url": "https://huggingface.co/papers/2412.15115",
+          "arxiv_url": "https://arxiv.org/abs/2412.15115"
+        },
+        {
+          "arxiv_id": "2404.14219",
+          "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+          "date": "2024-04-23",
+          "year": "2024",
+          "quarter": "2024-Q2",
+          "upvotes": 259,
+          "organization": "Microsoft",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Safety_Interp",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "data_synth",
+            "slm_edge",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2404.14219",
+          "arxiv_url": "https://arxiv.org/abs/2404.14219"
+        },
+        {
+          "arxiv_id": "2410.18057",
+          "title": "CLEAR: Character Unlearning in Textual and Visual Modalities",
+          "date": "2024-10-30",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 209,
+          "organization": "",
+          "primary_domain": "Safety_Interp",
+          "domains": [
+            "Safety_Interp",
+            "Multimodal"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "fact_unlearn",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/somvy/multimodal_unlearning",
+          "hf_url": "https://huggingface.co/papers/2410.18057",
+          "arxiv_url": "https://arxiv.org/abs/2410.18057"
+        },
+        {
+          "arxiv_id": "2402.17485",
+          "title": "EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions",
+          "date": "2024-02-28",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 194,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "video_world"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2402.17485",
+          "arxiv_url": "https://arxiv.org/abs/2402.17485"
+        },
+        {
+          "arxiv_id": "2401.00908",
+          "title": "DocLLM: A layout-aware generative language model for multimodal document understanding",
+          "date": "2024-01-02",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 189,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal"
+          ],
+          "subtopics": [
+            "slm_edge"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2401.00908",
+          "arxiv_url": "https://arxiv.org/abs/2401.00908"
+        },
+        {
+          "arxiv_id": "2403.03507",
+          "title": "GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection",
+          "date": "2024-03-07",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 189,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Efficiency"
+          ],
+          "subtopics": [
+            "peft_sft"
+          ],
+          "github_repo": "https://github.com/jiaweizzhao/galore",
+          "hf_url": "https://huggingface.co/papers/2403.03507",
+          "arxiv_url": "https://arxiv.org/abs/2403.03507"
+        },
+        {
+          "arxiv_id": "2403.13372",
+          "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+          "date": "2024-03-21",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 182,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/hiyouga/LLaMA-Factory",
+          "hf_url": "https://huggingface.co/papers/2403.13372",
+          "arxiv_url": "https://arxiv.org/abs/2403.13372"
+        },
+        {
+          "arxiv_id": "2410.05258",
+          "title": "Differential Transformer",
+          "date": "2024-10-08",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 181,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "residual_arch",
+            "fact_unlearn"
+          ],
+          "github_repo": "https://github.com/microsoft/unilm",
+          "hf_url": "https://huggingface.co/papers/2410.05258",
+          "arxiv_url": "https://arxiv.org/abs/2410.05258"
+        },
+        {
+          "arxiv_id": "2408.04619",
+          "title": "Transformer Explainer: Interactive Learning of Text-Generative Models",
+          "date": "2024-08-09",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 175,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "math_formal"
+          ],
+          "github_repo": "https://github.com/poloclub/transformer-explainer",
+          "hf_url": "https://huggingface.co/papers/2408.04619",
+          "arxiv_url": "https://arxiv.org/abs/2408.04619"
+        },
+        {
+          "arxiv_id": "2407.10671",
+          "title": "Qwen2 Technical Report",
+          "date": "2024-07-16",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 168,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval",
+            "Training_RL",
+            "Reasoning",
+            "Agents"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/qwenlm/qwen2",
+          "hf_url": "https://huggingface.co/papers/2407.10671",
+          "arxiv_url": "https://arxiv.org/abs/2407.10671"
+        },
+        {
+          "arxiv_id": "2412.13663",
+          "title": "Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+          "date": "2024-12-19",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 161,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2412.13663",
+          "arxiv_url": "https://arxiv.org/abs/2412.13663"
+        },
+        {
+          "arxiv_id": "2401.04088",
+          "title": "Mixtral of Experts",
+          "date": "2024-01-09",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 160,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/pwc-1/Paper-9",
+          "hf_url": "https://huggingface.co/papers/2401.04088",
+          "arxiv_url": "https://arxiv.org/abs/2401.04088"
+        },
+        {
+          "arxiv_id": "2412.05271",
+          "title": "Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",
+          "date": "2024-12-09",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 160,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal",
+            "Reasoning",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "cot_search",
+            "ttc_scaling",
+            "vlm_video_und",
+            "doc_ocr_gui",
+            "fact_unlearn"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2412.05271",
+          "arxiv_url": "https://arxiv.org/abs/2412.05271"
+        },
+        {
+          "arxiv_id": "2405.12250",
+          "title": "Your Transformer is Secretly Linear",
+          "date": "2024-05-22",
+          "year": "2024",
+          "quarter": "2024-Q2",
+          "upvotes": 157,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/AIRI-Institute/LLM-Microscope",
+          "hf_url": "https://huggingface.co/papers/2405.12250",
+          "arxiv_url": "https://arxiv.org/abs/2405.12250"
+        },
+        {
+          "arxiv_id": "2402.19173",
+          "title": "StarCoder 2 and The Stack v2: The Next Generation",
+          "date": "2024-03-01",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 154,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2402.19173",
+          "arxiv_url": "https://arxiv.org/abs/2402.19173"
+        },
+        {
+          "arxiv_id": "2409.12186",
+          "title": "Qwen2.5-Coder Technical Report",
+          "date": "2024-09-19",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 153,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Training_RL",
+            "Reasoning",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "data_synth",
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/MindCode-4/code-2",
+          "hf_url": "https://huggingface.co/papers/2409.12186",
+          "arxiv_url": "https://arxiv.org/abs/2409.12186"
+        },
+        {
+          "arxiv_id": "2401.10020",
+          "title": "Self-Rewarding Language Models",
+          "date": "2024-01-18",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 152,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Agents",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "dpo_rlhf",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/gagan3012/self_rewarding_models",
+          "hf_url": "https://huggingface.co/papers/2401.10020",
+          "arxiv_url": "https://arxiv.org/abs/2401.10020"
+        },
+        {
+          "arxiv_id": "2410.00907",
+          "title": "Addition is All You Need for Energy-efficient Language Models",
+          "date": "2024-10-07",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 151,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture",
+            "Training_RL",
+            "Reasoning",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2410.00907",
+          "arxiv_url": "https://arxiv.org/abs/2410.00907"
+        },
+        {
+          "arxiv_id": "2412.10360",
+          "title": "Apollo: An Exploration of Video Understanding in Large Multimodal Models",
+          "date": "2024-12-16",
+          "year": "2024",
+          "quarter": "2024-Q4",
+          "upvotes": 147,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal"
+          ],
+          "subtopics": [
+            "vlm_video_und"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2412.10360",
+          "arxiv_url": "https://arxiv.org/abs/2412.10360"
+        },
+        {
+          "arxiv_id": "2408.14906",
+          "title": "Writing in the Margins: Better Inference Pattern for Long Context Retrieval",
+          "date": "2024-08-28",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 144,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Reasoning",
+            "Agents",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "rag_memory"
+          ],
+          "github_repo": "https://github.com/writer/writing-in-the-margins",
+          "hf_url": "https://huggingface.co/papers/2408.14906",
+          "arxiv_url": "https://arxiv.org/abs/2408.14906"
+        },
+        {
+          "arxiv_id": "2402.03300",
+          "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "date": "2024-02-06",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 141,
+          "organization": "DeepSeek",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "rlvr_grpo",
+            "data_synth",
+            "math_formal",
+            "harness_skills",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/deepseek-ai/deepseek-math",
+          "hf_url": "https://huggingface.co/papers/2402.03300",
+          "arxiv_url": "https://arxiv.org/abs/2402.03300"
+        },
+        {
+          "arxiv_id": "2409.12917",
+          "title": "Training Language Models to Self-Correct via Reinforcement Learning",
+          "date": "2024-09-20",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 140,
+          "organization": "",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/daje0601/Google_SCoRe",
+          "hf_url": "https://huggingface.co/papers/2409.12917",
+          "arxiv_url": "https://arxiv.org/abs/2409.12917"
+        },
+        {
+          "arxiv_id": "2407.09025",
+          "title": "SpreadsheetLLM: Encoding Spreadsheets for Large Language Models",
+          "date": "2024-07-15",
+          "year": "2024",
+          "quarter": "2024-Q3",
+          "upvotes": 139,
+          "organization": "",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Architecture",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "doc_ocr_gui"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2407.09025",
+          "arxiv_url": "https://arxiv.org/abs/2407.09025"
+        },
+        {
+          "arxiv_id": "2402.14905",
+          "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+          "date": "2024-02-26",
+          "year": "2024",
+          "quarter": "2024-Q1",
+          "upvotes": 134,
+          "organization": "",
+          "primary_domain": "Efficiency",
+          "domains": [
+            "Efficiency"
+          ],
+          "subtopics": [
+            "slm_edge",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/facebookresearch/mobilellm",
+          "hf_url": "https://huggingface.co/papers/2402.14905",
+          "arxiv_url": "https://arxiv.org/abs/2402.14905"
+        }
+      ]
+    },
+    "2025": {
+      "total": 6466,
+      "avg_upvotes": 24.71,
+      "github_rate": 69.66,
+      "project_rate": 44.42,
+      "primary_domain": {
+        "Multimodal": 962,
+        "Reasoning": 1156,
+        "Vision_World": 861,
+        "Agents": 634,
+        "Architecture": 284,
+        "Safety_Interp": 359,
+        "Training_RL": 858,
+        "Embodied": 244,
+        "Science_Eval": 830,
+        "Efficiency": 278
+      },
+      "multi_domain": {
+        "Multimodal": 1620,
+        "Agents": 1019,
+        "Training_RL": 1646,
+        "Reasoning": 1930,
+        "Vision_World": 1340,
+        "Science_Eval": 1784,
+        "Architecture": 621,
+        "Safety_Interp": 854,
+        "Efficiency": 592,
+        "Embodied": 433
+      },
+      "subtopics": {
+        "dpo_rlhf": 268,
+        "data_synth": 503,
+        "vlm_video_und": 968,
+        "doc_ocr_gui": 157,
+        "dyn_bench": 2821,
+        "peft_sft": 605,
+        "img_flow": 543,
+        "math_formal": 423,
+        "video_world": 492,
+        "swe_coding": 236,
+        "harness_skills": 368,
+        "cot_search": 476,
+        "ai4science": 270,
+        "slm_edge": 460,
+        "ssm_linear": 85,
+        "humanoid_manip": 318,
+        "omni_fusion": 87,
+        "ttc_scaling": 347,
+        "rag_memory": 216,
+        "redteam_guard": 69,
+        "3d_gs_mesh": 187,
+        "rlvr_grpo": 445,
+        "fact_unlearn": 187,
+        "rsi_self_evol": 70,
+        "vla_policy": 122,
+        "kv_speculative": 142,
+        "moe_routing": 139,
+        "interp_cot_mon": 219,
+        "quant_lowbit": 36,
+        "dlm_non_ar": 71,
+        "residual_arch": 7
+      },
+      "cooccurrence": {
+        "Multimodal": {
+          "Multimodal": 1620,
+          "Agents": 188,
+          "Training_RL": 313,
+          "Reasoning": 463,
+          "Science_Eval": 396,
+          "Safety_Interp": 169,
+          "Architecture": 93,
+          "Vision_World": 248,
+          "Embodied": 139,
+          "Efficiency": 82
+        },
+        "Agents": {
+          "Multimodal": 188,
+          "Agents": 1019,
+          "Training_RL": 226,
+          "Reasoning": 342,
+          "Science_Eval": 269,
+          "Vision_World": 43,
+          "Safety_Interp": 79,
+          "Embodied": 61,
+          "Efficiency": 38,
+          "Architecture": 26
+        },
+        "Training_RL": {
+          "Multimodal": 313,
+          "Agents": 226,
+          "Training_RL": 1646,
+          "Vision_World": 243,
+          "Safety_Interp": 206,
+          "Science_Eval": 289,
+          "Architecture": 135,
+          "Efficiency": 121,
+          "Reasoning": 590,
+          "Embodied": 76
+        },
+        "Reasoning": {
+          "Reasoning": 1930,
+          "Agents": 342,
+          "Multimodal": 463,
+          "Science_Eval": 430,
+          "Efficiency": 103,
+          "Embodied": 97,
+          "Vision_World": 127,
+          "Architecture": 81,
+          "Training_RL": 590,
+          "Safety_Interp": 145
+        },
+        "Vision_World": {
+          "Vision_World": 1340,
+          "Training_RL": 243,
+          "Architecture": 159,
+          "Safety_Interp": 143,
+          "Science_Eval": 234,
+          "Reasoning": 127,
+          "Agents": 43,
+          "Multimodal": 248,
+          "Embodied": 97,
+          "Efficiency": 119
+        },
+        "Science_Eval": {
+          "Agents": 269,
+          "Science_Eval": 1784,
+          "Reasoning": 430,
+          "Multimodal": 396,
+          "Efficiency": 98,
+          "Training_RL": 289,
+          "Vision_World": 234,
+          "Safety_Interp": 200,
+          "Architecture": 116,
+          "Embodied": 63
+        },
+        "Architecture": {
+          "Architecture": 621,
+          "Vision_World": 159,
+          "Safety_Interp": 69,
+          "Science_Eval": 116,
+          "Training_RL": 135,
+          "Multimodal": 93,
+          "Efficiency": 114,
+          "Reasoning": 81,
+          "Embodied": 18,
+          "Agents": 26
+        },
+        "Safety_Interp": {
+          "Safety_Interp": 854,
+          "Multimodal": 169,
+          "Vision_World": 143,
+          "Architecture": 69,
+          "Training_RL": 206,
+          "Science_Eval": 200,
+          "Efficiency": 59,
+          "Embodied": 35,
+          "Agents": 79,
+          "Reasoning": 145
+        },
+        "Efficiency": {
+          "Reasoning": 103,
+          "Efficiency": 592,
+          "Science_Eval": 98,
+          "Architecture": 114,
+          "Training_RL": 121,
+          "Vision_World": 119,
+          "Safety_Interp": 59,
+          "Multimodal": 82,
+          "Agents": 38,
+          "Embodied": 22
+        },
+        "Embodied": {
+          "Reasoning": 97,
+          "Embodied": 433,
+          "Vision_World": 97,
+          "Multimodal": 139,
+          "Safety_Interp": 35,
+          "Training_RL": 76,
+          "Architecture": 18,
+          "Agents": 61,
+          "Science_Eval": 63,
+          "Efficiency": 22
+        }
+      },
+      "top_orgs": [
+        [
+          "ByteDance Seed",
+          52
+        ],
+        [
+          "NVIDIA",
+          50
+        ],
+        [
+          "Tencent",
+          38
+        ],
+        [
+          "AI at Meta",
+          33
+        ],
+        [
+          "Peking University",
+          23
+        ],
+        [
+          "ByteDance",
+          22
+        ],
+        [
+          "Google",
+          19
+        ],
+        [
+          "Apple",
+          18
+        ],
+        [
+          "Microsoft",
+          17
+        ],
+        [
+          "KAIST AI",
+          16
+        ],
+        [
+          "National University of Singapore",
+          15
+        ],
+        [
+          "Tsinghua University",
+          15
+        ],
+        [
+          "TongyiLab",
+          15
+        ],
+        [
+          "Salesforce",
+          13
+        ],
+        [
+          "Amazon",
+          13
+        ]
+      ],
+      "top_papers": [
+        {
+          "arxiv_id": "2509.08721",
+          "title": "Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing",
+          "date": "2025-09-10",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 662,
+          "organization": "Gensyn",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft"
+          ],
+          "github_repo": "https://github.com/gensyn-ai/rl-swarm",
+          "hf_url": "https://huggingface.co/papers/2509.08721",
+          "arxiv_url": "https://arxiv.org/abs/2509.08721"
+        },
+        {
+          "arxiv_id": "2509.26507",
+          "title": "The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain",
+          "date": "2025-10-01",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 547,
+          "organization": "Pathway",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture",
+            "Safety_Interp"
+          ],
+          "subtopics": [
+            "ssm_linear",
+            "residual_arch",
+            "interp_cot_mon"
+          ],
+          "github_repo": "https://github.com/pathwaycom/bdh",
+          "hf_url": "https://huggingface.co/papers/2509.26507",
+          "arxiv_url": "https://arxiv.org/abs/2509.26507"
+        },
+        {
+          "arxiv_id": "2510.04871",
+          "title": "Less is More: Recursive Reasoning with Tiny Networks",
+          "date": "2025-10-08",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 509,
+          "organization": "Samsung  AI Lab (SAIL) Montreal",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning"
+          ],
+          "subtopics": [
+            "slm_edge"
+          ],
+          "github_repo": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+          "hf_url": "https://huggingface.co/papers/2510.04871",
+          "arxiv_url": "https://arxiv.org/abs/2510.04871"
+        },
+        {
+          "arxiv_id": "2501.12948",
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "date": "2025-01-23",
+          "year": "2025",
+          "quarter": "2025-Q1",
+          "upvotes": 442,
+          "organization": "DeepSeek",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft"
+          ],
+          "github_repo": "https://github.com/deepseek-ai/deepseek-r1",
+          "hf_url": "https://huggingface.co/papers/2501.12948",
+          "arxiv_url": "https://arxiv.org/abs/2501.12948"
+        },
+        {
+          "arxiv_id": "2508.18106",
+          "title": "A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code",
+          "date": "2025-09-01",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 349,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Safety_Interp",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/Tencent/AICGSecEval",
+          "hf_url": "https://huggingface.co/papers/2508.18106",
+          "arxiv_url": "https://arxiv.org/abs/2508.18106"
+        },
+        {
+          "arxiv_id": "2505.09388",
+          "title": "Qwen3 Technical Report",
+          "date": "2025-05-19",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 338,
+          "organization": "Qwen",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Science_Eval",
+            "Agents",
+            "Architecture"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "math_formal",
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/QwenLM/Qwen3",
+          "hf_url": "https://huggingface.co/papers/2505.09388",
+          "arxiv_url": "https://arxiv.org/abs/2505.09388"
+        },
+        {
+          "arxiv_id": "2507.18071",
+          "title": "Group Sequence Policy Optimization",
+          "date": "2025-07-25",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 319,
+          "organization": "Qwen",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "rlvr_grpo"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2507.18071",
+          "arxiv_url": "https://arxiv.org/abs/2507.18071"
+        },
+        {
+          "arxiv_id": "2504.10479",
+          "title": "InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models",
+          "date": "2025-04-15",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 306,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal",
+            "Training_RL",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "dpo_rlhf",
+            "ttc_scaling",
+            "vlm_video_und",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/OpenGVLab/InternVL",
+          "hf_url": "https://huggingface.co/papers/2504.10479",
+          "arxiv_url": "https://arxiv.org/abs/2504.10479"
+        },
+        {
+          "arxiv_id": "2504.01990",
+          "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+          "date": "2025-04-04",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 303,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "harness_skills",
+            "rag_memory"
+          ],
+          "github_repo": "https://github.com/FoundationAgents/awesome-foundation-agents",
+          "hf_url": "https://huggingface.co/papers/2504.01990",
+          "arxiv_url": "https://arxiv.org/abs/2504.01990"
+        },
+        {
+          "arxiv_id": "2511.18538",
+          "title": "From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence",
+          "date": "2025-12-02",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 301,
+          "organization": "Beihang University",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Agents"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "data_synth",
+            "interp_cot_mon",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2511.18538",
+          "arxiv_url": "https://arxiv.org/abs/2511.18538"
+        },
+        {
+          "arxiv_id": "2501.08313",
+          "title": "MiniMax-01: Scaling Foundation Models with Lightning Attention",
+          "date": "2025-01-15",
+          "year": "2025",
+          "quarter": "2025-Q1",
+          "upvotes": 300,
+          "organization": "",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [
+            "ssm_linear",
+            "moe_routing",
+            "vlm_video_und",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/MiniMax-AI/MiniMax-01",
+          "hf_url": "https://huggingface.co/papers/2501.08313",
+          "arxiv_url": "https://arxiv.org/abs/2501.08313"
+        },
+        {
+          "arxiv_id": "2508.10104",
+          "title": "DINOv3",
+          "date": "2025-08-18",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 299,
+          "organization": "AI at Meta",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Safety_Interp"
+          ],
+          "subtopics": [],
+          "github_repo": "https://github.com/facebookresearch/dinov3",
+          "hf_url": "https://huggingface.co/papers/2508.10104",
+          "arxiv_url": "https://arxiv.org/abs/2508.10104"
+        },
+        {
+          "arxiv_id": "2501.04519",
+          "title": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
+          "date": "2025-01-09",
+          "year": "2025",
+          "quarter": "2025-Q1",
+          "upvotes": 288,
+          "organization": "",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning"
+          ],
+          "subtopics": [
+            "dpo_rlhf",
+            "data_synth",
+            "cot_search",
+            "ttc_scaling",
+            "math_formal"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2501.04519",
+          "arxiv_url": "https://arxiv.org/abs/2501.04519"
+        },
+        {
+          "arxiv_id": "2505.24726",
+          "title": "Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning",
+          "date": "2025-06-04",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 277,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "data_synth",
+            "rsi_self_evol"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2505.24726",
+          "arxiv_url": "https://arxiv.org/abs/2505.24726"
+        },
+        {
+          "arxiv_id": "2506.13585",
+          "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
+          "date": "2025-06-17",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 273,
+          "organization": "",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Architecture",
+            "Agents"
+          ],
+          "subtopics": [
+            "ssm_linear",
+            "moe_routing",
+            "ttc_scaling",
+            "swe_coding",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/MiniMax-AI/MiniMax-M1",
+          "hf_url": "https://huggingface.co/papers/2506.13585",
+          "arxiv_url": "https://arxiv.org/abs/2506.13585"
+        },
+        {
+          "arxiv_id": "2510.08558",
+          "title": "Agent Learning via Early Experience",
+          "date": "2025-10-10",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 273,
+          "organization": "Meta Research",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "harness_skills"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2510.08558",
+          "arxiv_url": "https://arxiv.org/abs/2510.08558"
+        },
+        {
+          "arxiv_id": "2508.02324",
+          "title": "Qwen-Image Technical Report",
+          "date": "2025-08-05",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 272,
+          "organization": "",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World"
+          ],
+          "subtopics": [
+            "img_flow",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/QwenLM/Qwen-Image",
+          "hf_url": "https://huggingface.co/papers/2508.02324",
+          "arxiv_url": "https://arxiv.org/abs/2508.02324"
+        },
+        {
+          "arxiv_id": "2508.15763",
+          "title": "Intern-S1: A Scientific Multimodal Foundation Model",
+          "date": "2025-08-22",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 270,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval",
+            "Multimodal",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "moe_routing",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/InternLM/Intern-S1",
+          "hf_url": "https://huggingface.co/papers/2508.15763",
+          "arxiv_url": "https://arxiv.org/abs/2508.15763"
+        },
+        {
+          "arxiv_id": "2506.08007",
+          "title": "Reinforcement Pre-Training",
+          "date": "2025-06-10",
+          "year": "2025",
+          "quarter": "2025-Q2",
+          "upvotes": 263,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "rlvr_grpo"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2506.08007",
+          "arxiv_url": "https://arxiv.org/abs/2506.08007"
+        },
+        {
+          "arxiv_id": "2507.13334",
+          "title": "A Survey of Context Engineering for Large Language Models",
+          "date": "2025-07-18",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 261,
+          "organization": "",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval",
+            "Reasoning",
+            "Agents"
+          ],
+          "subtopics": [
+            "harness_skills",
+            "rag_memory"
+          ],
+          "github_repo": "https://github.com/Meirtz/Awesome-Context-Engineering",
+          "hf_url": "https://huggingface.co/papers/2507.13334",
+          "arxiv_url": "https://arxiv.org/abs/2507.13334"
+        },
+        {
+          "arxiv_id": "2512.02556",
+          "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+          "date": "2025-12-03",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 261,
+          "organization": "DeepSeek",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Training_RL",
+            "Agents"
+          ],
+          "subtopics": [
+            "math_formal",
+            "harness_skills"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2512.02556",
+          "arxiv_url": "https://arxiv.org/abs/2512.02556"
+        },
+        {
+          "arxiv_id": "2502.02737",
+          "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+          "date": "2025-02-06",
+          "year": "2025",
+          "quarter": "2025-Q1",
+          "upvotes": 256,
+          "organization": "Hugging Face Smol Models Research",
+          "primary_domain": "Efficiency",
+          "domains": [
+            "Efficiency",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "slm_edge"
+          ],
+          "github_repo": "https://github.com/huggingface/smollm",
+          "hf_url": "https://huggingface.co/papers/2502.02737",
+          "arxiv_url": "https://arxiv.org/abs/2502.02737"
+        },
+        {
+          "arxiv_id": "2507.01006",
+          "title": "GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
+          "date": "2025-07-02",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 251,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal",
+            "Reasoning",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "vlm_video_und",
+            "doc_ocr_gui",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/THUDM/GLM-4.1V-Thinking",
+          "hf_url": "https://huggingface.co/papers/2507.01006",
+          "arxiv_url": "https://arxiv.org/abs/2507.01006"
+        },
+        {
+          "arxiv_id": "2509.09372",
+          "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model",
+          "date": "2025-09-12",
+          "year": "2025",
+          "quarter": "2025-Q3",
+          "upvotes": 249,
+          "organization": "",
+          "primary_domain": "Embodied",
+          "domains": [
+            "Embodied",
+            "Multimodal"
+          ],
+          "subtopics": [
+            "slm_edge",
+            "vlm_video_und",
+            "vla_policy",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/OpenHelix-Team/VLA-Adapter",
+          "hf_url": "https://huggingface.co/papers/2509.09372",
+          "arxiv_url": "https://arxiv.org/abs/2509.09372"
+        },
+        {
+          "arxiv_id": "2511.22699",
+          "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
+          "date": "2025-12-01",
+          "year": "2025",
+          "quarter": "2025-Q4",
+          "upvotes": 244,
+          "organization": "Tongyi-MAI",
+          "primary_domain": "Vision_World",
+          "domains": [
+            "Vision_World",
+            "Training_RL",
+            "Architecture"
+          ],
+          "subtopics": [
+            "data_synth",
+            "img_flow"
+          ],
+          "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
+          "hf_url": "https://huggingface.co/papers/2511.22699",
+          "arxiv_url": "https://arxiv.org/abs/2511.22699"
+        }
+      ]
+    },
+    "2026": {
+      "total": 6641,
+      "avg_upvotes": 19.02,
+      "github_rate": 61.47,
+      "project_rate": 49.86,
+      "primary_domain": {
+        "Architecture": 261,
+        "Agents": 1534,
+        "Multimodal": 809,
+        "Efficiency": 345,
+        "Training_RL": 914,
+        "Embodied": 424,
+        "Science_Eval": 639,
+        "Reasoning": 749,
+        "Vision_World": 680,
+        "Safety_Interp": 286
+      },
+      "multi_domain": {
+        "Architecture": 529,
+        "Agents": 2118,
+        "Reasoning": 1508,
+        "Efficiency": 780,
+        "Multimodal": 1494,
+        "Safety_Interp": 741,
+        "Science_Eval": 1692,
+        "Training_RL": 1660,
+        "Embodied": 661,
+        "Vision_World": 1191
+      },
+      "subtopics": {
+        "data_synth": 696,
+        "slm_edge": 611,
+        "harness_skills": 795,
+        "dyn_bench": 3011,
+        "rlvr_grpo": 515,
+        "swe_coding": 303,
+        "vlm_video_und": 979,
+        "vla_policy": 287,
+        "humanoid_manip": 472,
+        "peft_sft": 591,
+        "dpo_rlhf": 166,
+        "cot_search": 257,
+        "video_world": 695,
+        "ttc_scaling": 321,
+        "interp_cot_mon": 215,
+        "ai4science": 248,
+        "math_formal": 295,
+        "rag_memory": 285,
+        "dlm_non_ar": 86,
+        "fact_unlearn": 110,
+        "omni_fusion": 162,
+        "img_flow": 406,
+        "moe_routing": 193,
+        "kv_speculative": 222,
+        "3d_gs_mesh": 146,
+        "redteam_guard": 132,
+        "rsi_self_evol": 258,
+        "doc_ocr_gui": 224,
+        "ssm_linear": 83,
+        "quant_lowbit": 43,
+        "residual_arch": 16
+      },
+      "cooccurrence": {
+        "Architecture": {
+          "Architecture": 529,
+          "Vision_World": 110,
+          "Multimodal": 70,
+          "Science_Eval": 95,
+          "Reasoning": 61,
+          "Safety_Interp": 51,
+          "Efficiency": 132,
+          "Agents": 29,
+          "Training_RL": 119,
+          "Embodied": 21
+        },
+        "Agents": {
+          "Agents": 2118,
+          "Reasoning": 405,
+          "Efficiency": 90,
+          "Safety_Interp": 129,
+          "Multimodal": 336,
+          "Training_RL": 359,
+          "Science_Eval": 476,
+          "Architecture": 29,
+          "Vision_World": 121,
+          "Embodied": 142
+        },
+        "Reasoning": {
+          "Agents": 405,
+          "Reasoning": 1508,
+          "Efficiency": 119,
+          "Science_Eval": 385,
+          "Training_RL": 456,
+          "Vision_World": 149,
+          "Multimodal": 346,
+          "Architecture": 61,
+          "Safety_Interp": 123,
+          "Embodied": 79
+        },
+        "Efficiency": {
+          "Agents": 90,
+          "Reasoning": 119,
+          "Efficiency": 780,
+          "Science_Eval": 148,
+          "Architecture": 132,
+          "Training_RL": 189,
+          "Vision_World": 139,
+          "Multimodal": 133,
+          "Safety_Interp": 87,
+          "Embodied": 47
+        },
+        "Multimodal": {
+          "Multimodal": 1494,
+          "Safety_Interp": 151,
+          "Science_Eval": 386,
+          "Training_RL": 279,
+          "Reasoning": 346,
+          "Architecture": 70,
+          "Vision_World": 213,
+          "Agents": 336,
+          "Embodied": 169,
+          "Efficiency": 133
+        },
+        "Safety_Interp": {
+          "Multimodal": 151,
+          "Safety_Interp": 741,
+          "Science_Eval": 170,
+          "Agents": 129,
+          "Vision_World": 122,
+          "Architecture": 51,
+          "Training_RL": 182,
+          "Reasoning": 123,
+          "Embodied": 36,
+          "Efficiency": 87
+        },
+        "Science_Eval": {
+          "Multimodal": 386,
+          "Safety_Interp": 170,
+          "Science_Eval": 1692,
+          "Training_RL": 267,
+          "Vision_World": 211,
+          "Reasoning": 385,
+          "Architecture": 95,
+          "Efficiency": 148,
+          "Agents": 476,
+          "Embodied": 82
+        },
+        "Training_RL": {
+          "Training_RL": 1660,
+          "Science_Eval": 267,
+          "Vision_World": 234,
+          "Reasoning": 456,
+          "Multimodal": 279,
+          "Agents": 359,
+          "Safety_Interp": 182,
+          "Architecture": 119,
+          "Embodied": 110,
+          "Efficiency": 189
+        },
+        "Embodied": {
+          "Embodied": 661,
+          "Vision_World": 116,
+          "Training_RL": 110,
+          "Multimodal": 169,
+          "Reasoning": 79,
+          "Safety_Interp": 36,
+          "Science_Eval": 82,
+          "Agents": 142,
+          "Efficiency": 47,
+          "Architecture": 21
+        },
+        "Vision_World": {
+          "Science_Eval": 211,
+          "Training_RL": 234,
+          "Vision_World": 1191,
+          "Reasoning": 149,
+          "Architecture": 110,
+          "Embodied": 116,
+          "Safety_Interp": 122,
+          "Multimodal": 213,
+          "Efficiency": 139,
+          "Agents": 121
+        }
+      },
+      "top_orgs": [
+        [
+          "NVIDIA",
+          112
+        ],
+        [
+          "Tencent",
+          90
+        ],
+        [
+          "Tencent Hunyuan",
+          78
+        ],
+        [
+          "Google",
+          77
+        ],
+        [
+          "KAIST AI",
+          76
+        ],
+        [
+          "Peking University",
+          74
+        ],
+        [
+          "Zhejiang University",
+          69
+        ],
+        [
+          "National University of Singapore",
+          67
+        ],
+        [
+          "ByteDance Seed",
+          64
+        ],
+        [
+          "ByteDance",
+          59
+        ],
+        [
+          "Shanghai Jiao Tong University",
+          58
+        ],
+        [
+          "Tsinghua University",
+          53
+        ],
+        [
+          "Qwen",
+          50
+        ],
+        [
+          "University of Illinois at Urbana-Champaign",
+          45
+        ],
+        [
+          "Carnegie Mellon University",
+          45
+        ]
+      ],
+      "top_papers": [
+        {
+          "arxiv_id": "2602.20159",
+          "title": "A Very Big Video Reasoning Suite",
+          "date": "2026-02-24",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 514,
+          "organization": "Video-Reason",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning",
+            "Multimodal"
+          ],
+          "subtopics": [
+            "vlm_video_und",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2602.20159",
+          "arxiv_url": "https://arxiv.org/abs/2602.20159"
+        },
+        {
+          "arxiv_id": "2602.05400",
+          "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
+          "date": "2026-02-11",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 347,
+          "organization": "Qwen",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "data_synth"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2602.05400",
+          "arxiv_url": "https://arxiv.org/abs/2602.05400"
+        },
+        {
+          "arxiv_id": "2609.02749",
+          "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+          "date": "2026-09-03",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 342,
+          "organization": "Beijing Academy of Artificial Intelligence",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "data_synth",
+            "harness_skills"
+          ],
+          "github_repo": "https://github.com/VectorSpaceLab/AREX-Skill",
+          "hf_url": "https://huggingface.co/papers/2609.02749",
+          "arxiv_url": "https://arxiv.org/abs/2609.02749"
+        },
+        {
+          "arxiv_id": "2610.33568",
+          "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+          "date": "2026-10-27",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 325,
+          "organization": "ant-international",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "harness_skills",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/yihaohu0118/Trajectory2Gym",
+          "hf_url": "https://huggingface.co/papers/2610.33568",
+          "arxiv_url": "https://arxiv.org/abs/2610.33568"
+        },
+        {
+          "arxiv_id": "2512.24880",
+          "title": "mHC: Manifold-Constrained Hyper-Connections",
+          "date": "2026-01-01",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 318,
+          "organization": "DeepSeek",
+          "primary_domain": "Architecture",
+          "domains": [
+            "Architecture"
+          ],
+          "subtopics": [],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2512.24880",
+          "arxiv_url": "https://arxiv.org/abs/2512.24880"
+        },
+        {
+          "arxiv_id": "2602.00919",
+          "title": "Green-VLA: Staged Vision-Language-Action Model for Generalist Robots",
+          "date": "2026-02-03",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 315,
+          "organization": "Sber Robotics Center",
+          "primary_domain": "Embodied",
+          "domains": [
+            "Embodied",
+            "Multimodal"
+          ],
+          "subtopics": [
+            "slm_edge",
+            "vlm_video_und",
+            "vla_policy",
+            "humanoid_manip"
+          ],
+          "github_repo": "https://github.com/greenvla/GreenVLA",
+          "hf_url": "https://huggingface.co/papers/2602.00919",
+          "arxiv_url": "https://arxiv.org/abs/2602.00919"
+        },
+        {
+          "arxiv_id": "2610.36077",
+          "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+          "date": "2026-10-28",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 305,
+          "organization": "National University of Singapore",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "harness_skills",
+            "rsi_self_evol",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/InfRec-Cardinal/The-Trinity",
+          "hf_url": "https://huggingface.co/papers/2610.36077",
+          "arxiv_url": "https://arxiv.org/abs/2610.36077"
+        },
+        {
+          "arxiv_id": "2609.01591",
+          "title": "StudentSim: Training LLM-based Student Simulators",
+          "date": "2026-09-02",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 283,
+          "organization": "Microsoft Research",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Efficiency"
+          ],
+          "subtopics": [
+            "dpo_rlhf"
+          ],
+          "github_repo": "https://github.com/microsoft/StudentSim",
+          "hf_url": "https://huggingface.co/papers/2609.01591",
+          "arxiv_url": "https://arxiv.org/abs/2609.01591"
+        },
+        {
+          "arxiv_id": "2602.08222",
+          "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
+          "date": "2026-02-10",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 282,
+          "organization": "",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "data_synth",
+            "math_formal",
+            "swe_coding"
+          ],
+          "github_repo": "https://github.com/chenzehao82/Weak-Driven-Learning",
+          "hf_url": "https://huggingface.co/papers/2602.08222",
+          "arxiv_url": "https://arxiv.org/abs/2602.08222"
+        },
+        {
+          "arxiv_id": "2609.33439",
+          "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+          "date": "2026-09-30",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 281,
+          "organization": "EverMind",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "harness_skills"
+          ],
+          "github_repo": "https://github.com/EverMind-AI/Raven",
+          "hf_url": "https://huggingface.co/papers/2609.33439",
+          "arxiv_url": "https://arxiv.org/abs/2609.33439"
+        },
+        {
+          "arxiv_id": "2609.06986",
+          "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+          "date": "2026-09-16",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 278,
+          "organization": "Johns Hopkins University",
+          "primary_domain": "Science_Eval",
+          "domains": [
+            "Science_Eval",
+            "Training_RL"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "rag_memory"
+          ],
+          "github_repo": "https://github.com/cozheyuanzhangde/compose-cl",
+          "hf_url": "https://huggingface.co/papers/2609.06986",
+          "arxiv_url": "https://arxiv.org/abs/2609.06986"
+        },
+        {
+          "arxiv_id": "2609.13356",
+          "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+          "date": "2026-09-15",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 268,
+          "organization": "ZGCAGI",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Training_RL",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "data_synth",
+            "math_formal",
+            "quant_lowbit",
+            "harness_skills"
+          ],
+          "github_repo": "https://github.com/zgcagi/ZGCM-1",
+          "hf_url": "https://huggingface.co/papers/2609.13356",
+          "arxiv_url": "https://arxiv.org/abs/2609.13356"
+        },
+        {
+          "arxiv_id": "2602.04705",
+          "title": "ERNIE 5.0 Technical Report",
+          "date": "2026-02-05",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 263,
+          "organization": "",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal",
+            "Efficiency",
+            "Training_RL",
+            "Architecture"
+          ],
+          "subtopics": [
+            "moe_routing"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2602.04705",
+          "arxiv_url": "https://arxiv.org/abs/2602.04705"
+        },
+        {
+          "arxiv_id": "2602.08354",
+          "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+          "date": "2026-02-23",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 261,
+          "organization": "ByteDance",
+          "primary_domain": "Reasoning",
+          "domains": [
+            "Reasoning"
+          ],
+          "subtopics": [
+            "ttc_scaling",
+            "math_formal",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2602.08354",
+          "arxiv_url": "https://arxiv.org/abs/2602.08354"
+        },
+        {
+          "arxiv_id": "2602.02276",
+          "title": "Kimi K2.5: Visual Agentic Intelligence",
+          "date": "2026-02-03",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 257,
+          "organization": "Moonshot AI",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "peft_sft"
+          ],
+          "github_repo": "https://github.com/MoonshotAI/Kimi-K2.5",
+          "hf_url": "https://huggingface.co/papers/2602.02276",
+          "arxiv_url": "https://arxiv.org/abs/2602.02276"
+        },
+        {
+          "arxiv_id": "2610.35201",
+          "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+          "date": "2026-10-29",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 256,
+          "organization": "ZJU-OmniAI",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "dlm_non_ar",
+            "math_formal"
+          ],
+          "github_repo": "https://github.com/ZJU-OmniAI/DTCA",
+          "hf_url": "https://huggingface.co/papers/2610.35201",
+          "arxiv_url": "https://arxiv.org/abs/2610.35201"
+        },
+        {
+          "arxiv_id": "2603.19835",
+          "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+          "date": "2026-04-01",
+          "year": "2026",
+          "quarter": "2026-Q2",
+          "upvotes": 251,
+          "organization": "Qwen",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "rlvr_grpo",
+            "cot_search",
+            "math_formal"
+          ],
+          "github_repo": "https://github.com/qwenpilot/FIPO",
+          "hf_url": "https://huggingface.co/papers/2603.19835",
+          "arxiv_url": "https://arxiv.org/abs/2603.19835"
+        },
+        {
+          "arxiv_id": "2609.15818",
+          "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+          "date": "2026-09-15",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 247,
+          "organization": "Intern Large Models",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
+          "hf_url": "https://huggingface.co/papers/2609.15818",
+          "arxiv_url": "https://arxiv.org/abs/2609.15818"
+        },
+        {
+          "arxiv_id": "2609.14858",
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "date": "2026-09-15",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 246,
+          "organization": "Google",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents"
+          ],
+          "subtopics": [
+            "rlvr_grpo",
+            "math_formal",
+            "slm_edge",
+            "rsi_self_evol"
+          ],
+          "github_repo": "https://github.com/zhengkid/Dream-RSI",
+          "hf_url": "https://huggingface.co/papers/2609.14858",
+          "arxiv_url": "https://arxiv.org/abs/2609.14858"
+        },
+        {
+          "arxiv_id": "2602.10388",
+          "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
+          "date": "2026-02-16",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 242,
+          "organization": "",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Safety_Interp",
+            "Efficiency"
+          ],
+          "subtopics": [
+            "interp_cot_mon"
+          ],
+          "github_repo": "https://github.com/Zhongzhi660/FAC-Synthesis",
+          "hf_url": "https://huggingface.co/papers/2602.10388",
+          "arxiv_url": "https://arxiv.org/abs/2602.10388"
+        },
+        {
+          "arxiv_id": "2610.18829",
+          "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+          "date": "2026-10-16",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 235,
+          "organization": "VCLab",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal"
+          ],
+          "subtopics": [
+            "vlm_video_und",
+            "omni_fusion",
+            "dyn_bench"
+          ],
+          "github_repo": "https://github.com/PolyU-VCLab/OmniCompass",
+          "hf_url": "https://huggingface.co/papers/2610.18829",
+          "arxiv_url": "https://arxiv.org/abs/2610.18829"
+        },
+        {
+          "arxiv_id": "2610.39633",
+          "title": "Intrinsic Distribution Matching",
+          "date": "2026-10-30",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 233,
+          "organization": "inclusionAI",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL",
+            "Vision_World"
+          ],
+          "subtopics": [
+            "peft_sft",
+            "data_synth",
+            "img_flow"
+          ],
+          "github_repo": "https://github.com/inclusionAI/IDM",
+          "hf_url": "https://huggingface.co/papers/2610.39633",
+          "arxiv_url": "https://arxiv.org/abs/2610.39633"
+        },
+        {
+          "arxiv_id": "2601.05242",
+          "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+          "date": "2026-01-09",
+          "year": "2026",
+          "quarter": "2026-Q1",
+          "upvotes": 229,
+          "organization": "NVIDIA",
+          "primary_domain": "Training_RL",
+          "domains": [
+            "Training_RL"
+          ],
+          "subtopics": [
+            "rlvr_grpo"
+          ],
+          "github_repo": "https://github.com/NVlabs/GDPO",
+          "hf_url": "https://huggingface.co/papers/2601.05242",
+          "arxiv_url": "https://arxiv.org/abs/2601.05242"
+        },
+        {
+          "arxiv_id": "2609.00111",
+          "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+          "date": "2026-09-02",
+          "year": "2026",
+          "quarter": "2026-Q3",
+          "upvotes": 229,
+          "organization": "Qwen",
+          "primary_domain": "Multimodal",
+          "domains": [
+            "Multimodal",
+            "Embodied",
+            "Reasoning"
+          ],
+          "subtopics": [
+            "vlm_video_und",
+            "humanoid_manip"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2609.00111",
+          "arxiv_url": "https://arxiv.org/abs/2609.00111"
+        },
+        {
+          "arxiv_id": "2610.34662",
+          "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+          "date": "2026-10-27",
+          "year": "2026",
+          "quarter": "2026-Q4",
+          "upvotes": 229,
+          "organization": "Google",
+          "primary_domain": "Agents",
+          "domains": [
+            "Agents",
+            "Multimodal",
+            "Science_Eval"
+          ],
+          "subtopics": [
+            "vlm_video_und",
+            "harness_skills",
+            "rag_memory",
+            "dyn_bench"
+          ],
+          "github_repo": "",
+          "hf_url": "https://huggingface.co/papers/2610.34662",
+          "arxiv_url": "https://arxiv.org/abs/2610.34662"
+        }
+      ]
+    }
+  },
+  "quarters": {
+    "2023-Q2": {
+      "total": 515,
+      "avg_upvotes": 7.89,
+      "github_rate": 53.2,
+      "primary_domain": {
+        "Vision_World": 125,
+        "Agents": 27,
+        "Training_RL": 56,
+        "Multimodal": 81,
+        "Science_Eval": 86,
+        "Reasoning": 38,
+        "Architecture": 37,
+        "Safety_Interp": 33,
+        "Embodied": 22,
+        "Efficiency": 10
+      },
+      "multi_domain": {
+        "Vision_World": 149,
+        "Agents": 41,
+        "Training_RL": 97,
+        "Safety_Interp": 60,
+        "Architecture": 66,
+        "Multimodal": 104,
+        "Science_Eval": 136,
+        "Reasoning": 49,
+        "Embodied": 33,
+        "Efficiency": 16
+      },
+      "subtopics": {
+        "img_flow": 79,
+        "peft_sft": 27,
+        "dpo_rlhf": 5,
+        "dyn_bench": 120,
+        "doc_ocr_gui": 7,
+        "3d_gs_mesh": 29,
+        "swe_coding": 11,
+        "ai4science": 15,
+        "slm_edge": 15,
+        "vlm_video_und": 32,
+        "data_synth": 21,
+        "cot_search": 9,
+        "video_world": 13,
+        "moe_routing": 3,
+        "humanoid_manip": 22,
+        "fact_unlearn": 9,
+        "redteam_guard": 2,
+        "interp_cot_mon": 8,
+        "harness_skills": 5,
+        "rag_memory": 4,
+        "omni_fusion": 4,
+        "ssm_linear": 2,
+        "math_formal": 8,
+        "rlvr_grpo": 1,
+        "kv_speculative": 3,
+        "quant_lowbit": 2,
+        "ttc_scaling": 2,
+        "rsi_self_evol": 1
+      }
+    },
+    "2023-Q3": {
+      "total": 483,
+      "avg_upvotes": 21.11,
+      "github_rate": 48.65,
+      "primary_domain": {
+        "Reasoning": 31,
+        "Embodied": 29,
+        "Science_Eval": 82,
+        "Training_RL": 69,
+        "Vision_World": 94,
+        "Safety_Interp": 21,
+        "Architecture": 35,
+        "Agents": 34,
+        "Multimodal": 65,
+        "Efficiency": 23
+      },
+      "multi_domain": {
+        "Reasoning": 55,
+        "Agents": 53,
+        "Efficiency": 41,
+        "Vision_World": 112,
+        "Embodied": 42,
+        "Science_Eval": 122,
+        "Training_RL": 105,
+        "Safety_Interp": 49,
+        "Architecture": 59,
+        "Multimodal": 88
+      },
+      "subtopics": {
+        "cot_search": 10,
+        "slm_edge": 23,
+        "swe_coding": 15,
+        "img_flow": 51,
+        "math_formal": 9,
+        "humanoid_manip": 28,
+        "dyn_bench": 110,
+        "peft_sft": 43,
+        "dpo_rlhf": 12,
+        "rlvr_grpo": 4,
+        "3d_gs_mesh": 25,
+        "vlm_video_und": 34,
+        "rag_memory": 7,
+        "doc_ocr_gui": 3,
+        "redteam_guard": 3,
+        "harness_skills": 15,
+        "ai4science": 28,
+        "moe_routing": 3,
+        "fact_unlearn": 13,
+        "data_synth": 20,
+        "ttc_scaling": 6,
+        "video_world": 12,
+        "ssm_linear": 4,
+        "interp_cot_mon": 8,
+        "vla_policy": 1,
+        "quant_lowbit": 3,
+        "kv_speculative": 3,
+        "omni_fusion": 1
+      }
+    },
+    "2023-Q4": {
+      "total": 611,
+      "avg_upvotes": 19.9,
+      "github_rate": 48.45,
+      "primary_domain": {
+        "Architecture": 25,
+        "Training_RL": 91,
+        "Reasoning": 49,
+        "Vision_World": 204,
+        "Agents": 29,
+        "Science_Eval": 69,
+        "Multimodal": 83,
+        "Safety_Interp": 24,
+        "Embodied": 15,
+        "Efficiency": 22
+      },
+      "multi_domain": {
+        "Architecture": 55,
+        "Vision_World": 251,
+        "Safety_Interp": 64,
+        "Training_RL": 145,
+        "Reasoning": 83,
+        "Agents": 57,
+        "Science_Eval": 124,
+        "Multimodal": 117,
+        "Efficiency": 45,
+        "Embodied": 27
+      },
+      "subtopics": {
+        "vlm_video_und": 55,
+        "img_flow": 107,
+        "dpo_rlhf": 23,
+        "peft_sft": 49,
+        "data_synth": 48,
+        "dyn_bench": 141,
+        "cot_search": 11,
+        "swe_coding": 15,
+        "rsi_self_evol": 3,
+        "math_formal": 14,
+        "ai4science": 14,
+        "fact_unlearn": 12,
+        "humanoid_manip": 20,
+        "3d_gs_mesh": 74,
+        "video_world": 42,
+        "interp_cot_mon": 6,
+        "doc_ocr_gui": 5,
+        "harness_skills": 17,
+        "quant_lowbit": 5,
+        "slm_edge": 29,
+        "rag_memory": 5,
+        "ttc_scaling": 10,
+        "moe_routing": 7,
+        "redteam_guard": 2,
+        "kv_speculative": 5,
+        "rlvr_grpo": 2,
+        "ssm_linear": 1,
+        "omni_fusion": 2
+      }
+    },
+    "2024-Q1": {
+      "total": 693,
+      "avg_upvotes": 27.03,
+      "github_rate": 49.06,
+      "primary_domain": {
+        "Agents": 40,
+        "Vision_World": 190,
+        "Science_Eval": 77,
+        "Multimodal": 100,
+        "Training_RL": 110,
+        "Safety_Interp": 28,
+        "Efficiency": 36,
+        "Embodied": 22,
+        "Reasoning": 42,
+        "Architecture": 48
+      },
+      "multi_domain": {
+        "Agents": 60,
+        "Vision_World": 236,
+        "Science_Eval": 132,
+        "Multimodal": 137,
+        "Reasoning": 70,
+        "Training_RL": 170,
+        "Safety_Interp": 61,
+        "Efficiency": 67,
+        "Architecture": 86,
+        "Embodied": 32
+      },
+      "subtopics": {
+        "harness_skills": 24,
+        "img_flow": 95,
+        "dyn_bench": 163,
+        "vlm_video_und": 64,
+        "slm_edge": 43,
+        "data_synth": 60,
+        "peft_sft": 48,
+        "dpo_rlhf": 26,
+        "swe_coding": 15,
+        "video_world": 47,
+        "3d_gs_mesh": 65,
+        "kv_speculative": 12,
+        "humanoid_manip": 27,
+        "rag_memory": 10,
+        "omni_fusion": 1,
+        "rlvr_grpo": 3,
+        "doc_ocr_gui": 12,
+        "moe_routing": 17,
+        "ssm_linear": 25,
+        "cot_search": 19,
+        "redteam_guard": 3,
+        "interp_cot_mon": 7,
+        "fact_unlearn": 12,
+        "ai4science": 19,
+        "ttc_scaling": 7,
+        "math_formal": 14,
+        "quant_lowbit": 4,
+        "rsi_self_evol": 2,
+        "dlm_non_ar": 1,
+        "vla_policy": 1
+      }
+    },
+    "2024-Q2": {
+      "total": 700,
+      "avg_upvotes": 24.84,
+      "github_rate": 55.29,
+      "primary_domain": {
+        "Architecture": 44,
+        "Training_RL": 112,
+        "Science_Eval": 90,
+        "Efficiency": 41,
+        "Multimodal": 102,
+        "Vision_World": 174,
+        "Agents": 33,
+        "Reasoning": 40,
+        "Safety_Interp": 53,
+        "Embodied": 11
+      },
+      "multi_domain": {
+        "Architecture": 82,
+        "Training_RL": 165,
+        "Science_Eval": 185,
+        "Efficiency": 59,
+        "Vision_World": 215,
+        "Multimodal": 148,
+        "Safety_Interp": 99,
+        "Agents": 55,
+        "Reasoning": 75,
+        "Embodied": 21
+      },
+      "subtopics": {
+        "ssm_linear": 19,
+        "moe_routing": 14,
+        "dyn_bench": 242,
+        "data_synth": 57,
+        "quant_lowbit": 1,
+        "kv_speculative": 19,
+        "slm_edge": 32,
+        "doc_ocr_gui": 12,
+        "3d_gs_mesh": 61,
+        "vlm_video_und": 60,
+        "redteam_guard": 10,
+        "img_flow": 94,
+        "dpo_rlhf": 53,
+        "fact_unlearn": 26,
+        "peft_sft": 71,
+        "cot_search": 13,
+        "harness_skills": 18,
+        "rag_memory": 17,
+        "swe_coding": 13,
+        "video_world": 52,
+        "ai4science": 26,
+        "math_formal": 14,
+        "interp_cot_mon": 18,
+        "ttc_scaling": 3,
+        "rlvr_grpo": 3,
+        "humanoid_manip": 15,
+        "rsi_self_evol": 4,
+        "vla_policy": 2,
+        "residual_arch": 2,
+        "omni_fusion": 6,
+        "dlm_non_ar": 2
+      }
+    },
+    "2024-Q3": {
+      "total": 870,
+      "avg_upvotes": 23.47,
+      "github_rate": 53.1,
+      "primary_domain": {
+        "Training_RL": 106,
+        "Multimodal": 159,
+        "Embodied": 24,
+        "Vision_World": 183,
+        "Science_Eval": 152,
+        "Reasoning": 45,
+        "Agents": 62,
+        "Efficiency": 36,
+        "Architecture": 53,
+        "Safety_Interp": 50
+      },
+      "multi_domain": {
+        "Training_RL": 169,
+        "Reasoning": 83,
+        "Multimodal": 206,
+        "Science_Eval": 274,
+        "Embodied": 49,
+        "Vision_World": 228,
+        "Architecture": 95,
+        "Safety_Interp": 109,
+        "Agents": 90,
+        "Efficiency": 60
+      },
+      "subtopics": {
+        "data_synth": 55,
+        "math_formal": 20,
+        "vlm_video_und": 86,
+        "ai4science": 48,
+        "dyn_bench": 287,
+        "dpo_rlhf": 27,
+        "3d_gs_mesh": 46,
+        "humanoid_manip": 38,
+        "omni_fusion": 18,
+        "rag_memory": 27,
+        "video_world": 51,
+        "peft_sft": 69,
+        "rlvr_grpo": 5,
+        "cot_search": 20,
+        "img_flow": 79,
+        "kv_speculative": 10,
+        "slm_edge": 39,
+        "harness_skills": 29,
+        "vla_policy": 2,
+        "quant_lowbit": 7,
+        "fact_unlearn": 26,
+        "swe_coding": 26,
+        "redteam_guard": 8,
+        "interp_cot_mon": 24,
+        "moe_routing": 19,
+        "ssm_linear": 17,
+        "ttc_scaling": 7,
+        "doc_ocr_gui": 25,
+        "dlm_non_ar": 1,
+        "residual_arch": 3,
+        "rsi_self_evol": 4
+      }
+    },
+    "2024-Q4": {
+      "total": 1158,
+      "avg_upvotes": 21.72,
+      "github_rate": 59.84,
+      "primary_domain": {
+        "Training_RL": 143,
+        "Agents": 67,
+        "Architecture": 75,
+        "Embodied": 41,
+        "Vision_World": 231,
+        "Multimodal": 189,
+        "Science_Eval": 169,
+        "Efficiency": 56,
+        "Reasoning": 113,
+        "Safety_Interp": 74
+      },
+      "multi_domain": {
+        "Training_RL": 242,
+        "Multimodal": 288,
+        "Agents": 108,
+        "Architecture": 136,
+        "Reasoning": 182,
+        "Embodied": 64,
+        "Vision_World": 310,
+        "Science_Eval": 317,
+        "Efficiency": 108,
+        "Safety_Interp": 144
+      },
+      "subtopics": {
+        "moe_routing": 26,
+        "peft_sft": 85,
+        "data_synth": 95,
+        "slm_edge": 64,
+        "vlm_video_und": 156,
+        "cot_search": 43,
+        "humanoid_manip": 54,
+        "dyn_bench": 408,
+        "dpo_rlhf": 70,
+        "fact_unlearn": 37,
+        "3d_gs_mesh": 51,
+        "img_flow": 129,
+        "ttc_scaling": 24,
+        "rag_memory": 38,
+        "swe_coding": 31,
+        "math_formal": 41,
+        "interp_cot_mon": 27,
+        "harness_skills": 29,
+        "video_world": 94,
+        "kv_speculative": 24,
+        "ssm_linear": 16,
+        "rlvr_grpo": 6,
+        "ai4science": 53,
+        "residual_arch": 2,
+        "doc_ocr_gui": 27,
+        "redteam_guard": 5,
+        "dlm_non_ar": 5,
+        "omni_fusion": 9,
+        "vla_policy": 8,
+        "rsi_self_evol": 6,
+        "quant_lowbit": 7
+      }
+    },
+    "2025-Q1": {
+      "total": 1382,
+      "avg_upvotes": 24.35,
+      "github_rate": 71.13,
+      "primary_domain": {
+        "Multimodal": 204,
+        "Reasoning": 214,
+        "Vision_World": 226,
+        "Agents": 97,
+        "Architecture": 76,
+        "Safety_Interp": 90,
+        "Training_RL": 172,
+        "Embodied": 31,
+        "Science_Eval": 209,
+        "Efficiency": 63
+      },
+      "multi_domain": {
+        "Multimodal": 318,
+        "Agents": 172,
+        "Training_RL": 324,
+        "Reasoning": 321,
+        "Vision_World": 314,
+        "Science_Eval": 395,
+        "Architecture": 154,
+        "Safety_Interp": 194,
+        "Efficiency": 125,
+        "Embodied": 74
+      },
+      "subtopics": {
+        "dpo_rlhf": 82,
+        "data_synth": 117,
+        "vlm_video_und": 174,
+        "doc_ocr_gui": 23,
+        "dyn_bench": 510,
+        "peft_sft": 131,
+        "img_flow": 119,
+        "math_formal": 75,
+        "video_world": 118,
+        "swe_coding": 54,
+        "harness_skills": 57,
+        "cot_search": 90,
+        "ai4science": 53,
+        "slm_edge": 79,
+        "ssm_linear": 24,
+        "humanoid_manip": 53,
+        "omni_fusion": 13,
+        "ttc_scaling": 68,
+        "rag_memory": 53,
+        "redteam_guard": 16,
+        "3d_gs_mesh": 40,
+        "rlvr_grpo": 23,
+        "fact_unlearn": 40,
+        "rsi_self_evol": 8,
+        "vla_policy": 9,
+        "kv_speculative": 32,
+        "moe_routing": 25,
+        "interp_cot_mon": 38,
+        "quant_lowbit": 6,
+        "dlm_non_ar": 7,
+        "residual_arch": 1
+      }
+    },
+    "2025-Q2": {
+      "total": 1778,
+      "avg_upvotes": 22.71,
+      "github_rate": 73.28,
+      "primary_domain": {
+        "Multimodal": 272,
+        "Vision_World": 208,
+        "Science_Eval": 221,
+        "Reasoning": 393,
+        "Agents": 143,
+        "Training_RL": 238,
+        "Embodied": 57,
+        "Architecture": 67,
+        "Efficiency": 77,
+        "Safety_Interp": 102
+      },
+      "multi_domain": {
+        "Multimodal": 464,
+        "Vision_World": 333,
+        "Science_Eval": 501,
+        "Training_RL": 450,
+        "Reasoning": 590,
+        "Agents": 240,
+        "Architecture": 160,
+        "Embodied": 98,
+        "Efficiency": 153,
+        "Safety_Interp": 240
+      },
+      "subtopics": {
+        "video_world": 94,
+        "dyn_bench": 790,
+        "img_flow": 144,
+        "ttc_scaling": 109,
+        "cot_search": 159,
+        "interp_cot_mon": 58,
+        "humanoid_manip": 81,
+        "vlm_video_und": 268,
+        "dpo_rlhf": 77,
+        "rlvr_grpo": 130,
+        "math_formal": 144,
+        "ai4science": 74,
+        "data_synth": 144,
+        "3d_gs_mesh": 46,
+        "peft_sft": 167,
+        "slm_edge": 109,
+        "harness_skills": 83,
+        "omni_fusion": 20,
+        "rag_memory": 61,
+        "doc_ocr_gui": 35,
+        "redteam_guard": 21,
+        "swe_coding": 58,
+        "kv_speculative": 38,
+        "ssm_linear": 20,
+        "fact_unlearn": 55,
+        "moe_routing": 37,
+        "rsi_self_evol": 12,
+        "quant_lowbit": 13,
+        "vla_policy": 21,
+        "dlm_non_ar": 11
+      }
+    },
+    "2025-Q3": {
+      "total": 1338,
+      "avg_upvotes": 28.46,
+      "github_rate": 68.39,
+      "primary_domain": {
+        "Multimodal": 207,
+        "Training_RL": 186,
+        "Vision_World": 162,
+        "Efficiency": 63,
+        "Science_Eval": 167,
+        "Reasoning": 209,
+        "Agents": 149,
+        "Embodied": 57,
+        "Architecture": 63,
+        "Safety_Interp": 75
+      },
+      "multi_domain": {
+        "Multimodal": 334,
+        "Vision_World": 255,
+        "Science_Eval": 374,
+        "Training_RL": 352,
+        "Reasoning": 398,
+        "Agents": 234,
+        "Safety_Interp": 177,
+        "Efficiency": 121,
+        "Architecture": 127,
+        "Embodied": 96
+      },
+      "subtopics": {
+        "vlm_video_und": 184,
+        "img_flow": 98,
+        "dyn_bench": 615,
+        "peft_sft": 115,
+        "harness_skills": 88,
+        "data_synth": 87,
+        "video_world": 77,
+        "rlvr_grpo": 113,
+        "cot_search": 94,
+        "interp_cot_mon": 49,
+        "slm_edge": 98,
+        "swe_coding": 61,
+        "dpo_rlhf": 51,
+        "ai4science": 68,
+        "kv_speculative": 25,
+        "doc_ocr_gui": 46,
+        "math_formal": 89,
+        "ssm_linear": 17,
+        "dlm_non_ar": 20,
+        "ttc_scaling": 65,
+        "rsi_self_evol": 12,
+        "omni_fusion": 16,
+        "vla_policy": 28,
+        "fact_unlearn": 47,
+        "3d_gs_mesh": 53,
+        "rag_memory": 44,
+        "humanoid_manip": 66,
+        "moe_routing": 26,
+        "quant_lowbit": 6,
+        "redteam_guard": 9,
+        "residual_arch": 2
+      }
+    },
+    "2025-Q4": {
+      "total": 1968,
+      "avg_upvotes": 24.23,
+      "github_rate": 66.21,
+      "primary_domain": {
+        "Architecture": 78,
+        "Agents": 245,
+        "Training_RL": 262,
+        "Reasoning": 340,
+        "Efficiency": 75,
+        "Vision_World": 265,
+        "Multimodal": 279,
+        "Science_Eval": 233,
+        "Safety_Interp": 92,
+        "Embodied": 99
+      },
+      "multi_domain": {
+        "Architecture": 180,
+        "Safety_Interp": 243,
+        "Agents": 373,
+        "Science_Eval": 514,
+        "Training_RL": 520,
+        "Multimodal": 504,
+        "Reasoning": 621,
+        "Efficiency": 193,
+        "Vision_World": 438,
+        "Embodied": 165
+      },
+      "subtopics": {
+        "ssm_linear": 24,
+        "residual_arch": 4,
+        "interp_cot_mon": 74,
+        "harness_skills": 140,
+        "dyn_bench": 906,
+        "rlvr_grpo": 179,
+        "vlm_video_und": 342,
+        "swe_coding": 63,
+        "peft_sft": 192,
+        "kv_speculative": 47,
+        "slm_edge": 174,
+        "quant_lowbit": 11,
+        "fact_unlearn": 45,
+        "video_world": 203,
+        "data_synth": 155,
+        "cot_search": 133,
+        "dpo_rlhf": 58,
+        "ttc_scaling": 105,
+        "rag_memory": 58,
+        "dlm_non_ar": 33,
+        "math_formal": 115,
+        "rsi_self_evol": 38,
+        "omni_fusion": 38,
+        "doc_ocr_gui": 53,
+        "ai4science": 75,
+        "vla_policy": 64,
+        "humanoid_manip": 118,
+        "img_flow": 182,
+        "3d_gs_mesh": 48,
+        "redteam_guard": 23,
+        "moe_routing": 51
+      }
+    },
+    "2026-Q1": {
+      "total": 1926,
+      "avg_upvotes": 21.77,
+      "github_rate": 61.79,
+      "primary_domain": {
+        "Architecture": 68,
+        "Agents": 340,
+        "Multimodal": 257,
+        "Efficiency": 99,
+        "Training_RL": 255,
+        "Embodied": 90,
+        "Science_Eval": 201,
+        "Reasoning": 310,
+        "Vision_World": 209,
+        "Safety_Interp": 97
+      },
+      "multi_domain": {
+        "Architecture": 150,
+        "Agents": 498,
+        "Reasoning": 559,
+        "Efficiency": 214,
+        "Multimodal": 447,
+        "Safety_Interp": 262,
+        "Science_Eval": 490,
+        "Training_RL": 500,
+        "Embodied": 150,
+        "Vision_World": 349
+      },
+      "subtopics": {
+        "data_synth": 166,
+        "slm_edge": 171,
+        "harness_skills": 152,
+        "dyn_bench": 844,
+        "rlvr_grpo": 150,
+        "swe_coding": 94,
+        "vlm_video_und": 271,
+        "vla_policy": 59,
+        "humanoid_manip": 122,
+        "peft_sft": 154,
+        "dpo_rlhf": 63,
+        "cot_search": 108,
+        "video_world": 176,
+        "ttc_scaling": 134,
+        "interp_cot_mon": 75,
+        "ai4science": 70,
+        "math_formal": 99,
+        "rag_memory": 72,
+        "dlm_non_ar": 33,
+        "fact_unlearn": 37,
+        "omni_fusion": 32,
+        "img_flow": 134,
+        "moe_routing": 44,
+        "kv_speculative": 44,
+        "3d_gs_mesh": 34,
+        "redteam_guard": 42,
+        "rsi_self_evol": 46,
+        "doc_ocr_gui": 58,
+        "ssm_linear": 18,
+        "quant_lowbit": 10,
+        "residual_arch": 1
+      }
+    },
+    "2026-Q2": {
+      "total": 1751,
+      "avg_upvotes": 13.46,
+      "github_rate": 60.82,
+      "primary_domain": {
+        "Training_RL": 245,
+        "Multimodal": 230,
+        "Embodied": 93,
+        "Science_Eval": 147,
+        "Agents": 411,
+        "Vision_World": 174,
+        "Reasoning": 215,
+        "Safety_Interp": 81,
+        "Efficiency": 82,
+        "Architecture": 73
+      },
+      "multi_domain": {
+        "Training_RL": 439,
+        "Reasoning": 409,
+        "Multimodal": 415,
+        "Architecture": 148,
+        "Embodied": 148,
+        "Science_Eval": 457,
+        "Vision_World": 317,
+        "Agents": 557,
+        "Safety_Interp": 210,
+        "Efficiency": 201
+      },
+      "subtopics": {
+        "rlvr_grpo": 157,
+        "cot_search": 78,
+        "math_formal": 88,
+        "dyn_bench": 827,
+        "vlm_video_und": 270,
+        "dlm_non_ar": 22,
+        "video_world": 189,
+        "slm_edge": 163,
+        "harness_skills": 224,
+        "rag_memory": 73,
+        "img_flow": 121,
+        "dpo_rlhf": 54,
+        "ttc_scaling": 82,
+        "3d_gs_mesh": 47,
+        "swe_coding": 81,
+        "interp_cot_mon": 68,
+        "data_synth": 190,
+        "humanoid_manip": 103,
+        "kv_speculative": 64,
+        "ai4science": 72,
+        "redteam_guard": 35,
+        "fact_unlearn": 33,
+        "doc_ocr_gui": 71,
+        "peft_sft": 169,
+        "vla_policy": 70,
+        "rsi_self_evol": 62,
+        "ssm_linear": 25,
+        "omni_fusion": 40,
+        "quant_lowbit": 8,
+        "moe_routing": 45,
+        "residual_arch": 3
+      }
+    },
+    "2026-Q3": {
+      "total": 1445,
+      "avg_upvotes": 19.56,
+      "github_rate": 57.02,
+      "primary_domain": {
+        "Training_RL": 216,
+        "Agents": 367,
+        "Efficiency": 83,
+        "Architecture": 49,
+        "Vision_World": 146,
+        "Safety_Interp": 56,
+        "Science_Eval": 134,
+        "Multimodal": 170,
+        "Embodied": 111,
+        "Reasoning": 113
+      },
+      "multi_domain": {
+        "Training_RL": 372,
+        "Multimodal": 319,
+        "Efficiency": 174,
+        "Embodied": 160,
+        "Agents": 486,
+        "Reasoning": 279,
+        "Architecture": 97,
+        "Safety_Interp": 138,
+        "Vision_World": 250,
+        "Science_Eval": 354
+      },
+      "subtopics": {
+        "slm_edge": 151,
+        "peft_sft": 126,
+        "swe_coding": 66,
+        "dyn_bench": 649,
+        "kv_speculative": 47,
+        "data_synth": 177,
+        "vlm_video_und": 223,
+        "rag_memory": 75,
+        "img_flow": 71,
+        "humanoid_manip": 109,
+        "video_world": 158,
+        "ttc_scaling": 57,
+        "math_formal": 56,
+        "doc_ocr_gui": 42,
+        "harness_skills": 193,
+        "rsi_self_evol": 60,
+        "dpo_rlhf": 27,
+        "ssm_linear": 15,
+        "3d_gs_mesh": 29,
+        "omni_fusion": 46,
+        "interp_cot_mon": 38,
+        "moe_routing": 46,
+        "vla_policy": 70,
+        "rlvr_grpo": 116,
+        "cot_search": 40,
+        "ai4science": 57,
+        "dlm_non_ar": 13,
+        "redteam_guard": 34,
+        "fact_unlearn": 23,
+        "residual_arch": 3,
+        "quant_lowbit": 10
+      }
+    },
+    "2026-Q4": {
+      "total": 1519,
+      "avg_upvotes": 21.43,
+      "github_rate": 66.03,
+      "primary_domain": {
+        "Training_RL": 198,
+        "Multimodal": 152,
+        "Agents": 416,
+        "Science_Eval": 157,
+        "Safety_Interp": 52,
+        "Reasoning": 111,
+        "Embodied": 130,
+        "Architecture": 71,
+        "Vision_World": 151,
+        "Efficiency": 81
+      },
+      "multi_domain": {
+        "Training_RL": 349,
+        "Architecture": 134,
+        "Multimodal": 313,
+        "Agents": 577,
+        "Reasoning": 261,
+        "Science_Eval": 391,
+        "Safety_Interp": 131,
+        "Efficiency": 191,
+        "Embodied": 203,
+        "Vision_World": 275
+      },
+      "subtopics": {
+        "data_synth": 163,
+        "ttc_scaling": 48,
+        "rsi_self_evol": 90,
+        "img_flow": 80,
+        "dyn_bench": 691,
+        "harness_skills": 226,
+        "vlm_video_und": 215,
+        "vla_policy": 88,
+        "video_world": 172,
+        "peft_sft": 142,
+        "3d_gs_mesh": 36,
+        "math_formal": 52,
+        "doc_ocr_gui": 53,
+        "dlm_non_ar": 18,
+        "slm_edge": 126,
+        "humanoid_manip": 138,
+        "rag_memory": 65,
+        "interp_cot_mon": 34,
+        "moe_routing": 58,
+        "swe_coding": 62,
+        "rlvr_grpo": 92,
+        "kv_speculative": 67,
+        "omni_fusion": 44,
+        "redteam_guard": 21,
+        "dpo_rlhf": 22,
+        "cot_search": 31,
+        "ai4science": 49,
+        "fact_unlearn": 17,
+        "ssm_linear": 25,
+        "residual_arch": 9,
+        "quant_lowbit": 15
+      }
+    }
+  },
+  "domain_open_source_rate": {
+    "Training_RL": 59.1,
+    "Reasoning": 63.0,
+    "Agents": 63.0,
+    "Multimodal": 64.8,
+    "Efficiency": 61.4,
+    "Vision_World": 60.6,
+    "Architecture": 63.2,
+    "Safety_Interp": 61.5,
+    "Embodied": 62.3,
+    "Science_Eval": 62.7
+  },
+  "domain_totals": {
+    "Training_RL": 2459,
+    "Reasoning": 2263,
+    "Agents": 2460,
+    "Multimodal": 2550,
+    "Efficiency": 847,
+    "Vision_World": 2742,
+    "Architecture": 862,
+    "Safety_Interp": 928,
+    "Embodied": 832,
+    "Science_Eval": 2194
+  },
+  "recent_window": {
+    "from": "2026-10-26",
+    "to": "2026-11-24"
+  },
+  "recent_frontier_papers": [
+    {
+      "arxiv_id": "2610.33568",
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 325,
+      "organization": "ant-international",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/yihaohu0118/Trajectory2Gym",
+      "hf_url": "https://huggingface.co/papers/2610.33568",
+      "arxiv_url": "https://arxiv.org/abs/2610.33568"
+    },
+    {
+      "arxiv_id": "2610.36077",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 305,
+      "organization": "National University of Singapore",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "rsi_self_evol",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/InfRec-Cardinal/The-Trinity",
+      "hf_url": "https://huggingface.co/papers/2610.36077",
+      "arxiv_url": "https://arxiv.org/abs/2610.36077"
+    },
+    {
+      "arxiv_id": "2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "date": "2026-10-29",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 256,
+      "organization": "ZJU-OmniAI",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "dlm_non_ar",
+        "math_formal"
+      ],
+      "github_repo": "https://github.com/ZJU-OmniAI/DTCA",
+      "hf_url": "https://huggingface.co/papers/2610.35201",
+      "arxiv_url": "https://arxiv.org/abs/2610.35201"
+    },
+    {
+      "arxiv_id": "2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "date": "2026-10-30",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 233,
+      "organization": "inclusionAI",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "img_flow"
+      ],
+      "github_repo": "https://github.com/inclusionAI/IDM",
+      "hf_url": "https://huggingface.co/papers/2610.39633",
+      "arxiv_url": "https://arxiv.org/abs/2610.39633"
+    },
+    {
+      "arxiv_id": "2610.34662",
+      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 229,
+      "organization": "Google",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Multimodal",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "harness_skills",
+        "rag_memory",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2610.34662",
+      "arxiv_url": "https://arxiv.org/abs/2610.34662"
+    },
+    {
+      "arxiv_id": "2610.34283",
+      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 225,
+      "organization": "LINs lab",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Multimodal",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "vlm_video_und",
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/yihaohu0118/ChronoReplay",
+      "hf_url": "https://huggingface.co/papers/2610.34283",
+      "arxiv_url": "https://arxiv.org/abs/2610.34283"
+    },
+    {
+      "arxiv_id": "2611.29897",
+      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+      "date": "2026-11-24",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 171,
+      "organization": "Peking University",
+      "primary_domain": "Architecture",
+      "domains": [
+        "Architecture",
+        "Embodied"
+      ],
+      "subtopics": [
+        "ssm_linear",
+        "kv_speculative",
+        "humanoid_manip",
+        "rag_memory"
+      ],
+      "github_repo": "https://github.com/AIGeeksGroup/MotionMamba2.0",
+      "hf_url": "https://huggingface.co/papers/2611.29897",
+      "arxiv_url": "https://arxiv.org/abs/2611.29897"
+    },
+    {
+      "arxiv_id": "2610.34467",
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 166,
+      "organization": "National University of Singapore",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "math_formal",
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/amiya-special/Dynaflow",
+      "hf_url": "https://huggingface.co/papers/2610.34467",
+      "arxiv_url": "https://arxiv.org/abs/2610.34467"
+    },
+    {
+      "arxiv_id": "2610.32285",
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 147,
+      "organization": "TraceLite AI",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/TraceLite-AI/TraceTrial-Bench",
+      "hf_url": "https://huggingface.co/papers/2610.32285",
+      "arxiv_url": "https://arxiv.org/abs/2610.32285"
+    },
+    {
+      "arxiv_id": "2611.22115",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "date": "2026-11-18",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 147,
+      "organization": "XingChen-AGI",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Training_RL",
+        "Reasoning",
+        "Efficiency"
+      ],
+      "subtopics": [
+        "rlvr_grpo",
+        "kv_speculative"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2611.22115",
+      "arxiv_url": "https://arxiv.org/abs/2611.22115"
+    },
+    {
+      "arxiv_id": "2610.32749",
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "date": "2026-10-29",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 146,
+      "organization": "Tsinghua Machine Learning Group",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Efficiency",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "slm_edge",
+        "omni_fusion",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/JusperLee/Falcon",
+      "hf_url": "https://huggingface.co/papers/2610.32749",
+      "arxiv_url": "https://arxiv.org/abs/2610.32749"
+    },
+    {
+      "arxiv_id": "2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "date": "2026-10-30",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 143,
+      "organization": "Xiaomi Research",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "rsi_self_evol",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2610.38568",
+      "arxiv_url": "https://arxiv.org/abs/2610.38568"
+    },
+    {
+      "arxiv_id": "2610.29927",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+      "date": "2026-10-30",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 136,
+      "organization": "University of Illinois at Urbana-Champaign",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/ASTRAL-Group/benchmark-difficulty-measure",
+      "hf_url": "https://huggingface.co/papers/2610.29927",
+      "arxiv_url": "https://arxiv.org/abs/2610.29927"
+    },
+    {
+      "arxiv_id": "2610.37381",
+      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 134,
+      "organization": "",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Multimodal",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "cot_search",
+        "slm_edge",
+        "vlm_video_und",
+        "video_world",
+        "vla_policy"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2610.37381",
+      "arxiv_url": "https://arxiv.org/abs/2610.37381"
+    },
+    {
+      "arxiv_id": "2610.36545",
+      "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+      "date": "2026-11-02",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 108,
+      "organization": "FrameX-AI",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "img_flow"
+      ],
+      "github_repo": "https://github.com/Lyne1/FrameForge",
+      "hf_url": "https://huggingface.co/papers/2610.36545",
+      "arxiv_url": "https://arxiv.org/abs/2610.36545"
+    },
+    {
+      "arxiv_id": "2611.18359",
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "date": "2026-11-16",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 108,
+      "organization": "",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2611.18359",
+      "arxiv_url": "https://arxiv.org/abs/2611.18359"
+    },
+    {
+      "arxiv_id": "2610.33966",
+      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 107,
+      "organization": "Meta",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/facebookresearch/InteractiveWorld",
+      "hf_url": "https://huggingface.co/papers/2610.33966",
+      "arxiv_url": "https://arxiv.org/abs/2610.33966"
+    },
+    {
+      "arxiv_id": "2610.36729",
+      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 102,
+      "organization": "Tencent Hunyuan",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Vision_World",
+        "Training_RL",
+        "Efficiency"
+      ],
+      "subtopics": [
+        "data_synth",
+        "slm_edge",
+        "vlm_video_und",
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+      "hf_url": "https://huggingface.co/papers/2610.36729",
+      "arxiv_url": "https://arxiv.org/abs/2610.36729"
+    },
+    {
+      "arxiv_id": "2611.00859",
+      "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+      "date": "2026-11-03",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 96,
+      "organization": "DENG Lab @ SJTU",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World",
+        "Efficiency"
+      ],
+      "subtopics": [
+        "video_world"
+      ],
+      "github_repo": "https://github.com/SJTU-DENG-Lab/WaveForcing",
+      "hf_url": "https://huggingface.co/papers/2611.00859",
+      "arxiv_url": "https://arxiv.org/abs/2611.00859"
+    },
+    {
+      "arxiv_id": "2611.12806",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "date": "2026-11-10",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 91,
+      "organization": "Robbyant",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "vla_policy",
+        "humanoid_manip"
+      ],
+      "github_repo": "https://github.com/Robbyant/lingbot-touch",
+      "hf_url": "https://huggingface.co/papers/2611.12806",
+      "arxiv_url": "https://arxiv.org/abs/2611.12806"
+    }
+  ],
+  "top_100_landmark_papers": [
+    {
+      "arxiv_id": "2509.08721",
+      "title": "Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing",
+      "date": "2025-09-10",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 662,
+      "organization": "Gensyn",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "peft_sft"
+      ],
+      "github_repo": "https://github.com/gensyn-ai/rl-swarm",
+      "hf_url": "https://huggingface.co/papers/2509.08721",
+      "arxiv_url": "https://arxiv.org/abs/2509.08721"
+    },
+    {
+      "arxiv_id": "2402.17764",
+      "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+      "date": "2024-02-28",
+      "year": "2024",
+      "quarter": "2024-Q1",
+      "upvotes": 627,
+      "organization": "",
+      "primary_domain": "Efficiency",
+      "domains": [
+        "Efficiency"
+      ],
+      "subtopics": [
+        "quant_lowbit"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2402.17764",
+      "arxiv_url": "https://arxiv.org/abs/2402.17764"
+    },
+    {
+      "arxiv_id": "2509.26507",
+      "title": "The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain",
+      "date": "2025-10-01",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 547,
+      "organization": "Pathway",
+      "primary_domain": "Architecture",
+      "domains": [
+        "Architecture",
+        "Safety_Interp"
+      ],
+      "subtopics": [
+        "ssm_linear",
+        "residual_arch",
+        "interp_cot_mon"
+      ],
+      "github_repo": "https://github.com/pathwaycom/bdh",
+      "hf_url": "https://huggingface.co/papers/2509.26507",
+      "arxiv_url": "https://arxiv.org/abs/2509.26507"
+    },
+    {
+      "arxiv_id": "2602.20159",
+      "title": "A Very Big Video Reasoning Suite",
+      "date": "2026-02-24",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 514,
+      "organization": "Video-Reason",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2602.20159",
+      "arxiv_url": "https://arxiv.org/abs/2602.20159"
+    },
+    {
+      "arxiv_id": "2510.04871",
+      "title": "Less is More: Recursive Reasoning with Tiny Networks",
+      "date": "2025-10-08",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 509,
+      "organization": "Samsung  AI Lab (SAIL) Montreal",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning"
+      ],
+      "subtopics": [
+        "slm_edge"
+      ],
+      "github_repo": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+      "hf_url": "https://huggingface.co/papers/2510.04871",
+      "arxiv_url": "https://arxiv.org/abs/2510.04871"
+    },
+    {
+      "arxiv_id": "2501.12948",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "date": "2025-01-23",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 442,
+      "organization": "DeepSeek",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "peft_sft"
+      ],
+      "github_repo": "https://github.com/deepseek-ai/deepseek-r1",
+      "hf_url": "https://huggingface.co/papers/2501.12948",
+      "arxiv_url": "https://arxiv.org/abs/2501.12948"
+    },
+    {
+      "arxiv_id": "2412.15115",
+      "title": "Qwen2.5 Technical Report",
+      "date": "2024-12-20",
+      "year": "2024",
+      "quarter": "2024-Q4",
+      "upvotes": 377,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/QwenLM/Qwen2.5",
+      "hf_url": "https://huggingface.co/papers/2412.15115",
+      "arxiv_url": "https://arxiv.org/abs/2412.15115"
+    },
+    {
+      "arxiv_id": "2508.18106",
+      "title": "A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code",
+      "date": "2025-09-01",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 349,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Safety_Interp",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "swe_coding",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/Tencent/AICGSecEval",
+      "hf_url": "https://huggingface.co/papers/2508.18106",
+      "arxiv_url": "https://arxiv.org/abs/2508.18106"
+    },
+    {
+      "arxiv_id": "2602.05400",
+      "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
+      "date": "2026-02-11",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 347,
+      "organization": "Qwen",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "data_synth"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2602.05400",
+      "arxiv_url": "https://arxiv.org/abs/2602.05400"
+    },
+    {
+      "arxiv_id": "2609.02749",
+      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+      "date": "2026-09-03",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 342,
+      "organization": "Beijing Academy of Artificial Intelligence",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "data_synth",
+        "harness_skills"
+      ],
+      "github_repo": "https://github.com/VectorSpaceLab/AREX-Skill",
+      "hf_url": "https://huggingface.co/papers/2609.02749",
+      "arxiv_url": "https://arxiv.org/abs/2609.02749"
+    },
+    {
+      "arxiv_id": "2505.09388",
+      "title": "Qwen3 Technical Report",
+      "date": "2025-05-19",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 338,
+      "organization": "Qwen",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Science_Eval",
+        "Agents",
+        "Architecture"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "math_formal",
+        "swe_coding",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/QwenLM/Qwen3",
+      "hf_url": "https://huggingface.co/papers/2505.09388",
+      "arxiv_url": "https://arxiv.org/abs/2505.09388"
+    },
+    {
+      "arxiv_id": "2610.33568",
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 325,
+      "organization": "ant-international",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/yihaohu0118/Trajectory2Gym",
+      "hf_url": "https://huggingface.co/papers/2610.33568",
+      "arxiv_url": "https://arxiv.org/abs/2610.33568"
+    },
+    {
+      "arxiv_id": "2507.18071",
+      "title": "Group Sequence Policy Optimization",
+      "date": "2025-07-25",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 319,
+      "organization": "Qwen",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "rlvr_grpo"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2507.18071",
+      "arxiv_url": "https://arxiv.org/abs/2507.18071"
+    },
+    {
+      "arxiv_id": "2512.24880",
+      "title": "mHC: Manifold-Constrained Hyper-Connections",
+      "date": "2026-01-01",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 318,
+      "organization": "DeepSeek",
+      "primary_domain": "Architecture",
+      "domains": [
+        "Architecture"
+      ],
+      "subtopics": [],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2512.24880",
+      "arxiv_url": "https://arxiv.org/abs/2512.24880"
+    },
+    {
+      "arxiv_id": "2602.00919",
+      "title": "Green-VLA: Staged Vision-Language-Action Model for Generalist Robots",
+      "date": "2026-02-03",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 315,
+      "organization": "Sber Robotics Center",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "slm_edge",
+        "vlm_video_und",
+        "vla_policy",
+        "humanoid_manip"
+      ],
+      "github_repo": "https://github.com/greenvla/GreenVLA",
+      "hf_url": "https://huggingface.co/papers/2602.00919",
+      "arxiv_url": "https://arxiv.org/abs/2602.00919"
+    },
+    {
+      "arxiv_id": "2504.10479",
+      "title": "InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models",
+      "date": "2025-04-15",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 306,
+      "organization": "",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Training_RL",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "dpo_rlhf",
+        "ttc_scaling",
+        "vlm_video_und",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/OpenGVLab/InternVL",
+      "hf_url": "https://huggingface.co/papers/2504.10479",
+      "arxiv_url": "https://arxiv.org/abs/2504.10479"
+    },
+    {
+      "arxiv_id": "2610.36077",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 305,
+      "organization": "National University of Singapore",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "rsi_self_evol",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/InfRec-Cardinal/The-Trinity",
+      "hf_url": "https://huggingface.co/papers/2610.36077",
+      "arxiv_url": "https://arxiv.org/abs/2610.36077"
+    },
+    {
+      "arxiv_id": "2504.01990",
+      "title": "Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",
+      "date": "2025-04-04",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 303,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "rag_memory"
+      ],
+      "github_repo": "https://github.com/FoundationAgents/awesome-foundation-agents",
+      "hf_url": "https://huggingface.co/papers/2504.01990",
+      "arxiv_url": "https://arxiv.org/abs/2504.01990"
+    },
+    {
+      "arxiv_id": "2511.18538",
+      "title": "From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence",
+      "date": "2025-12-02",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 301,
+      "organization": "Beihang University",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "interp_cot_mon",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2511.18538",
+      "arxiv_url": "https://arxiv.org/abs/2511.18538"
+    },
+    {
+      "arxiv_id": "2501.08313",
+      "title": "MiniMax-01: Scaling Foundation Models with Lightning Attention",
+      "date": "2025-01-15",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 300,
+      "organization": "",
+      "primary_domain": "Architecture",
+      "domains": [
+        "Architecture"
+      ],
+      "subtopics": [
+        "ssm_linear",
+        "moe_routing",
+        "vlm_video_und",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/MiniMax-AI/MiniMax-01",
+      "hf_url": "https://huggingface.co/papers/2501.08313",
+      "arxiv_url": "https://arxiv.org/abs/2501.08313"
+    },
+    {
+      "arxiv_id": "2508.10104",
+      "title": "DINOv3",
+      "date": "2025-08-18",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 299,
+      "organization": "AI at Meta",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Safety_Interp"
+      ],
+      "subtopics": [],
+      "github_repo": "https://github.com/facebookresearch/dinov3",
+      "hf_url": "https://huggingface.co/papers/2508.10104",
+      "arxiv_url": "https://arxiv.org/abs/2508.10104"
+    },
+    {
+      "arxiv_id": "2501.04519",
+      "title": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
+      "date": "2025-01-09",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 288,
+      "organization": "",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning"
+      ],
+      "subtopics": [
+        "dpo_rlhf",
+        "data_synth",
+        "cot_search",
+        "ttc_scaling",
+        "math_formal"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2501.04519",
+      "arxiv_url": "https://arxiv.org/abs/2501.04519"
+    },
+    {
+      "arxiv_id": "2609.01591",
+      "title": "StudentSim: Training LLM-based Student Simulators",
+      "date": "2026-09-02",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 283,
+      "organization": "Microsoft Research",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Efficiency"
+      ],
+      "subtopics": [
+        "dpo_rlhf"
+      ],
+      "github_repo": "https://github.com/microsoft/StudentSim",
+      "hf_url": "https://huggingface.co/papers/2609.01591",
+      "arxiv_url": "https://arxiv.org/abs/2609.01591"
+    },
+    {
+      "arxiv_id": "2602.08222",
+      "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
+      "date": "2026-02-10",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 282,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "data_synth",
+        "math_formal",
+        "swe_coding"
+      ],
+      "github_repo": "https://github.com/chenzehao82/Weak-Driven-Learning",
+      "hf_url": "https://huggingface.co/papers/2602.08222",
+      "arxiv_url": "https://arxiv.org/abs/2602.08222"
+    },
+    {
+      "arxiv_id": "2609.33439",
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "date": "2026-09-30",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 281,
+      "organization": "EverMind",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills"
+      ],
+      "github_repo": "https://github.com/EverMind-AI/Raven",
+      "hf_url": "https://huggingface.co/papers/2609.33439",
+      "arxiv_url": "https://arxiv.org/abs/2609.33439"
+    },
+    {
+      "arxiv_id": "2609.06986",
+      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+      "date": "2026-09-16",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 278,
+      "organization": "Johns Hopkins University",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "rag_memory"
+      ],
+      "github_repo": "https://github.com/cozheyuanzhangde/compose-cl",
+      "hf_url": "https://huggingface.co/papers/2609.06986",
+      "arxiv_url": "https://arxiv.org/abs/2609.06986"
+    },
+    {
+      "arxiv_id": "2505.24726",
+      "title": "Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning",
+      "date": "2025-06-04",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 277,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "data_synth",
+        "rsi_self_evol"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2505.24726",
+      "arxiv_url": "https://arxiv.org/abs/2505.24726"
+    },
+    {
+      "arxiv_id": "2506.13585",
+      "title": "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention",
+      "date": "2025-06-17",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 273,
+      "organization": "",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Architecture",
+        "Agents"
+      ],
+      "subtopics": [
+        "ssm_linear",
+        "moe_routing",
+        "ttc_scaling",
+        "swe_coding",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/MiniMax-AI/MiniMax-M1",
+      "hf_url": "https://huggingface.co/papers/2506.13585",
+      "arxiv_url": "https://arxiv.org/abs/2506.13585"
+    },
+    {
+      "arxiv_id": "2510.08558",
+      "title": "Agent Learning via Early Experience",
+      "date": "2025-10-10",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 273,
+      "organization": "Meta Research",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "harness_skills"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2510.08558",
+      "arxiv_url": "https://arxiv.org/abs/2510.08558"
+    },
+    {
+      "arxiv_id": "2508.02324",
+      "title": "Qwen-Image Technical Report",
+      "date": "2025-08-05",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 272,
+      "organization": "",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World"
+      ],
+      "subtopics": [
+        "img_flow",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/QwenLM/Qwen-Image",
+      "hf_url": "https://huggingface.co/papers/2508.02324",
+      "arxiv_url": "https://arxiv.org/abs/2508.02324"
+    },
+    {
+      "arxiv_id": "2508.15763",
+      "title": "Intern-S1: A Scientific Multimodal Foundation Model",
+      "date": "2025-08-22",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 270,
+      "organization": "",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval",
+        "Multimodal",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/InternLM/Intern-S1",
+      "hf_url": "https://huggingface.co/papers/2508.15763",
+      "arxiv_url": "https://arxiv.org/abs/2508.15763"
+    },
+    {
+      "arxiv_id": "2609.13356",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "date": "2026-09-15",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 268,
+      "organization": "ZGCAGI",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Training_RL",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "math_formal",
+        "quant_lowbit",
+        "harness_skills"
+      ],
+      "github_repo": "https://github.com/zgcagi/ZGCM-1",
+      "hf_url": "https://huggingface.co/papers/2609.13356",
+      "arxiv_url": "https://arxiv.org/abs/2609.13356"
+    },
+    {
+      "arxiv_id": "2506.08007",
+      "title": "Reinforcement Pre-Training",
+      "date": "2025-06-10",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 263,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "rlvr_grpo"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2506.08007",
+      "arxiv_url": "https://arxiv.org/abs/2506.08007"
+    },
+    {
+      "arxiv_id": "2602.04705",
+      "title": "ERNIE 5.0 Technical Report",
+      "date": "2026-02-05",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 263,
+      "organization": "",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Efficiency",
+        "Training_RL",
+        "Architecture"
+      ],
+      "subtopics": [
+        "moe_routing"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2602.04705",
+      "arxiv_url": "https://arxiv.org/abs/2602.04705"
+    },
+    {
+      "arxiv_id": "2507.13334",
+      "title": "A Survey of Context Engineering for Large Language Models",
+      "date": "2025-07-18",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 261,
+      "organization": "",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval",
+        "Reasoning",
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "rag_memory"
+      ],
+      "github_repo": "https://github.com/Meirtz/Awesome-Context-Engineering",
+      "hf_url": "https://huggingface.co/papers/2507.13334",
+      "arxiv_url": "https://arxiv.org/abs/2507.13334"
+    },
+    {
+      "arxiv_id": "2512.02556",
+      "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+      "date": "2025-12-03",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 261,
+      "organization": "DeepSeek",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Training_RL",
+        "Agents"
+      ],
+      "subtopics": [
+        "math_formal",
+        "harness_skills"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2512.02556",
+      "arxiv_url": "https://arxiv.org/abs/2512.02556"
+    },
+    {
+      "arxiv_id": "2602.08354",
+      "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+      "date": "2026-02-23",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 261,
+      "organization": "ByteDance",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning"
+      ],
+      "subtopics": [
+        "ttc_scaling",
+        "math_formal",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2602.08354",
+      "arxiv_url": "https://arxiv.org/abs/2602.08354"
+    },
+    {
+      "arxiv_id": "2312.11514",
+      "title": "LLM in a flash: Efficient Large Language Model Inference with Limited Memory",
+      "date": "2023-12-20",
+      "year": "2023",
+      "quarter": "2023-Q4",
+      "upvotes": 260,
+      "organization": "",
+      "primary_domain": "Efficiency",
+      "domains": [
+        "Efficiency"
+      ],
+      "subtopics": [],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2312.11514",
+      "arxiv_url": "https://arxiv.org/abs/2312.11514"
+    },
+    {
+      "arxiv_id": "2404.14219",
+      "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+      "date": "2024-04-23",
+      "year": "2024",
+      "quarter": "2024-Q2",
+      "upvotes": 259,
+      "organization": "Microsoft",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Safety_Interp",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "data_synth",
+        "slm_edge",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2404.14219",
+      "arxiv_url": "https://arxiv.org/abs/2404.14219"
+    },
+    {
+      "arxiv_id": "2602.02276",
+      "title": "Kimi K2.5: Visual Agentic Intelligence",
+      "date": "2026-02-03",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 257,
+      "organization": "Moonshot AI",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft"
+      ],
+      "github_repo": "https://github.com/MoonshotAI/Kimi-K2.5",
+      "hf_url": "https://huggingface.co/papers/2602.02276",
+      "arxiv_url": "https://arxiv.org/abs/2602.02276"
+    },
+    {
+      "arxiv_id": "2502.02737",
+      "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+      "date": "2025-02-06",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 256,
+      "organization": "Hugging Face Smol Models Research",
+      "primary_domain": "Efficiency",
+      "domains": [
+        "Efficiency",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "slm_edge"
+      ],
+      "github_repo": "https://github.com/huggingface/smollm",
+      "hf_url": "https://huggingface.co/papers/2502.02737",
+      "arxiv_url": "https://arxiv.org/abs/2502.02737"
+    },
+    {
+      "arxiv_id": "2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "date": "2026-10-29",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 256,
+      "organization": "ZJU-OmniAI",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "dlm_non_ar",
+        "math_formal"
+      ],
+      "github_repo": "https://github.com/ZJU-OmniAI/DTCA",
+      "hf_url": "https://huggingface.co/papers/2610.35201",
+      "arxiv_url": "https://arxiv.org/abs/2610.35201"
+    },
+    {
+      "arxiv_id": "2507.01006",
+      "title": "GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning",
+      "date": "2025-07-02",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 251,
+      "organization": "",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Reasoning",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "doc_ocr_gui",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/THUDM/GLM-4.1V-Thinking",
+      "hf_url": "https://huggingface.co/papers/2507.01006",
+      "arxiv_url": "https://arxiv.org/abs/2507.01006"
+    },
+    {
+      "arxiv_id": "2603.19835",
+      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+      "date": "2026-04-01",
+      "year": "2026",
+      "quarter": "2026-Q2",
+      "upvotes": 251,
+      "organization": "Qwen",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "rlvr_grpo",
+        "cot_search",
+        "math_formal"
+      ],
+      "github_repo": "https://github.com/qwenpilot/FIPO",
+      "hf_url": "https://huggingface.co/papers/2603.19835",
+      "arxiv_url": "https://arxiv.org/abs/2603.19835"
+    },
+    {
+      "arxiv_id": "2307.09288",
+      "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+      "date": "2023-07-19",
+      "year": "2023",
+      "quarter": "2023-Q3",
+      "upvotes": 250,
+      "organization": "",
+      "primary_domain": "Safety_Interp",
+      "domains": [
+        "Safety_Interp",
+        "Training_RL",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/facebookresearch/llama",
+      "hf_url": "https://huggingface.co/papers/2307.09288",
+      "arxiv_url": "https://arxiv.org/abs/2307.09288"
+    },
+    {
+      "arxiv_id": "2509.09372",
+      "title": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model",
+      "date": "2025-09-12",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 249,
+      "organization": "",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "slm_edge",
+        "vlm_video_und",
+        "vla_policy",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/OpenHelix-Team/VLA-Adapter",
+      "hf_url": "https://huggingface.co/papers/2509.09372",
+      "arxiv_url": "https://arxiv.org/abs/2509.09372"
+    },
+    {
+      "arxiv_id": "2609.15818",
+      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+      "date": "2026-09-15",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 247,
+      "organization": "Intern Large Models",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "hf_url": "https://huggingface.co/papers/2609.15818",
+      "arxiv_url": "https://arxiv.org/abs/2609.15818"
+    },
+    {
+      "arxiv_id": "2311.12983",
+      "title": "GAIA: a benchmark for General AI Assistants",
+      "date": "2023-11-23",
+      "year": "2023",
+      "quarter": "2023-Q4",
+      "upvotes": 246,
+      "organization": "",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "ai4science",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2311.12983",
+      "arxiv_url": "https://arxiv.org/abs/2311.12983"
+    },
+    {
+      "arxiv_id": "2609.14858",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "date": "2026-09-15",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 246,
+      "organization": "Google",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "rlvr_grpo",
+        "math_formal",
+        "slm_edge",
+        "rsi_self_evol"
+      ],
+      "github_repo": "https://github.com/zhengkid/Dream-RSI",
+      "hf_url": "https://huggingface.co/papers/2609.14858",
+      "arxiv_url": "https://arxiv.org/abs/2609.14858"
+    },
+    {
+      "arxiv_id": "2511.22699",
+      "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
+      "date": "2025-12-01",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 244,
+      "organization": "Tongyi-MAI",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World",
+        "Training_RL",
+        "Architecture"
+      ],
+      "subtopics": [
+        "data_synth",
+        "img_flow"
+      ],
+      "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
+      "hf_url": "https://huggingface.co/papers/2511.22699",
+      "arxiv_url": "https://arxiv.org/abs/2511.22699"
+    },
+    {
+      "arxiv_id": "2602.10388",
+      "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
+      "date": "2026-02-16",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 242,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Safety_Interp",
+        "Efficiency"
+      ],
+      "subtopics": [
+        "interp_cot_mon"
+      ],
+      "github_repo": "https://github.com/Zhongzhi660/FAC-Synthesis",
+      "hf_url": "https://huggingface.co/papers/2602.10388",
+      "arxiv_url": "https://arxiv.org/abs/2602.10388"
+    },
+    {
+      "arxiv_id": "2511.04570",
+      "title": "Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm",
+      "date": "2025-11-07",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 241,
+      "organization": "OpenMOSS",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Reasoning",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/tongjingqi/Thinking-with-Video",
+      "hf_url": "https://huggingface.co/papers/2511.04570",
+      "arxiv_url": "https://arxiv.org/abs/2511.04570"
+    },
+    {
+      "arxiv_id": "2508.01191",
+      "title": "Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens",
+      "date": "2025-08-07",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 238,
+      "organization": "",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning"
+      ],
+      "subtopics": [
+        "cot_search"
+      ],
+      "github_repo": "https://github.com/ChengshuaiZhao0/DataAlchemy",
+      "hf_url": "https://huggingface.co/papers/2508.01191",
+      "arxiv_url": "https://arxiv.org/abs/2508.01191"
+    },
+    {
+      "arxiv_id": "2610.18829",
+      "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+      "date": "2026-10-16",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 235,
+      "organization": "VCLab",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "omni_fusion",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/PolyU-VCLab/OmniCompass",
+      "hf_url": "https://huggingface.co/papers/2610.18829",
+      "arxiv_url": "https://arxiv.org/abs/2610.18829"
+    },
+    {
+      "arxiv_id": "2509.02547",
+      "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+      "date": "2025-09-03",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 233,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
+      "hf_url": "https://huggingface.co/papers/2509.02547",
+      "arxiv_url": "https://arxiv.org/abs/2509.02547"
+    },
+    {
+      "arxiv_id": "2511.14993",
+      "title": "Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation",
+      "date": "2025-11-20",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 233,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "slm_edge",
+        "img_flow",
+        "video_world"
+      ],
+      "github_repo": "https://github.com/kandinskylab/kandinsky-5",
+      "hf_url": "https://huggingface.co/papers/2511.14993",
+      "arxiv_url": "https://arxiv.org/abs/2511.14993"
+    },
+    {
+      "arxiv_id": "2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "date": "2026-10-30",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 233,
+      "organization": "inclusionAI",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "img_flow"
+      ],
+      "github_repo": "https://github.com/inclusionAI/IDM",
+      "hf_url": "https://huggingface.co/papers/2610.39633",
+      "arxiv_url": "https://arxiv.org/abs/2610.39633"
+    },
+    {
+      "arxiv_id": "2503.03601",
+      "title": "Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders",
+      "date": "2025-03-11",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 232,
+      "organization": "",
+      "primary_domain": "Efficiency",
+      "domains": [
+        "Efficiency",
+        "Safety_Interp"
+      ],
+      "subtopics": [
+        "interp_cot_mon"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2503.03601",
+      "arxiv_url": "https://arxiv.org/abs/2503.03601"
+    },
+    {
+      "arxiv_id": "2510.25741",
+      "title": "Scaling Latent Reasoning via Looped Language Models",
+      "date": "2025-10-30",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 229,
+      "organization": "ByteDance Seed",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "residual_arch",
+        "cot_search",
+        "ttc_scaling",
+        "humanoid_manip",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2510.25741",
+      "arxiv_url": "https://arxiv.org/abs/2510.25741"
+    },
+    {
+      "arxiv_id": "2601.05242",
+      "title": "GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization",
+      "date": "2026-01-09",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 229,
+      "organization": "NVIDIA",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL"
+      ],
+      "subtopics": [
+        "rlvr_grpo"
+      ],
+      "github_repo": "https://github.com/NVlabs/GDPO",
+      "hf_url": "https://huggingface.co/papers/2601.05242",
+      "arxiv_url": "https://arxiv.org/abs/2601.05242"
+    },
+    {
+      "arxiv_id": "2609.00111",
+      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+      "date": "2026-09-02",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 229,
+      "organization": "Qwen",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Embodied",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "humanoid_manip"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2609.00111",
+      "arxiv_url": "https://arxiv.org/abs/2609.00111"
+    },
+    {
+      "arxiv_id": "2610.34662",
+      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+      "date": "2026-10-27",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 229,
+      "organization": "Google",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Multimodal",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "harness_skills",
+        "rag_memory",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2610.34662",
+      "arxiv_url": "https://arxiv.org/abs/2610.34662"
+    },
+    {
+      "arxiv_id": "2610.34283",
+      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+      "date": "2026-10-28",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 225,
+      "organization": "LINs lab",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Multimodal",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "vlm_video_und",
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/yihaohu0118/ChronoReplay",
+      "hf_url": "https://huggingface.co/papers/2610.34283",
+      "arxiv_url": "https://arxiv.org/abs/2610.34283"
+    },
+    {
+      "arxiv_id": "2502.01061",
+      "title": "OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models",
+      "date": "2025-02-04",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 223,
+      "organization": "",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "video_world"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2502.01061",
+      "arxiv_url": "https://arxiv.org/abs/2502.01061"
+    },
+    {
+      "arxiv_id": "2505.17894",
+      "title": "Mutarjim: Advancing Bidirectional Arabic-English Translation with a Small Language Model",
+      "date": "2025-05-27",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 220,
+      "organization": "Misraj Ai",
+      "primary_domain": "Efficiency",
+      "domains": [
+        "Efficiency",
+        "Science_Eval",
+        "Safety_Interp"
+      ],
+      "subtopics": [
+        "slm_edge",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2505.17894",
+      "arxiv_url": "https://arxiv.org/abs/2505.17894"
+    },
+    {
+      "arxiv_id": "2512.16676",
+      "title": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
+      "date": "2025-12-23",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 220,
+      "organization": "Peking University",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Agents",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "math_formal",
+        "rag_memory",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/OpenDCAI/DataFlow",
+      "hf_url": "https://huggingface.co/papers/2512.16676",
+      "arxiv_url": "https://arxiv.org/abs/2512.16676"
+    },
+    {
+      "arxiv_id": "2601.23265",
+      "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
+      "date": "2026-02-02",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 218,
+      "organization": "Google",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Multimodal",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "img_flow"
+      ],
+      "github_repo": "https://github.com/dwzhu-pku/PaperBanana",
+      "hf_url": "https://huggingface.co/papers/2601.23265",
+      "arxiv_url": "https://arxiv.org/abs/2601.23265"
+    },
+    {
+      "arxiv_id": "2602.10693",
+      "title": "VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training",
+      "date": "2026-02-23",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 217,
+      "organization": "rednote-hilab",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "rlvr_grpo",
+        "math_formal",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/FloyedShen/VESPO",
+      "hf_url": "https://huggingface.co/papers/2602.10693",
+      "arxiv_url": "https://arxiv.org/abs/2602.10693"
+    },
+    {
+      "arxiv_id": "2610.12572",
+      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
+      "date": "2026-10-12",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 217,
+      "organization": "KlingAI Research",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "dpo_rlhf",
+        "rlvr_grpo",
+        "video_world"
+      ],
+      "github_repo": "https://github.com/vanzll/DiffusionART",
+      "hf_url": "https://huggingface.co/papers/2610.12572",
+      "arxiv_url": "https://arxiv.org/abs/2610.12572"
+    },
+    {
+      "arxiv_id": "2502.13923",
+      "title": "Qwen2.5-VL Technical Report",
+      "date": "2025-02-20",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 215,
+      "organization": "",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Reasoning",
+        "Agents",
+        "Architecture"
+      ],
+      "subtopics": [
+        "slm_edge",
+        "vlm_video_und",
+        "doc_ocr_gui"
+      ],
+      "github_repo": "https://github.com/QwenLM/Qwen2.5-VL",
+      "hf_url": "https://huggingface.co/papers/2502.13923",
+      "arxiv_url": "https://arxiv.org/abs/2502.13923"
+    },
+    {
+      "arxiv_id": "2508.18265",
+      "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
+      "date": "2025-08-26",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 215,
+      "organization": "",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "doc_ocr_gui"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2508.18265",
+      "arxiv_url": "https://arxiv.org/abs/2508.18265"
+    },
+    {
+      "arxiv_id": "2601.06943",
+      "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning",
+      "date": "2026-01-13",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 215,
+      "organization": "QuantaAlpha",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Agents",
+        "Science_Eval",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/QuantaAlpha/VideoDR-Benchmark",
+      "hf_url": "https://huggingface.co/papers/2601.06943",
+      "arxiv_url": "https://arxiv.org/abs/2601.06943"
+    },
+    {
+      "arxiv_id": "2511.08892",
+      "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
+      "date": "2025-11-13",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 213,
+      "organization": "ByteDance Seed",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Reasoning",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "doc_ocr_gui",
+        "humanoid_manip"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2511.08892",
+      "arxiv_url": "https://arxiv.org/abs/2511.08892"
+    },
+    {
+      "arxiv_id": "2609.11638",
+      "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+      "date": "2026-09-15",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 213,
+      "organization": "Tsinghua University",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World"
+      ],
+      "subtopics": [
+        "video_world"
+      ],
+      "github_repo": "https://github.com/shengshu-ai/Vidu-S",
+      "hf_url": "https://huggingface.co/papers/2609.11638",
+      "arxiv_url": "https://arxiv.org/abs/2609.11638"
+    },
+    {
+      "arxiv_id": "2609.36484",
+      "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+      "date": "2026-10-01",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 213,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Architecture"
+      ],
+      "subtopics": [
+        "data_synth"
+      ],
+      "github_repo": "https://github.com/xixixixixxxx/RIDE",
+      "hf_url": "https://huggingface.co/papers/2609.36484",
+      "arxiv_url": "https://arxiv.org/abs/2609.36484"
+    },
+    {
+      "arxiv_id": "2509.03867",
+      "title": "Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth",
+      "date": "2025-09-05",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 211,
+      "organization": "",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/ExtraOrdinaryLab/drivelology",
+      "hf_url": "https://huggingface.co/papers/2509.03867",
+      "arxiv_url": "https://arxiv.org/abs/2509.03867"
+    },
+    {
+      "arxiv_id": "2609.34309",
+      "title": "MaLiang-Harness: A Programmable Path to Image and Video Generation",
+      "date": "2026-09-30",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 211,
+      "organization": "National University of Singapore",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Vision_World",
+        "Multimodal",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "harness_skills",
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/gulucaptain/MaLiang-Harness",
+      "hf_url": "https://huggingface.co/papers/2609.34309",
+      "arxiv_url": "https://arxiv.org/abs/2609.34309"
+    },
+    {
+      "arxiv_id": "2410.18057",
+      "title": "CLEAR: Character Unlearning in Textual and Visual Modalities",
+      "date": "2024-10-30",
+      "year": "2024",
+      "quarter": "2024-Q4",
+      "upvotes": 209,
+      "organization": "",
+      "primary_domain": "Safety_Interp",
+      "domains": [
+        "Safety_Interp",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "fact_unlearn",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/somvy/multimodal_unlearning",
+      "hf_url": "https://huggingface.co/papers/2410.18057",
+      "arxiv_url": "https://arxiv.org/abs/2410.18057"
+    },
+    {
+      "arxiv_id": "2602.07274",
+      "title": "TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents",
+      "date": "2026-02-10",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 207,
+      "organization": "UC Santa Barbara NLP Group",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "harness_skills"
+      ],
+      "github_repo": "https://github.com/ucsb-mlsec/terminal-bench-env",
+      "hf_url": "https://huggingface.co/papers/2602.07274",
+      "arxiv_url": "https://arxiv.org/abs/2602.07274"
+    },
+    {
+      "arxiv_id": "2508.06471",
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+      "date": "2025-08-11",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 206,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "math_formal",
+        "swe_coding",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/zai-org/GLM-4.5",
+      "hf_url": "https://huggingface.co/papers/2508.06471",
+      "arxiv_url": "https://arxiv.org/abs/2508.06471"
+    },
+    {
+      "arxiv_id": "2610.20571",
+      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "date": "2026-10-15",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 206,
+      "organization": "Zhejiang University",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/ziplab/ATAS",
+      "hf_url": "https://huggingface.co/papers/2610.20571",
+      "arxiv_url": "https://arxiv.org/abs/2610.20571"
+    },
+    {
+      "arxiv_id": "2504.05299",
+      "title": "SmolVLM: Redefining small and efficient multimodal models",
+      "date": "2025-04-08",
+      "year": "2025",
+      "quarter": "2025-Q2",
+      "upvotes": 205,
+      "organization": "Hugging Face",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Architecture"
+      ],
+      "subtopics": [
+        "data_synth",
+        "slm_edge",
+        "vlm_video_und"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2504.05299",
+      "arxiv_url": "https://arxiv.org/abs/2504.05299"
+    },
+    {
+      "arxiv_id": "2601.12538",
+      "title": "Agentic Reasoning for Large Language Models",
+      "date": "2026-01-22",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 201,
+      "organization": "University of Illinois at Urbana-Champaign",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Agents"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "ttc_scaling",
+        "harness_skills",
+        "rsi_self_evol",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/weitianxin/Awesome-Agentic-Reasoning",
+      "hf_url": "https://huggingface.co/papers/2601.12538",
+      "arxiv_url": "https://arxiv.org/abs/2601.12538"
+    },
+    {
+      "arxiv_id": "2601.06521",
+      "title": "BabyVision: Visual Reasoning Beyond Language",
+      "date": "2026-01-13",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 200,
+      "organization": "",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Reasoning",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/UniPat-AI/BabyVision",
+      "hf_url": "https://huggingface.co/papers/2601.06521",
+      "arxiv_url": "https://arxiv.org/abs/2601.06521"
+    },
+    {
+      "arxiv_id": "2602.09856",
+      "title": "Code2World: A GUI World Model via Renderable Code Generation",
+      "date": "2026-02-11",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 200,
+      "organization": "AMAP-ML",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Agents",
+        "Vision_World"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "vlm_video_und",
+        "doc_ocr_gui",
+        "swe_coding",
+        "video_world"
+      ],
+      "github_repo": "https://github.com/AMAP-ML/Code2World",
+      "hf_url": "https://huggingface.co/papers/2602.09856",
+      "arxiv_url": "https://arxiv.org/abs/2602.09856"
+    },
+    {
+      "arxiv_id": "2610.13361",
+      "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+      "date": "2026-10-13",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 200,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "swe_coding",
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2610.13361",
+      "arxiv_url": "https://arxiv.org/abs/2610.13361"
+    },
+    {
+      "arxiv_id": "2308.04079",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "date": "2023-08-09",
+      "year": "2023",
+      "quarter": "2023-Q3",
+      "upvotes": 199,
+      "organization": "",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World"
+      ],
+      "subtopics": [
+        "3d_gs_mesh"
+      ],
+      "github_repo": "https://github.com/graphdeco-inria/gaussian-splatting",
+      "hf_url": "https://huggingface.co/papers/2308.04079",
+      "arxiv_url": "https://arxiv.org/abs/2308.04079"
+    },
+    {
+      "arxiv_id": "2610.13527",
+      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+      "date": "2026-10-12",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 199,
+      "organization": "MirroS",
+      "primary_domain": "Multimodal",
+      "domains": [
+        "Multimodal",
+        "Reasoning"
+      ],
+      "subtopics": [],
+      "github_repo": "https://github.com/mirros-lab/s-space",
+      "hf_url": "https://huggingface.co/papers/2610.13527",
+      "arxiv_url": "https://arxiv.org/abs/2610.13527"
+    },
+    {
+      "arxiv_id": "2509.04664",
+      "title": "Why Language Models Hallucinate",
+      "date": "2025-09-08",
+      "year": "2025",
+      "quarter": "2025-Q3",
+      "upvotes": 197,
+      "organization": "",
+      "primary_domain": "Safety_Interp",
+      "domains": [
+        "Safety_Interp",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "fact_unlearn",
+        "dyn_bench"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2509.04664",
+      "arxiv_url": "https://arxiv.org/abs/2509.04664"
+    },
+    {
+      "arxiv_id": "2602.09877",
+      "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
+      "date": "2026-02-13",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 197,
+      "organization": "",
+      "primary_domain": "Safety_Interp",
+      "domains": [
+        "Safety_Interp"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "rsi_self_evol",
+        "redteam_guard"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2602.09877",
+      "arxiv_url": "https://arxiv.org/abs/2602.09877"
+    },
+    {
+      "arxiv_id": "2602.23152",
+      "title": "The Trinity of Consistency as a Defining Principle for General World Models",
+      "date": "2026-02-27",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 197,
+      "organization": "OpenDataLab",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "video_world",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/openraiser/awesome-world-model-evolution",
+      "hf_url": "https://huggingface.co/papers/2602.23152",
+      "arxiv_url": "https://arxiv.org/abs/2602.23152"
+    },
+    {
+      "arxiv_id": "2601.09668",
+      "title": "STEP3-VL-10B Technical Report",
+      "date": "2026-01-16",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 195,
+      "organization": "StepFun",
+      "primary_domain": "Reasoning",
+      "domains": [
+        "Reasoning",
+        "Training_RL",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "ttc_scaling",
+        "slm_edge",
+        "vlm_video_und"
+      ],
+      "github_repo": "https://github.com/stepfun-ai/Step3-VL-10B",
+      "hf_url": "https://huggingface.co/papers/2601.09668",
+      "arxiv_url": "https://arxiv.org/abs/2601.09668"
+    },
+    {
+      "arxiv_id": "2609.08183",
+      "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+      "date": "2026-09-09",
+      "year": "2026",
+      "quarter": "2026-Q3",
+      "upvotes": 195,
+      "organization": "TokenRhythm",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "data_synth",
+        "harness_skills",
+        "rsi_self_evol",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/TokenRhythm/NeoHorse",
+      "hf_url": "https://huggingface.co/papers/2609.08183",
+      "arxiv_url": "https://arxiv.org/abs/2609.08183"
+    },
+    {
+      "arxiv_id": "2402.17485",
+      "title": "EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions",
+      "date": "2024-02-28",
+      "year": "2024",
+      "quarter": "2024-Q1",
+      "upvotes": 194,
+      "organization": "",
+      "primary_domain": "Vision_World",
+      "domains": [
+        "Vision_World"
+      ],
+      "subtopics": [
+        "video_world"
+      ],
+      "github_repo": "",
+      "hf_url": "https://huggingface.co/papers/2402.17485",
+      "arxiv_url": "https://arxiv.org/abs/2402.17485"
+    },
+    {
+      "arxiv_id": "2502.14499",
+      "title": "MLGym: A New Framework and Benchmark for Advancing AI Research Agents",
+      "date": "2025-02-21",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 194,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Science_Eval",
+        "Training_RL"
+      ],
+      "subtopics": [
+        "data_synth",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/facebookresearch/MLGym",
+      "hf_url": "https://huggingface.co/papers/2502.14499",
+      "arxiv_url": "https://arxiv.org/abs/2502.14499"
+    },
+    {
+      "arxiv_id": "2511.11793",
+      "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
+      "date": "2025-11-18",
+      "year": "2025",
+      "quarter": "2025-Q4",
+      "upvotes": 192,
+      "organization": "",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Reasoning"
+      ],
+      "subtopics": [
+        "ttc_scaling",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/MiroMindAI/MiroThinker",
+      "hf_url": "https://huggingface.co/papers/2511.11793",
+      "arxiv_url": "https://arxiv.org/abs/2511.11793"
+    },
+    {
+      "arxiv_id": "2609.39601",
+      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "date": "2026-10-13",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 192,
+      "organization": "XPENG AI",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Training_RL",
+        "Multimodal"
+      ],
+      "subtopics": [
+        "peft_sft",
+        "rlvr_grpo",
+        "vlm_video_und",
+        "doc_ocr_gui",
+        "vla_policy"
+      ],
+      "github_repo": "https://github.com/groundingpi/GroundingPI",
+      "hf_url": "https://huggingface.co/papers/2609.39601",
+      "arxiv_url": "https://arxiv.org/abs/2609.39601"
+    },
+    {
+      "arxiv_id": "2502.08946",
+      "title": "The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding",
+      "date": "2025-02-14",
+      "year": "2025",
+      "quarter": "2025-Q1",
+      "upvotes": 191,
+      "organization": "",
+      "primary_domain": "Training_RL",
+      "domains": [
+        "Training_RL",
+        "Architecture"
+      ],
+      "subtopics": [],
+      "github_repo": "https://github.com/physico-benchmark/physico",
+      "hf_url": "https://huggingface.co/papers/2502.08946",
+      "arxiv_url": "https://arxiv.org/abs/2502.08946"
+    },
+    {
+      "arxiv_id": "2602.10604",
+      "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
+      "date": "2026-02-12",
+      "year": "2026",
+      "quarter": "2026-Q1",
+      "upvotes": 191,
+      "organization": "StepFun",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "moe_routing",
+        "harness_skills"
+      ],
+      "github_repo": "https://github.com/stepfun-ai/Step-3.5-Flash",
+      "hf_url": "https://huggingface.co/papers/2602.10604",
+      "arxiv_url": "https://arxiv.org/abs/2602.10604"
+    },
+    {
+      "arxiv_id": "2610.20424",
+      "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+      "date": "2026-10-19",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 191,
+      "organization": "ant-international",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/ant-intl/BizAgentBench",
+      "hf_url": "https://huggingface.co/papers/2610.20424",
+      "arxiv_url": "https://arxiv.org/abs/2610.20424"
+    }
+  ]
+}
