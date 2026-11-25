@@ -82,9 +82,9 @@
   <text x="871.8" y="260.2" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" stroke="#FAF8F4" stroke-width="3" stroke-linejoin="round" fill="#1E293B">1,445</text>
   <text x="871.8" y="260.2" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" fill="#1E293B">1,445</text>
   <text x="871.8" y="474.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#334155">26-Q3</text>
-  <rect x="914.1" y="256.6" width="32.9" height="197.4" rx="3" fill="#13294B" fill-opacity="0.86"/>
-  <text x="930.6" y="250.6" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" stroke="#FAF8F4" stroke-width="3" stroke-linejoin="round" fill="#1E293B">1,519</text>
-  <text x="930.6" y="250.6" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" fill="#1E293B">1,519</text>
+  <rect x="914.1" y="250.1" width="32.9" height="203.9" rx="3" fill="#13294B" fill-opacity="0.86"/>
+  <text x="930.6" y="244.1" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" stroke="#FAF8F4" stroke-width="3" stroke-linejoin="round" fill="#1E293B">1,569</text>
+  <text x="930.6" y="244.1" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" fill="#1E293B">1,569</text>
   <text x="930.6" y="474.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#334155">26-Q4</text>
   <text x="970" y="458.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#B84A39">0% / 0</text>
   <text x="970" y="395.6" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#B84A39">17% / 8</text>
@@ -92,8 +92,8 @@
   <text x="970" y="270.8" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#B84A39">51% / 24</text>
   <text x="970" y="208.4" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#B84A39">68% / 32</text>
   <text x="970" y="146.0" text-anchor="start" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#B84A39">85% / 40</text>
-  <polyline points="107.4,258.7 166.2,275.4 225.0,276.2 283.8,273.9 342.6,251.1 401.4,259.1 460.2,234.4 519.0,192.9 577.8,185.0 636.6,203.0 695.4,211.0 754.2,227.2 813.0,230.8 871.8,244.7 930.6,211.6" fill="none" stroke="#2E7D6B" stroke-width="2.4" stroke-dasharray="5,3"/>
-  <polyline points="107.4,392.5 166.2,289.3 225.0,298.8 283.8,243.2 342.6,260.2 401.4,270.9 460.2,284.6 519.0,264.1 577.8,276.9 636.6,232.0 695.4,265.0 754.2,284.2 813.0,349.0 871.8,301.4 930.6,286.8" fill="none" stroke="#B84A39" stroke-width="2.6"/>
+  <polyline points="107.4,258.7 166.2,275.4 225.0,276.2 283.8,273.9 342.6,251.1 401.4,259.1 460.2,234.4 519.0,192.9 577.8,185.0 636.6,203.0 695.4,211.0 754.2,227.2 813.0,230.8 871.8,244.7 930.6,210.7" fill="none" stroke="#2E7D6B" stroke-width="2.4" stroke-dasharray="5,3"/>
+  <polyline points="107.4,392.5 166.2,289.3 225.0,298.8 283.8,243.2 342.6,260.2 401.4,270.9 460.2,284.6 519.0,264.1 577.8,276.9 636.6,232.0 695.4,265.0 754.2,284.2 813.0,349.0 871.8,301.4 930.6,287.9" fill="none" stroke="#B84A39" stroke-width="2.6"/>
   <circle cx="107.4" cy="392.5" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
   <circle cx="166.2" cy="289.3" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
   <circle cx="225.0" cy="298.8" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
@@ -108,7 +108,7 @@
   <circle cx="754.2" cy="284.2" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
   <circle cx="813.0" cy="349.0" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
   <circle cx="871.8" cy="301.4" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
-  <circle cx="930.6" cy="286.8" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
+  <circle cx="930.6" cy="287.9" r="3.8" fill="#B84A39" stroke="#FFFFFF" stroke-width="1.2"/>
   <rect x="104.4" y="255.7" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
   <rect x="163.2" y="272.4" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
   <rect x="222.0" y="273.2" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
@@ -123,10 +123,10 @@
   <rect x="751.2" y="224.2" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
   <rect x="810.0" y="227.8" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
   <rect x="868.8" y="241.7" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
-  <rect x="927.6" y="208.6" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
+  <rect x="927.6" y="207.7" width="6" height="6" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="1"/>
   <rect x="88" y="103" width="14" height="10" rx="2" fill="#1F4E79"/><text x="108" y="112" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1E293B">季度论文总量 (左轴)</text>
   <line x1="243" y1="108" x2="265" y2="108" stroke="#B84A39" stroke-width="2.6"/><circle cx="254" cy="108" r="3.5" fill="#B84A39"/><text x="272" y="112" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1E293B">平均 Upvotes 热度 (右轴)</text>
   <line x1="433" y1="108" x2="455" y2="108" stroke="#2E7D6B" stroke-width="2.4" stroke-dasharray="4,2"/><text x="462" y="112" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1E293B">附带 GitHub 开源仓库比例 % (右轴)</text>
   <line x1="24" y1="503" x2="1036" y2="503" stroke="#DED8CC" stroke-width="1"/>
-  <text x="24" y="522" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B7280">数据来源：HuggingFace Daily Papers 全量归档（2023-05-04 至 2026-11-24，共 18,137 篇次 / 18,122 独立 ArXiv 论文）。</text>
+  <text x="24" y="522" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B7280">数据来源：HuggingFace Daily Papers 全量归档（2023-05-04 至 2026-11-25，共 18,187 篇次 / 18,172 独立 ArXiv 论文）。</text>
 </svg>
