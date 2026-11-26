@@ -1,9 +1,9 @@
 {
   "earliest_date": "2023-05-04",
-  "latest_date": "2026-11-25",
-  "total_days": 921,
-  "total_papers": 18187,
-  "unique_papers": 18172,
+  "latest_date": "2026-11-26",
+  "total_days": 922,
+  "total_papers": 18237,
+  "unique_papers": 18222,
   "years": {
     "2023": {
       "total": 1609,
@@ -2274,197 +2274,197 @@
       ]
     },
     "2026": {
-      "total": 6691,
-      "avg_upvotes": 19.01,
-      "github_rate": 61.56,
-      "project_rate": 50.02,
+      "total": 6741,
+      "avg_upvotes": 18.98,
+      "github_rate": 61.64,
+      "project_rate": 50.19,
       "primary_domain": {
-        "Architecture": 264,
-        "Agents": 1548,
-        "Multimodal": 813,
-        "Efficiency": 345,
-        "Training_RL": 920,
-        "Embodied": 428,
-        "Science_Eval": 644,
-        "Reasoning": 752,
-        "Vision_World": 685,
-        "Safety_Interp": 292
+        "Architecture": 268,
+        "Agents": 1564,
+        "Multimodal": 817,
+        "Efficiency": 347,
+        "Training_RL": 926,
+        "Embodied": 434,
+        "Science_Eval": 650,
+        "Reasoning": 753,
+        "Vision_World": 689,
+        "Safety_Interp": 293
       },
       "multi_domain": {
-        "Architecture": 538,
-        "Agents": 2134,
-        "Reasoning": 1512,
-        "Efficiency": 787,
-        "Multimodal": 1502,
-        "Safety_Interp": 750,
-        "Science_Eval": 1701,
-        "Training_RL": 1671,
-        "Embodied": 668,
-        "Vision_World": 1201
+        "Architecture": 544,
+        "Agents": 2154,
+        "Reasoning": 1518,
+        "Efficiency": 792,
+        "Multimodal": 1511,
+        "Safety_Interp": 753,
+        "Science_Eval": 1712,
+        "Training_RL": 1682,
+        "Embodied": 680,
+        "Vision_World": 1212
       },
       "subtopics": {
-        "data_synth": 703,
-        "slm_edge": 614,
-        "harness_skills": 798,
-        "dyn_bench": 3033,
-        "rlvr_grpo": 517,
-        "swe_coding": 306,
-        "vlm_video_und": 991,
-        "vla_policy": 290,
-        "humanoid_manip": 477,
-        "peft_sft": 598,
-        "dpo_rlhf": 167,
+        "data_synth": 707,
+        "slm_edge": 619,
+        "harness_skills": 803,
+        "dyn_bench": 3052,
+        "rlvr_grpo": 521,
+        "swe_coding": 309,
+        "vlm_video_und": 997,
+        "vla_policy": 293,
+        "humanoid_manip": 483,
+        "peft_sft": 602,
+        "dpo_rlhf": 168,
         "cot_search": 259,
-        "video_world": 701,
-        "ttc_scaling": 321,
+        "video_world": 709,
+        "ttc_scaling": 323,
         "interp_cot_mon": 218,
-        "ai4science": 253,
+        "ai4science": 254,
         "math_formal": 295,
-        "rag_memory": 285,
+        "rag_memory": 287,
         "dlm_non_ar": 87,
-        "fact_unlearn": 111,
-        "omni_fusion": 164,
-        "img_flow": 408,
-        "moe_routing": 193,
-        "kv_speculative": 225,
-        "3d_gs_mesh": 146,
+        "fact_unlearn": 112,
+        "omni_fusion": 166,
+        "img_flow": 411,
+        "moe_routing": 195,
+        "kv_speculative": 227,
+        "3d_gs_mesh": 148,
         "redteam_guard": 133,
-        "rsi_self_evol": 259,
-        "doc_ocr_gui": 227,
+        "rsi_self_evol": 263,
+        "doc_ocr_gui": 228,
         "ssm_linear": 84,
         "quant_lowbit": 43,
         "residual_arch": 16
       },
       "cooccurrence": {
         "Architecture": {
-          "Architecture": 538,
+          "Architecture": 544,
           "Vision_World": 112,
           "Multimodal": 70,
-          "Science_Eval": 95,
-          "Reasoning": 61,
+          "Science_Eval": 96,
+          "Reasoning": 62,
           "Safety_Interp": 52,
-          "Efficiency": 134,
+          "Efficiency": 135,
           "Agents": 31,
           "Training_RL": 122,
-          "Embodied": 23
+          "Embodied": 24
         },
         "Agents": {
-          "Agents": 2134,
-          "Reasoning": 405,
-          "Efficiency": 92,
+          "Agents": 2154,
+          "Reasoning": 408,
+          "Efficiency": 93,
           "Safety_Interp": 129,
-          "Multimodal": 338,
-          "Training_RL": 362,
-          "Science_Eval": 479,
+          "Multimodal": 340,
+          "Training_RL": 366,
+          "Science_Eval": 481,
           "Architecture": 31,
-          "Vision_World": 124,
-          "Embodied": 144
+          "Vision_World": 128,
+          "Embodied": 148
         },
         "Reasoning": {
-          "Agents": 405,
-          "Reasoning": 1512,
+          "Agents": 408,
+          "Reasoning": 1518,
           "Efficiency": 119,
-          "Science_Eval": 385,
-          "Training_RL": 456,
-          "Vision_World": 149,
-          "Multimodal": 349,
-          "Architecture": 61,
-          "Safety_Interp": 124,
+          "Science_Eval": 386,
+          "Training_RL": 457,
+          "Vision_World": 150,
+          "Multimodal": 351,
+          "Architecture": 62,
+          "Safety_Interp": 125,
           "Embodied": 79
         },
         "Efficiency": {
-          "Agents": 92,
+          "Agents": 93,
           "Reasoning": 119,
-          "Efficiency": 787,
-          "Science_Eval": 148,
-          "Architecture": 134,
-          "Training_RL": 194,
-          "Vision_World": 141,
+          "Efficiency": 792,
+          "Science_Eval": 149,
+          "Architecture": 135,
+          "Training_RL": 196,
+          "Vision_World": 143,
           "Multimodal": 135,
           "Safety_Interp": 89,
           "Embodied": 48
         },
         "Multimodal": {
-          "Multimodal": 1502,
-          "Safety_Interp": 152,
-          "Science_Eval": 386,
+          "Multimodal": 1511,
+          "Safety_Interp": 154,
+          "Science_Eval": 390,
           "Training_RL": 280,
-          "Reasoning": 349,
+          "Reasoning": 351,
           "Architecture": 70,
-          "Vision_World": 213,
-          "Agents": 338,
+          "Vision_World": 214,
+          "Agents": 340,
           "Embodied": 169,
           "Efficiency": 135
         },
         "Safety_Interp": {
-          "Multimodal": 152,
-          "Safety_Interp": 750,
-          "Science_Eval": 173,
+          "Multimodal": 154,
+          "Safety_Interp": 753,
+          "Science_Eval": 174,
           "Agents": 129,
           "Vision_World": 122,
           "Architecture": 52,
-          "Training_RL": 184,
-          "Reasoning": 124,
-          "Embodied": 36,
+          "Training_RL": 185,
+          "Reasoning": 125,
+          "Embodied": 37,
           "Efficiency": 89
         },
         "Science_Eval": {
-          "Multimodal": 386,
-          "Safety_Interp": 173,
-          "Science_Eval": 1701,
-          "Training_RL": 268,
-          "Vision_World": 211,
-          "Reasoning": 385,
-          "Architecture": 95,
-          "Efficiency": 148,
-          "Agents": 479,
-          "Embodied": 82
+          "Multimodal": 390,
+          "Safety_Interp": 174,
+          "Science_Eval": 1712,
+          "Training_RL": 270,
+          "Vision_World": 212,
+          "Reasoning": 386,
+          "Architecture": 96,
+          "Efficiency": 149,
+          "Agents": 481,
+          "Embodied": 83
         },
         "Training_RL": {
-          "Training_RL": 1671,
-          "Science_Eval": 268,
-          "Vision_World": 238,
-          "Reasoning": 456,
+          "Training_RL": 1682,
+          "Science_Eval": 270,
+          "Vision_World": 243,
+          "Reasoning": 457,
           "Multimodal": 280,
-          "Agents": 362,
-          "Safety_Interp": 184,
+          "Agents": 366,
+          "Safety_Interp": 185,
           "Architecture": 122,
-          "Embodied": 112,
-          "Efficiency": 194
+          "Embodied": 114,
+          "Efficiency": 196
         },
         "Embodied": {
-          "Embodied": 668,
-          "Vision_World": 116,
-          "Training_RL": 112,
+          "Embodied": 680,
+          "Vision_World": 119,
+          "Training_RL": 114,
           "Multimodal": 169,
           "Reasoning": 79,
-          "Safety_Interp": 36,
-          "Science_Eval": 82,
-          "Agents": 144,
+          "Safety_Interp": 37,
+          "Science_Eval": 83,
+          "Agents": 148,
           "Efficiency": 48,
-          "Architecture": 23
+          "Architecture": 24
         },
         "Vision_World": {
-          "Science_Eval": 211,
-          "Training_RL": 238,
-          "Vision_World": 1201,
-          "Reasoning": 149,
+          "Science_Eval": 212,
+          "Training_RL": 243,
+          "Vision_World": 1212,
+          "Reasoning": 150,
           "Architecture": 112,
-          "Embodied": 116,
+          "Embodied": 119,
           "Safety_Interp": 122,
-          "Multimodal": 213,
-          "Efficiency": 141,
-          "Agents": 124
+          "Multimodal": 214,
+          "Efficiency": 143,
+          "Agents": 128
         }
       },
       "top_orgs": [
         [
           "NVIDIA",
-          113
+          115
         ],
         [
           "Tencent",
-          91
+          92
         ],
         [
           "Tencent Hunyuan",
@@ -2472,6 +2472,10 @@
         ],
         [
           "KAIST AI",
+          78
+        ],
+        [
+          "Peking University",
           77
         ],
         [
@@ -2479,28 +2483,24 @@
           77
         ],
         [
-          "Peking University",
-          74
-        ],
-        [
           "Zhejiang University",
-          70
+          72
         ],
         [
           "National University of Singapore",
-          67
+          68
         ],
         [
           "ByteDance Seed",
-          64
+          65
+        ],
+        [
+          "Shanghai Jiao Tong University",
+          60
         ],
         [
           "ByteDance",
           59
-        ],
-        [
-          "Shanghai Jiao Tong University",
-          58
         ],
         [
           "Tsinghua University",
@@ -2512,7 +2512,7 @@
         ],
         [
           "University of Illinois at Urbana-Champaign",
-          45
+          46
         ],
         [
           "Carnegie Mellon University",
@@ -3904,62 +3904,62 @@
       }
     },
     "2026-Q4": {
-      "total": 1569,
-      "avg_upvotes": 21.29,
-      "github_rate": 66.28,
+      "total": 1619,
+      "avg_upvotes": 21.1,
+      "github_rate": 66.46,
       "primary_domain": {
-        "Training_RL": 204,
-        "Multimodal": 156,
-        "Agents": 430,
-        "Science_Eval": 162,
-        "Safety_Interp": 58,
-        "Reasoning": 114,
-        "Embodied": 134,
-        "Architecture": 74,
-        "Vision_World": 156,
-        "Efficiency": 81
+        "Training_RL": 210,
+        "Multimodal": 160,
+        "Agents": 446,
+        "Science_Eval": 168,
+        "Safety_Interp": 59,
+        "Reasoning": 115,
+        "Embodied": 140,
+        "Architecture": 78,
+        "Vision_World": 160,
+        "Efficiency": 83
       },
       "multi_domain": {
-        "Training_RL": 360,
-        "Architecture": 143,
-        "Multimodal": 321,
-        "Agents": 593,
-        "Reasoning": 265,
-        "Science_Eval": 400,
-        "Safety_Interp": 140,
-        "Efficiency": 198,
-        "Embodied": 210,
-        "Vision_World": 285
+        "Training_RL": 371,
+        "Architecture": 149,
+        "Multimodal": 330,
+        "Agents": 613,
+        "Reasoning": 271,
+        "Science_Eval": 411,
+        "Safety_Interp": 143,
+        "Efficiency": 203,
+        "Embodied": 222,
+        "Vision_World": 296
       },
       "subtopics": {
-        "data_synth": 170,
-        "ttc_scaling": 48,
-        "rsi_self_evol": 91,
-        "img_flow": 82,
-        "dyn_bench": 713,
-        "harness_skills": 229,
-        "vlm_video_und": 227,
-        "vla_policy": 91,
-        "video_world": 178,
-        "peft_sft": 149,
-        "3d_gs_mesh": 36,
+        "data_synth": 174,
+        "ttc_scaling": 50,
+        "rsi_self_evol": 95,
+        "img_flow": 85,
+        "dyn_bench": 732,
+        "harness_skills": 234,
+        "vlm_video_und": 233,
+        "vla_policy": 94,
+        "video_world": 186,
+        "peft_sft": 153,
+        "3d_gs_mesh": 38,
         "math_formal": 52,
-        "doc_ocr_gui": 56,
+        "doc_ocr_gui": 57,
         "dlm_non_ar": 19,
-        "slm_edge": 129,
-        "humanoid_manip": 143,
-        "rag_memory": 65,
+        "slm_edge": 134,
+        "humanoid_manip": 149,
+        "rag_memory": 67,
         "interp_cot_mon": 37,
-        "moe_routing": 58,
-        "swe_coding": 65,
-        "rlvr_grpo": 94,
-        "kv_speculative": 70,
-        "omni_fusion": 46,
+        "moe_routing": 60,
+        "swe_coding": 68,
+        "rlvr_grpo": 98,
+        "kv_speculative": 72,
+        "omni_fusion": 48,
         "redteam_guard": 22,
-        "dpo_rlhf": 23,
+        "dpo_rlhf": 24,
         "cot_search": 33,
-        "ai4science": 54,
-        "fact_unlearn": 18,
+        "ai4science": 55,
+        "fact_unlearn": 19,
         "ssm_linear": 26,
         "residual_arch": 9,
         "quant_lowbit": 15
@@ -3971,51 +3971,30 @@
     "Reasoning": 63.0,
     "Agents": 63.1,
     "Multimodal": 64.8,
-    "Efficiency": 61.4,
+    "Efficiency": 61.5,
     "Vision_World": 60.6,
-    "Architecture": 63.2,
-    "Safety_Interp": 61.7,
-    "Embodied": 62.3,
+    "Architecture": 63.4,
+    "Safety_Interp": 61.6,
+    "Embodied": 62.5,
     "Science_Eval": 62.7
   },
   "domain_totals": {
-    "Training_RL": 2465,
-    "Reasoning": 2266,
-    "Agents": 2474,
-    "Multimodal": 2554,
-    "Efficiency": 847,
-    "Vision_World": 2747,
-    "Architecture": 865,
-    "Safety_Interp": 934,
-    "Embodied": 836,
-    "Science_Eval": 2199
+    "Training_RL": 2471,
+    "Reasoning": 2267,
+    "Agents": 2490,
+    "Multimodal": 2558,
+    "Efficiency": 849,
+    "Vision_World": 2751,
+    "Architecture": 869,
+    "Safety_Interp": 935,
+    "Embodied": 842,
+    "Science_Eval": 2205
   },
   "recent_window": {
-    "from": "2026-10-27",
-    "to": "2026-11-25"
+    "from": "2026-10-28",
+    "to": "2026-11-26"
   },
   "recent_frontier_papers": [
-    {
-      "arxiv_id": "2610.33568",
-      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
-      "date": "2026-10-27",
-      "year": "2026",
-      "quarter": "2026-Q4",
-      "upvotes": 325,
-      "organization": "ant-international",
-      "primary_domain": "Agents",
-      "domains": [
-        "Agents"
-      ],
-      "subtopics": [
-        "peft_sft",
-        "harness_skills",
-        "dyn_bench"
-      ],
-      "github_repo": "https://github.com/yihaohu0118/Trajectory2Gym",
-      "hf_url": "https://huggingface.co/papers/2610.33568",
-      "arxiv_url": "https://arxiv.org/abs/2610.33568"
-    },
     {
       "arxiv_id": "2610.36077",
       "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
@@ -4080,30 +4059,6 @@
       "arxiv_url": "https://arxiv.org/abs/2610.39633"
     },
     {
-      "arxiv_id": "2610.34662",
-      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
-      "date": "2026-10-27",
-      "year": "2026",
-      "quarter": "2026-Q4",
-      "upvotes": 229,
-      "organization": "Google",
-      "primary_domain": "Agents",
-      "domains": [
-        "Agents",
-        "Multimodal",
-        "Science_Eval"
-      ],
-      "subtopics": [
-        "vlm_video_und",
-        "harness_skills",
-        "rag_memory",
-        "dyn_bench"
-      ],
-      "github_repo": "",
-      "hf_url": "https://huggingface.co/papers/2610.34662",
-      "arxiv_url": "https://arxiv.org/abs/2610.34662"
-    },
-    {
       "arxiv_id": "2610.34283",
       "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
       "date": "2026-10-28",
@@ -4149,48 +4104,6 @@
       "github_repo": "https://github.com/AIGeeksGroup/MotionMamba2.0",
       "hf_url": "https://huggingface.co/papers/2611.29897",
       "arxiv_url": "https://arxiv.org/abs/2611.29897"
-    },
-    {
-      "arxiv_id": "2610.34467",
-      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
-      "date": "2026-10-27",
-      "year": "2026",
-      "quarter": "2026-Q4",
-      "upvotes": 166,
-      "organization": "National University of Singapore",
-      "primary_domain": "Agents",
-      "domains": [
-        "Agents"
-      ],
-      "subtopics": [
-        "peft_sft",
-        "math_formal",
-        "harness_skills",
-        "dyn_bench"
-      ],
-      "github_repo": "https://github.com/amiya-special/Dynaflow",
-      "hf_url": "https://huggingface.co/papers/2610.34467",
-      "arxiv_url": "https://arxiv.org/abs/2610.34467"
-    },
-    {
-      "arxiv_id": "2610.32285",
-      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-      "date": "2026-10-27",
-      "year": "2026",
-      "quarter": "2026-Q4",
-      "upvotes": 147,
-      "organization": "TraceLite AI",
-      "primary_domain": "Agents",
-      "domains": [
-        "Agents"
-      ],
-      "subtopics": [
-        "harness_skills",
-        "dyn_bench"
-      ],
-      "github_repo": "https://github.com/TraceLite-AI/TraceTrial-Bench",
-      "hf_url": "https://huggingface.co/papers/2610.32285",
-      "arxiv_url": "https://arxiv.org/abs/2610.32285"
     },
     {
       "arxiv_id": "2611.22115",
@@ -4345,26 +4258,6 @@
       "arxiv_url": "https://arxiv.org/abs/2611.18359"
     },
     {
-      "arxiv_id": "2610.33966",
-      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
-      "date": "2026-10-27",
-      "year": "2026",
-      "quarter": "2026-Q4",
-      "upvotes": 107,
-      "organization": "Meta",
-      "primary_domain": "Multimodal",
-      "domains": [
-        "Multimodal"
-      ],
-      "subtopics": [
-        "vlm_video_und",
-        "dyn_bench"
-      ],
-      "github_repo": "https://github.com/facebookresearch/InteractiveWorld",
-      "hf_url": "https://huggingface.co/papers/2610.33966",
-      "arxiv_url": "https://arxiv.org/abs/2610.33966"
-    },
-    {
       "arxiv_id": "2610.36729",
       "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
       "date": "2026-10-28",
@@ -4389,6 +4282,26 @@
       "github_repo": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
       "hf_url": "https://huggingface.co/papers/2610.36729",
       "arxiv_url": "https://arxiv.org/abs/2610.36729"
+    },
+    {
+      "arxiv_id": "2611.34849",
+      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "date": "2026-11-26",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 101,
+      "organization": "PKU-VaLuE-Lab",
+      "primary_domain": "Science_Eval",
+      "domains": [
+        "Science_Eval",
+        "Agents"
+      ],
+      "subtopics": [
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/Real2SimHub/Real2SimLab",
+      "hf_url": "https://huggingface.co/papers/2611.34849",
+      "arxiv_url": "https://arxiv.org/abs/2611.34849"
     },
     {
       "arxiv_id": "2611.25403",
@@ -4426,6 +4339,94 @@
       "github_repo": "https://github.com/SJTU-DENG-Lab/WaveForcing",
       "hf_url": "https://huggingface.co/papers/2611.00859",
       "arxiv_url": "https://arxiv.org/abs/2611.00859"
+    },
+    {
+      "arxiv_id": "2611.12806",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "date": "2026-11-10",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 91,
+      "organization": "Robbyant",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied"
+      ],
+      "subtopics": [
+        "vlm_video_und",
+        "vla_policy",
+        "humanoid_manip"
+      ],
+      "github_repo": "https://github.com/Robbyant/lingbot-touch",
+      "hf_url": "https://huggingface.co/papers/2611.12806",
+      "arxiv_url": "https://arxiv.org/abs/2611.12806"
+    },
+    {
+      "arxiv_id": "2611.17621",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "date": "2026-11-18",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 91,
+      "organization": "SLAI-AITP",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/SLAI-AITP/AscendGYM",
+      "hf_url": "https://huggingface.co/papers/2611.17621",
+      "arxiv_url": "https://arxiv.org/abs/2611.17621"
+    },
+    {
+      "arxiv_id": "2611.05275",
+      "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "date": "2026-11-04",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 89,
+      "organization": "",
+      "primary_domain": "Embodied",
+      "domains": [
+        "Embodied",
+        "Multimodal",
+        "Agents",
+        "Science_Eval"
+      ],
+      "subtopics": [
+        "omni_fusion",
+        "video_world",
+        "humanoid_manip",
+        "dyn_bench"
+      ],
+      "github_repo": "https://github.com/InfRec-Cardinal/route-anything",
+      "hf_url": "https://huggingface.co/papers/2611.05275",
+      "arxiv_url": "https://arxiv.org/abs/2611.05275"
+    },
+    {
+      "arxiv_id": "2611.31201",
+      "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+      "date": "2026-11-24",
+      "year": "2026",
+      "quarter": "2026-Q4",
+      "upvotes": 89,
+      "organization": "MMLab@NTU",
+      "primary_domain": "Agents",
+      "domains": [
+        "Agents"
+      ],
+      "subtopics": [
+        "harness_skills",
+        "vla_policy",
+        "humanoid_manip"
+      ],
+      "github_repo": "https://github.com/DravenALG/Embo-Harness",
+      "hf_url": "https://huggingface.co/papers/2611.31201",
+      "arxiv_url": "https://arxiv.org/abs/2611.31201"
     }
   ],
   "top_100_landmark_papers": [
