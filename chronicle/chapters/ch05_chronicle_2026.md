@@ -23,8 +23,8 @@
 
 ### 表 5.1 2026 年度归档核心统计与 Top 12 社区最高影响力论文榜
 
-- **年度收录总量**：**6,741 篇**（季度分布：`2026-Q1`: 1,926 篇 · `2026-Q2`: 1,751 篇 · `2026-Q3`: 1,445 篇 · `2026-Q4`: 1,619 篇）
-- **平均社区热度**：**18.98 Upvotes** ｜ **代码仓库开源率**：**61.6%**
+- **年度收录总量**：**6,761 篇**（季度分布：`2026-Q1`: 1,926 篇 · `2026-Q2`: 1,751 篇 · `2026-Q3`: 1,445 篇 · `2026-Q4`: 1,639 篇）
+- **平均社区热度**：**18.99 Upvotes** ｜ **代码仓库开源率**：**61.6%**
 
 | 排名 | 日期 | ArXiv ID | 论文标题 | 机构 | 主领域 | Upvotes |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -94,22 +94,22 @@
 
 <!-- AUTO-SYNC:START:recent_frontier_radar -->
 
-> **最新归档滚动窗口**：`2026-10-28` 至 `2026-11-26` ｜ 自动筛选近期最高社区关注度 Top 12 代表作
+> **最新归档滚动窗口**：`2026-10-29` 至 `2026-11-27` ｜ 自动筛选近期最高社区关注度 Top 12 代表作
 
 | 日期 | ArXiv | 标题与核心切入点 | 机构 | 赛道 | 热度 |
 | :--- | :--- | :--- | :--- | :--- | ---: |
-| `2026-10-28` | [2610.36077](https://arxiv.org/abs/2610.36077) | [The Trinity:Capability-Driven Recursive Self-Improve...](https://huggingface.co/papers/2610.36077) | National Universit.. | 智能体与代码工程 | **305** |
 | `2026-10-29` | [2610.35201](https://arxiv.org/abs/2610.35201) | [DTCA: Denoising Token Credit Assignment for Reinforc...](https://huggingface.co/papers/2610.35201) | ZJU-OmniAI | 训练与强化学习 | **256** |
 | `2026-10-30` | [2610.39633](https://arxiv.org/abs/2610.39633) | [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | inclusionAI | 训练与强化学习 | **233** |
-| `2026-10-28` | [2610.34283](https://arxiv.org/abs/2610.34283) | [ChronoReplay: One Answer Interface Is Not Enough for...](https://huggingface.co/papers/2610.34283) | LINs lab | 训练与强化学习 | **225** |
 | `2026-11-24` | [2611.29897](https://arxiv.org/abs/2611.29897) | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for...](https://huggingface.co/papers/2611.29897) | Peking University | 模型架构与序列建模 | **171** |
 | `2026-11-18` | [2611.22115](https://arxiv.org/abs/2611.22115) | [TeleChat to Xing4: Advancing Frontier Agentic Models...](https://huggingface.co/papers/2611.22115) | XingChen-AGI | 智能体与代码工程 | **147** |
 | `2026-10-29` | [2610.32749](https://arxiv.org/abs/2610.32749) | [Efficient Streaming Audio-Visual Target Speaker Extr...](https://huggingface.co/papers/2610.32749) | Tsinghua Machine L.. | 多模态与统一基座 | **146** |
 | `2026-10-30` | [2610.38568](https://arxiv.org/abs/2610.38568) | [A-RSI: Adaptive Task Refresh for Zero-Data Multimoda...](https://huggingface.co/papers/2610.38568) | Xiaomi Research | 智能体与代码工程 | **143** |
 | `2026-10-30` | [2610.29927](https://arxiv.org/abs/2610.29927) | [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | University of Illi.. | AI4Science与记忆评测 | **136** |
-| `2026-10-28` | [2610.37381](https://arxiv.org/abs/2610.37381) | [PDRVLA: A Vision-Language-Action Model with Physical...](https://huggingface.co/papers/2610.37381) | — | 具身智能与物理AI | **134** |
+| `2026-11-27` | [2611.34051](https://arxiv.org/abs/2611.34051) | [Stable Gated DeltaNet-2: Understanding and Mitigatin...](https://huggingface.co/papers/2611.34051) | MemTensor | 模型架构与序列建模 | **126** |
 | `2026-11-02` | [2610.36545](https://arxiv.org/abs/2610.36545) | [FrameForge: Harnessing Priors of Video Foundation Mo...](https://huggingface.co/papers/2610.36545) | FrameX-AI | 视觉生成与世界模型 | **108** |
 | `2026-11-16` | [2611.18359](https://arxiv.org/abs/2611.18359) | [Envisioning Agentic Robotics: A New Era of Robotic S...](https://huggingface.co/papers/2611.18359) | — | 具身智能与物理AI | **108** |
+| `2026-11-26` | [2611.34849](https://arxiv.org/abs/2611.34849) | [Real2SimLab: A Unified Platform for Real-to-Simulati...](https://huggingface.co/papers/2611.34849) | PKU-VaLuE-Lab | AI4Science与记忆评测 | **101** |
+| `2026-11-27` | [2611.34232](https://arxiv.org/abs/2611.34232) | [OS-Omni: Benchmarking Generalist Computer-Using Agen...](https://huggingface.co/papers/2611.34232) | Touchstone AI | 智能体与代码工程 | **99** |
 
 <!-- AUTO-SYNC:END:recent_frontier_radar -->
 

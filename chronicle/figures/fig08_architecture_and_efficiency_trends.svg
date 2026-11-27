@@ -31,78 +31,78 @@
   <text x="396.3" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">25-Q4</text>
   <text x="463.1" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">26-Q2</text>
   <text x="530.0" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">26-Q4</text>
-  <polyline points="62.0,410.2 95.4,383.2 128.9,424.0 162.3,212.9 195.7,267.7 229.1,314.2 262.6,349.3 296.0,327.6 329.4,365.1 362.9,356.1 396.3,359.3 429.7,376.7 463.1,346.5 496.6,370.4 530.0,335.6" fill="none" stroke="#1F4E79" stroke-width="2.3"/>
-  <circle cx="62.0" cy="410.2" r="2.8" fill="#1F4E79"/>
-  <circle cx="95.4" cy="383.2" r="2.8" fill="#1F4E79"/>
+  <polyline points="62.0,410.3 95.4,383.5 128.9,424.0 162.3,213.9 195.7,268.4 229.1,314.8 262.6,349.7 296.0,328.0 329.4,365.4 362.9,356.5 396.3,359.6 429.7,377.0 463.1,346.9 496.6,370.7 530.0,333.5" fill="none" stroke="#1F4E79" stroke-width="2.3"/>
+  <circle cx="62.0" cy="410.3" r="2.8" fill="#1F4E79"/>
+  <circle cx="95.4" cy="383.5" r="2.8" fill="#1F4E79"/>
   <circle cx="128.9" cy="424.0" r="2.8" fill="#1F4E79"/>
-  <circle cx="162.3" cy="212.9" r="2.8" fill="#1F4E79"/>
-  <circle cx="195.7" cy="267.7" r="2.8" fill="#1F4E79"/>
-  <circle cx="229.1" cy="314.2" r="2.8" fill="#1F4E79"/>
-  <circle cx="262.6" cy="349.3" r="2.8" fill="#1F4E79"/>
-  <circle cx="296.0" cy="327.6" r="2.8" fill="#1F4E79"/>
-  <circle cx="329.4" cy="365.1" r="2.8" fill="#1F4E79"/>
-  <circle cx="362.9" cy="356.1" r="2.8" fill="#1F4E79"/>
-  <circle cx="396.3" cy="359.3" r="2.8" fill="#1F4E79"/>
-  <circle cx="429.7" cy="376.7" r="2.8" fill="#1F4E79"/>
-  <circle cx="463.1" cy="346.5" r="2.8" fill="#1F4E79"/>
-  <circle cx="496.6" cy="370.4" r="2.8" fill="#1F4E79"/>
-  <circle cx="530.0" cy="335.6" r="2.8" fill="#1F4E79"/>
+  <circle cx="162.3" cy="213.9" r="2.8" fill="#1F4E79"/>
+  <circle cx="195.7" cy="268.4" r="2.8" fill="#1F4E79"/>
+  <circle cx="229.1" cy="314.8" r="2.8" fill="#1F4E79"/>
+  <circle cx="262.6" cy="349.7" r="2.8" fill="#1F4E79"/>
+  <circle cx="296.0" cy="328.0" r="2.8" fill="#1F4E79"/>
+  <circle cx="329.4" cy="365.4" r="2.8" fill="#1F4E79"/>
+  <circle cx="362.9" cy="356.5" r="2.8" fill="#1F4E79"/>
+  <circle cx="396.3" cy="359.6" r="2.8" fill="#1F4E79"/>
+  <circle cx="429.7" cy="377.0" r="2.8" fill="#1F4E79"/>
+  <circle cx="463.1" cy="346.9" r="2.8" fill="#1F4E79"/>
+  <circle cx="496.6" cy="370.7" r="2.8" fill="#1F4E79"/>
+  <circle cx="530.0" cy="333.5" r="2.8" fill="#1F4E79"/>
   <line x1="62" y1="133" x2="76" y2="133" stroke="#1F4E79" stroke-width="2.5"/>
   <text x="80" y="136" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">SSM/Mamba/线性注意力 (1.6%)</text>
-  <polyline points="62.0,398.3 95.4,395.9 128.9,363.8 162.3,283.7 195.7,311.4 229.1,300.2 262.6,296.4 296.0,323.1 329.4,306.5 362.9,314.9 396.3,275.2 429.7,294.0 463.1,276.5 496.6,238.9 530.0,206.9" fill="none" stroke="#2E7D6B" stroke-width="2.3"/>
-  <circle cx="62.0" cy="398.3" r="2.8" fill="#2E7D6B"/>
-  <circle cx="95.4" cy="395.9" r="2.8" fill="#2E7D6B"/>
-  <circle cx="128.9" cy="363.8" r="2.8" fill="#2E7D6B"/>
-  <circle cx="162.3" cy="283.7" r="2.8" fill="#2E7D6B"/>
-  <circle cx="195.7" cy="311.4" r="2.8" fill="#2E7D6B"/>
-  <circle cx="229.1" cy="300.2" r="2.8" fill="#2E7D6B"/>
-  <circle cx="262.6" cy="296.4" r="2.8" fill="#2E7D6B"/>
-  <circle cx="296.0" cy="323.1" r="2.8" fill="#2E7D6B"/>
-  <circle cx="329.4" cy="306.5" r="2.8" fill="#2E7D6B"/>
-  <circle cx="362.9" cy="314.9" r="2.8" fill="#2E7D6B"/>
-  <circle cx="396.3" cy="275.2" r="2.8" fill="#2E7D6B"/>
-  <circle cx="429.7" cy="294.0" r="2.8" fill="#2E7D6B"/>
-  <circle cx="463.1" cy="276.5" r="2.8" fill="#2E7D6B"/>
-  <circle cx="496.6" cy="238.9" r="2.8" fill="#2E7D6B"/>
+  <polyline points="62.0,398.5 95.4,396.1 128.9,364.1 162.3,284.3 195.7,312.0 229.1,300.7 262.6,297.0 296.0,323.6 329.4,307.0 362.9,315.4 396.3,275.9 429.7,294.6 463.1,277.2 496.6,239.7 530.0,206.9" fill="none" stroke="#2E7D6B" stroke-width="2.3"/>
+  <circle cx="62.0" cy="398.5" r="2.8" fill="#2E7D6B"/>
+  <circle cx="95.4" cy="396.1" r="2.8" fill="#2E7D6B"/>
+  <circle cx="128.9" cy="364.1" r="2.8" fill="#2E7D6B"/>
+  <circle cx="162.3" cy="284.3" r="2.8" fill="#2E7D6B"/>
+  <circle cx="195.7" cy="312.0" r="2.8" fill="#2E7D6B"/>
+  <circle cx="229.1" cy="300.7" r="2.8" fill="#2E7D6B"/>
+  <circle cx="262.6" cy="297.0" r="2.8" fill="#2E7D6B"/>
+  <circle cx="296.0" cy="323.6" r="2.8" fill="#2E7D6B"/>
+  <circle cx="329.4" cy="307.0" r="2.8" fill="#2E7D6B"/>
+  <circle cx="362.9" cy="315.4" r="2.8" fill="#2E7D6B"/>
+  <circle cx="396.3" cy="275.9" r="2.8" fill="#2E7D6B"/>
+  <circle cx="429.7" cy="294.6" r="2.8" fill="#2E7D6B"/>
+  <circle cx="463.1" cy="277.2" r="2.8" fill="#2E7D6B"/>
+  <circle cx="496.6" cy="239.7" r="2.8" fill="#2E7D6B"/>
   <circle cx="530.0" cy="206.9" r="2.8" fill="#2E7D6B"/>
   <line x1="297" y1="133" x2="311" y2="133" stroke="#2E7D6B" stroke-width="2.5"/>
   <text x="315" y="136" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">混合专家与动态深度 (MoE) (3.7%)</text>
-  <polyline points="62.0,434.0 95.4,434.0 128.9,434.0 162.3,425.2 195.7,416.5 229.1,427.0 262.6,407.5 296.0,403.0 329.4,396.1 362.9,342.4 396.3,331.2 429.7,329.0 463.1,357.0 496.6,378.9 530.0,362.1" fill="none" stroke="#B84A39" stroke-width="2.3"/>
+  <polyline points="62.0,434.0 95.4,434.0 128.9,434.0 162.3,425.2 195.7,416.6 229.1,427.0 262.6,407.7 296.0,403.1 329.4,396.2 362.9,342.8 396.3,331.7 429.7,329.4 463.1,357.3 496.6,379.1 530.0,363.3" fill="none" stroke="#B84A39" stroke-width="2.3"/>
   <circle cx="62.0" cy="434.0" r="2.8" fill="#B84A39"/>
   <circle cx="95.4" cy="434.0" r="2.8" fill="#B84A39"/>
   <circle cx="128.9" cy="434.0" r="2.8" fill="#B84A39"/>
   <circle cx="162.3" cy="425.2" r="2.8" fill="#B84A39"/>
-  <circle cx="195.7" cy="416.5" r="2.8" fill="#B84A39"/>
+  <circle cx="195.7" cy="416.6" r="2.8" fill="#B84A39"/>
   <circle cx="229.1" cy="427.0" r="2.8" fill="#B84A39"/>
-  <circle cx="262.6" cy="407.5" r="2.8" fill="#B84A39"/>
-  <circle cx="296.0" cy="403.0" r="2.8" fill="#B84A39"/>
-  <circle cx="329.4" cy="396.1" r="2.8" fill="#B84A39"/>
-  <circle cx="362.9" cy="342.4" r="2.8" fill="#B84A39"/>
-  <circle cx="396.3" cy="331.2" r="2.8" fill="#B84A39"/>
-  <circle cx="429.7" cy="329.0" r="2.8" fill="#B84A39"/>
-  <circle cx="463.1" cy="357.0" r="2.8" fill="#B84A39"/>
-  <circle cx="496.6" cy="378.9" r="2.8" fill="#B84A39"/>
-  <circle cx="530.0" cy="362.1" r="2.8" fill="#B84A39"/>
+  <circle cx="262.6" cy="407.7" r="2.8" fill="#B84A39"/>
+  <circle cx="296.0" cy="403.1" r="2.8" fill="#B84A39"/>
+  <circle cx="329.4" cy="396.2" r="2.8" fill="#B84A39"/>
+  <circle cx="362.9" cy="342.8" r="2.8" fill="#B84A39"/>
+  <circle cx="396.3" cy="331.7" r="2.8" fill="#B84A39"/>
+  <circle cx="429.7" cy="329.4" r="2.8" fill="#B84A39"/>
+  <circle cx="463.1" cy="357.3" r="2.8" fill="#B84A39"/>
+  <circle cx="496.6" cy="379.1" r="2.8" fill="#B84A39"/>
+  <circle cx="530.0" cy="363.3" r="2.8" fill="#B84A39"/>
   <line x1="62" y1="148" x2="76" y2="148" stroke="#B84A39" stroke-width="2.5"/>
   <text x="80" y="151" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">扩散语言模型 (DLM/LLaDA) (1.2%)</text>
-  <polyline points="62.0,434.0 95.4,434.0 128.9,434.0 162.3,434.0 195.7,416.5 229.1,412.9 262.6,423.4 296.0,429.6 329.4,434.0 362.9,424.8 396.3,421.5 429.7,430.8 463.1,423.5 496.6,421.3 530.0,399.9" fill="none" stroke="#6C4F8F" stroke-width="2.3"/>
+  <polyline points="62.0,434.0 95.4,434.0 128.9,434.0 162.3,434.0 195.7,416.6 229.1,413.0 262.6,423.5 296.0,429.6 329.4,434.0 362.9,424.9 396.3,421.6 429.7,430.8 463.1,423.5 496.6,421.3 530.0,400.5" fill="none" stroke="#6C4F8F" stroke-width="2.3"/>
   <circle cx="62.0" cy="434.0" r="2.8" fill="#6C4F8F"/>
   <circle cx="95.4" cy="434.0" r="2.8" fill="#6C4F8F"/>
   <circle cx="128.9" cy="434.0" r="2.8" fill="#6C4F8F"/>
   <circle cx="162.3" cy="434.0" r="2.8" fill="#6C4F8F"/>
-  <circle cx="195.7" cy="416.5" r="2.8" fill="#6C4F8F"/>
-  <circle cx="229.1" cy="412.9" r="2.8" fill="#6C4F8F"/>
-  <circle cx="262.6" cy="423.4" r="2.8" fill="#6C4F8F"/>
+  <circle cx="195.7" cy="416.6" r="2.8" fill="#6C4F8F"/>
+  <circle cx="229.1" cy="413.0" r="2.8" fill="#6C4F8F"/>
+  <circle cx="262.6" cy="423.5" r="2.8" fill="#6C4F8F"/>
   <circle cx="296.0" cy="429.6" r="2.8" fill="#6C4F8F"/>
   <circle cx="329.4" cy="434.0" r="2.8" fill="#6C4F8F"/>
-  <circle cx="362.9" cy="424.8" r="2.8" fill="#6C4F8F"/>
-  <circle cx="396.3" cy="421.5" r="2.8" fill="#6C4F8F"/>
+  <circle cx="362.9" cy="424.9" r="2.8" fill="#6C4F8F"/>
+  <circle cx="396.3" cy="421.6" r="2.8" fill="#6C4F8F"/>
   <circle cx="429.7" cy="430.8" r="2.8" fill="#6C4F8F"/>
   <circle cx="463.1" cy="423.5" r="2.8" fill="#6C4F8F"/>
   <circle cx="496.6" cy="421.3" r="2.8" fill="#6C4F8F"/>
-  <circle cx="530.0" cy="399.9" r="2.8" fill="#6C4F8F"/>
+  <circle cx="530.0" cy="400.5" r="2.8" fill="#6C4F8F"/>
   <line x1="297" y1="148" x2="311" y2="148" stroke="#6C4F8F" stroke-width="2.5"/>
-  <text x="315" y="151" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">超连接与新型连接 (mHC) (0.6%)</text>
+  <text x="315" y="151" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">超连接与新型连接 (mHC) (0.5%)</text>
   <text x="592" y="116" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#13294B">B. 效率与推理系统子方向渗透率 (%)</text>
   <line x1="592" y1="434.0" x2="1060" y2="434.0" stroke="#E5E0D5" stroke-dasharray="3,3"/>
   <text x="586" y="437.5" text-anchor="end" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" fill="#64748B">0.0%</text>
@@ -122,7 +122,7 @@
   <text x="926.3" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">25-Q4</text>
   <text x="993.1" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">26-Q2</text>
   <text x="1060.0" y="450.0" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#475569">26-Q4</text>
-  <polyline points="592.0,421.3 625.4,420.5 658.9,416.2 692.3,396.4 725.7,375.0 759.1,409.0 792.6,389.0 826.0,383.7 859.4,387.5 892.9,393.4 926.3,382.1 959.7,384.3 993.1,354.6 1026.6,363.3 1060.0,337.3" fill="none" stroke="#B84A39" stroke-width="2.3"/>
+  <polyline points="592.0,421.3 625.4,420.5 658.9,416.2 692.3,396.4 725.7,375.0 759.1,409.0 792.6,389.0 826.0,383.7 859.4,387.5 892.9,393.4 926.3,382.1 959.7,384.3 993.1,354.6 1026.6,363.3 1060.0,338.5" fill="none" stroke="#B84A39" stroke-width="2.3"/>
   <circle cx="592.0" cy="421.3" r="2.8" fill="#B84A39"/>
   <circle cx="625.4" cy="420.5" r="2.8" fill="#B84A39"/>
   <circle cx="658.9" cy="416.2" r="2.8" fill="#B84A39"/>
@@ -137,10 +137,10 @@
   <circle cx="959.7" cy="384.3" r="2.8" fill="#B84A39"/>
   <circle cx="993.1" cy="354.6" r="2.8" fill="#B84A39"/>
   <circle cx="1026.6" cy="363.3" r="2.8" fill="#B84A39"/>
-  <circle cx="1060.0" cy="337.3" r="2.8" fill="#B84A39"/>
+  <circle cx="1060.0" cy="338.5" r="2.8" fill="#B84A39"/>
   <line x1="592" y1="133" x2="606" y2="133" stroke="#B84A39" stroke-width="2.5"/>
   <text x="610" y="136" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">KV缓存压缩与推测解码 (4.4%)</text>
-  <polyline points="592.0,425.6 625.4,420.5 658.9,416.2 692.3,421.5 725.7,430.9 759.1,416.5 792.6,420.9 826.0,424.6 859.4,418.1 892.9,424.3 926.3,421.9 959.7,422.7 993.1,424.1 1026.6,419.0 1060.0,413.9" fill="none" stroke="#C98A2C" stroke-width="2.3"/>
+  <polyline points="592.0,425.6 625.4,420.5 658.9,416.2 692.3,421.5 725.7,430.9 759.1,416.5 792.6,420.9 826.0,424.6 859.4,418.1 892.9,424.3 926.3,421.9 959.7,422.7 993.1,424.1 1026.6,419.0 1060.0,412.8" fill="none" stroke="#C98A2C" stroke-width="2.3"/>
   <circle cx="592.0" cy="425.6" r="2.8" fill="#C98A2C"/>
   <circle cx="625.4" cy="420.5" r="2.8" fill="#C98A2C"/>
   <circle cx="658.9" cy="416.2" r="2.8" fill="#C98A2C"/>
@@ -155,10 +155,10 @@
   <circle cx="959.7" cy="422.7" r="2.8" fill="#C98A2C"/>
   <circle cx="993.1" cy="424.1" r="2.8" fill="#C98A2C"/>
   <circle cx="1026.6" cy="419.0" r="2.8" fill="#C98A2C"/>
-  <circle cx="1060.0" cy="413.9" r="2.8" fill="#C98A2C"/>
+  <circle cx="1060.0" cy="412.8" r="2.8" fill="#C98A2C"/>
   <line x1="827" y1="133" x2="841" y2="133" stroke="#C98A2C" stroke-width="2.5"/>
-  <text x="845" y="136" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">低比特量化 (FP8/1.58-bit) (0.9%)</text>
-  <polyline points="592.0,370.7 625.4,330.5 658.9,330.8 692.3,299.1 725.7,334.6 759.1,336.6 792.6,313.9 826.0,309.8 859.4,300.8 892.9,274.8 926.3,241.8 959.7,241.0 993.1,231.7 1026.6,206.9 1060.0,254.1" fill="none" stroke="#3B7EA1" stroke-width="2.3"/>
+  <text x="845" y="136" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">低比特量化 (FP8/1.58-bit) (1.0%)</text>
+  <polyline points="592.0,370.7 625.4,330.5 658.9,330.8 692.3,299.1 725.7,334.6 759.1,336.6 792.6,313.9 826.0,309.8 859.4,300.8 892.9,274.8 926.3,241.8 959.7,241.0 993.1,231.7 1026.6,206.9 1060.0,255.0" fill="none" stroke="#3B7EA1" stroke-width="2.3"/>
   <circle cx="592.0" cy="370.7" r="2.8" fill="#3B7EA1"/>
   <circle cx="625.4" cy="330.5" r="2.8" fill="#3B7EA1"/>
   <circle cx="658.9" cy="330.8" r="2.8" fill="#3B7EA1"/>
@@ -173,9 +173,9 @@
   <circle cx="959.7" cy="241.0" r="2.8" fill="#3B7EA1"/>
   <circle cx="993.1" cy="231.7" r="2.8" fill="#3B7EA1"/>
   <circle cx="1026.6" cy="206.9" r="2.8" fill="#3B7EA1"/>
-  <circle cx="1060.0" cy="254.1" r="2.8" fill="#3B7EA1"/>
+  <circle cx="1060.0" cy="255.0" r="2.8" fill="#3B7EA1"/>
   <line x1="592" y1="148" x2="606" y2="148" stroke="#3B7EA1" stroke-width="2.5"/>
-  <text x="610" y="151" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">小语言模型与端侧部署 (8.3%)</text>
+  <text x="610" y="151" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="9.6" fill="#1E293B">小语言模型与端侧部署 (8.2%)</text>
   <line x1="24" y1="468" x2="1076" y2="468" stroke="#DED8CC" stroke-width="1"/>
   <text x="24" y="487" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B7280">数据来源：15 个季度子方向关键词精确归类占比（括号内为 2026-Q4 最新季度渗透率）。</text>
 </svg>

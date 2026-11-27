@@ -57,8 +57,8 @@
   <text x="963.0" y="146.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.7</text>
   <rect x="991.8" y="133.0" width="53.6" height="20.0" rx="2" fill="#375C87"/>
   <text x="1018.6" y="146.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.7</text>
-  <rect x="1047.4" y="133.0" width="53.6" height="20.0" rx="2" fill="#27507E"/>
-  <text x="1074.2" y="146.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.5</text>
+  <rect x="1047.4" y="133.0" width="53.6" height="20.0" rx="2" fill="#29527F"/>
+  <text x="1074.2" y="146.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.3</text>
   <rect x="24" y="157.0" width="5" height="17.0" rx="1.5" fill="#1F4E79"/>
   <text x="35" y="169.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">人类反馈与偏好优化 (RLHF/DPO)</text>
   <rect x="269.0" y="155.0" width="53.6" height="20.0" rx="2" fill="#DBDFE0"/>
@@ -121,8 +121,8 @@
   <text x="963.0" y="190.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.0</text>
   <rect x="991.8" y="177.0" width="53.6" height="20.0" rx="2" fill="#325884"/>
   <text x="1018.6" y="190.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.0</text>
-  <rect x="1047.4" y="177.0" width="53.6" height="20.0" rx="2" fill="#627F9E"/>
-  <text x="1074.2" y="190.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.1</text>
+  <rect x="1047.4" y="177.0" width="53.6" height="20.0" rx="2" fill="#64809F"/>
+  <text x="1074.2" y="190.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.0</text>
   <rect x="24" y="201.0" width="5" height="17.0" rx="1.5" fill="#1F4E79"/>
   <text x="35" y="213.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">合成数据与精细化配比 (Data Curation)</text>
   <rect x="269.0" y="199.0" width="53.6" height="20.0" rx="2" fill="#ADBAC7"/>
@@ -153,8 +153,8 @@
   <text x="963.0" y="212.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.9</text>
   <rect x="991.8" y="199.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
   <text x="1018.6" y="212.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">12.2</text>
-  <rect x="1047.4" y="199.0" width="53.6" height="20.0" rx="2" fill="#335984"/>
-  <text x="1074.2" y="212.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.7</text>
+  <rect x="1047.4" y="199.0" width="53.6" height="20.0" rx="2" fill="#355B86"/>
+  <text x="1074.2" y="212.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.6</text>
   <rect x="24" y="223.0" width="5" height="17.0" rx="1.5" fill="#B84A39"/>
   <text x="35" y="235.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">思维链与树搜索 (CoT &amp; Search)</text>
   <rect x="269.0" y="221.0" width="53.6" height="20.0" rx="2" fill="#CCD3D8"/>
@@ -185,8 +185,8 @@
   <text x="963.0" y="234.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.5</text>
   <rect x="991.8" y="221.0" width="53.6" height="20.0" rx="2" fill="#B2BECA"/>
   <text x="1018.6" y="234.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.8</text>
-  <rect x="1047.4" y="221.0" width="53.6" height="20.0" rx="2" fill="#C4CDD4"/>
-  <text x="1074.2" y="234.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.0</text>
+  <rect x="1047.4" y="221.0" width="53.6" height="20.0" rx="2" fill="#C4CCD3"/>
+  <text x="1074.2" y="234.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.1</text>
   <rect x="24" y="245.0" width="5" height="17.0" rx="1.5" fill="#B84A39"/>
   <text x="35" y="257.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">测试时计算扩展与高效思考 (TTC &amp; Hybrid)</text>
   <rect x="269.0" y="243.0" width="53.6" height="20.0" rx="2" fill="#EBECE9"/>
@@ -217,7 +217,7 @@
   <text x="963.0" y="256.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.7</text>
   <rect x="991.8" y="243.0" width="53.6" height="20.0" rx="2" fill="#7891AA"/>
   <text x="1018.6" y="256.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.9</text>
-  <rect x="1047.4" y="243.0" width="53.6" height="20.0" rx="2" fill="#94A6B9"/>
+  <rect x="1047.4" y="243.0" width="53.6" height="20.0" rx="2" fill="#95A7BA"/>
   <text x="1074.2" y="256.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.1</text>
   <rect x="24" y="267.0" width="5" height="17.0" rx="1.5" fill="#B84A39"/>
   <text x="35" y="279.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">数学竞赛与形式化定理证明 (Math &amp; Proof)</text>
@@ -249,7 +249,7 @@
   <text x="963.0" y="278.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.0</text>
   <rect x="991.8" y="265.0" width="53.6" height="20.0" rx="2" fill="#8CA0B5"/>
   <text x="1018.6" y="278.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.9</text>
-  <rect x="1047.4" y="265.0" width="53.6" height="20.0" rx="2" fill="#9FAFBF"/>
+  <rect x="1047.4" y="265.0" width="53.6" height="20.0" rx="2" fill="#A0B0C0"/>
   <text x="1074.2" y="278.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.2</text>
   <rect x="24" y="289.0" width="5" height="17.0" rx="1.5" fill="#2E7D6B"/>
   <text x="35" y="301.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">软件工程与代码智能体 (SWE &amp; Coding)</text>
@@ -281,72 +281,72 @@
   <text x="963.0" y="300.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.6</text>
   <rect x="991.8" y="287.0" width="53.6" height="20.0" rx="2" fill="#264F7D"/>
   <text x="1018.6" y="300.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.6</text>
-  <rect x="1047.4" y="287.0" width="53.6" height="20.0" rx="2" fill="#375C87"/>
-  <text x="1074.2" y="300.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.2</text>
+  <rect x="1047.4" y="287.0" width="53.6" height="20.0" rx="2" fill="#335A85"/>
+  <text x="1074.2" y="300.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.3</text>
   <rect x="24" y="311.0" width="5" height="17.0" rx="1.5" fill="#2E7D6B"/>
   <text x="35" y="323.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">智能体脚手架、工具与技能 (Harness &amp; Skills)</text>
-  <rect x="269.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#E8EAE7"/>
+  <rect x="269.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#E8E9E7"/>
   <text x="295.8" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.0</text>
   <rect x="324.6" y="309.0" width="53.6" height="20.0" rx="2" fill="#C7CFD5"/>
   <text x="351.4" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.1</text>
   <rect x="380.2" y="309.0" width="53.6" height="20.0" rx="2" fill="#CCD3D8"/>
   <text x="407.0" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.8</text>
-  <rect x="435.8" y="309.0" width="53.6" height="20.0" rx="2" fill="#C2CBD2"/>
+  <rect x="435.8" y="309.0" width="53.6" height="20.0" rx="2" fill="#C1CBD2"/>
   <text x="462.6" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.5</text>
-  <rect x="491.4" y="309.0" width="53.6" height="20.0" rx="2" fill="#D0D6DA"/>
+  <rect x="491.4" y="309.0" width="53.6" height="20.0" rx="2" fill="#CFD6DA"/>
   <text x="518.2" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.6</text>
-  <rect x="547.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#C4CCD3"/>
+  <rect x="547.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#C3CCD3"/>
   <text x="573.8" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.3</text>
-  <rect x="602.6" y="309.0" width="53.6" height="20.0" rx="2" fill="#D1D7DA"/>
+  <rect x="602.6" y="309.0" width="53.6" height="20.0" rx="2" fill="#D0D6DA"/>
   <text x="629.4" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.5</text>
-  <rect x="658.2" y="309.0" width="53.6" height="20.0" rx="2" fill="#B8C3CD"/>
+  <rect x="658.2" y="309.0" width="53.6" height="20.0" rx="2" fill="#B7C2CC"/>
   <text x="685.0" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.1</text>
   <rect x="713.8" y="309.0" width="53.6" height="20.0" rx="2" fill="#AFBCC8"/>
   <text x="740.6" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.7</text>
-  <rect x="769.4" y="309.0" width="53.6" height="20.0" rx="2" fill="#92A5B8"/>
+  <rect x="769.4" y="309.0" width="53.6" height="20.0" rx="2" fill="#91A4B8"/>
   <text x="796.2" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">6.6</text>
-  <rect x="825.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#899EB3"/>
+  <rect x="825.0" y="309.0" width="53.6" height="20.0" rx="2" fill="#889DB3"/>
   <text x="851.8" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">7.1</text>
-  <rect x="880.6" y="309.0" width="53.6" height="20.0" rx="2" fill="#7D94AD"/>
-  <text x="907.4" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">7.9</text>
-  <rect x="936.2" y="309.0" width="53.6" height="20.0" rx="2" fill="#315884"/>
+  <rect x="880.6" y="309.0" width="53.6" height="20.0" rx="2" fill="#7C94AC"/>
+  <text x="907.4" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">7.9</text>
+  <rect x="936.2" y="309.0" width="53.6" height="20.0" rx="2" fill="#305783"/>
   <text x="963.0" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">12.8</text>
-  <rect x="991.8" y="309.0" width="53.6" height="20.0" rx="2" fill="#29517F"/>
+  <rect x="991.8" y="309.0" width="53.6" height="20.0" rx="2" fill="#27507E"/>
   <text x="1018.6" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">13.4</text>
   <rect x="1047.4" y="309.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
-  <text x="1074.2" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">14.5</text>
+  <text x="1074.2" y="322.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">14.3</text>
   <rect x="24" y="333.0" width="5" height="17.0" rx="1.5" fill="#2E7D6B"/>
   <text x="35" y="345.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">递归自我改进与自主科研 (RSI &amp; AI Scientist)</text>
   <rect x="269.0" y="331.0" width="53.6" height="20.0" rx="2" fill="#F0F0EB"/>
   <text x="295.8" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.2</text>
   <rect x="324.6" y="331.0" width="53.6" height="20.0" rx="2" fill="#F8F6F0"/>
   <text x="351.4" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.0</text>
-  <rect x="380.2" y="331.0" width="53.6" height="20.0" rx="2" fill="#E5E7E5"/>
+  <rect x="380.2" y="331.0" width="53.6" height="20.0" rx="2" fill="#E5E6E5"/>
   <text x="407.0" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.5</text>
   <rect x="435.8" y="331.0" width="53.6" height="20.0" rx="2" fill="#ECEDE9"/>
   <text x="462.6" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.3</text>
-  <rect x="491.4" y="331.0" width="53.6" height="20.0" rx="2" fill="#E2E4E4"/>
+  <rect x="491.4" y="331.0" width="53.6" height="20.0" rx="2" fill="#E1E4E3"/>
   <text x="518.2" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
-  <rect x="547.0" y="331.0" width="53.6" height="20.0" rx="2" fill="#E6E8E6"/>
+  <rect x="547.0" y="331.0" width="53.6" height="20.0" rx="2" fill="#E6E7E6"/>
   <text x="573.8" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.5</text>
-  <rect x="602.6" y="331.0" width="53.6" height="20.0" rx="2" fill="#E4E6E5"/>
+  <rect x="602.6" y="331.0" width="53.6" height="20.0" rx="2" fill="#E3E6E5"/>
   <text x="629.4" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.5</text>
   <rect x="658.2" y="331.0" width="53.6" height="20.0" rx="2" fill="#E1E4E3"/>
   <text x="685.0" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
-  <rect x="713.8" y="331.0" width="53.6" height="20.0" rx="2" fill="#DEE1E1"/>
+  <rect x="713.8" y="331.0" width="53.6" height="20.0" rx="2" fill="#DDE1E1"/>
   <text x="740.6" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.7</text>
   <rect x="769.4" y="331.0" width="53.6" height="20.0" rx="2" fill="#D5DADD"/>
   <text x="796.2" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.9</text>
-  <rect x="825.0" y="331.0" width="53.6" height="20.0" rx="2" fill="#AEBBC7"/>
+  <rect x="825.0" y="331.0" width="53.6" height="20.0" rx="2" fill="#ADBAC7"/>
   <text x="851.8" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.9</text>
-  <rect x="880.6" y="331.0" width="53.6" height="20.0" rx="2" fill="#9CADBE"/>
+  <rect x="880.6" y="331.0" width="53.6" height="20.0" rx="2" fill="#9BACBD"/>
   <text x="907.4" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.4</text>
-  <rect x="936.2" y="331.0" width="53.6" height="20.0" rx="2" fill="#708AA6"/>
+  <rect x="936.2" y="331.0" width="53.6" height="20.0" rx="2" fill="#6F89A5"/>
   <text x="963.0" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.5</text>
-  <rect x="991.8" y="331.0" width="53.6" height="20.0" rx="2" fill="#597899"/>
+  <rect x="991.8" y="331.0" width="53.6" height="20.0" rx="2" fill="#577698"/>
   <text x="1018.6" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.2</text>
   <rect x="1047.4" y="331.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
-  <text x="1074.2" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.9</text>
+  <text x="1074.2" y="344.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.8</text>
   <rect x="24" y="355.0" width="5" height="17.0" rx="1.5" fill="#6C4F8F"/>
   <text x="35" y="367.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">视觉-语言与长视频理解 (VLM &amp; Video)</text>
   <rect x="269.0" y="353.0" width="53.6" height="20.0" rx="2" fill="#A7B6C4"/>
@@ -377,8 +377,8 @@
   <text x="963.0" y="366.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">15.4</text>
   <rect x="991.8" y="353.0" width="53.6" height="20.0" rx="2" fill="#315783"/>
   <text x="1018.6" y="366.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">15.4</text>
-  <rect x="1047.4" y="353.0" width="53.6" height="20.0" rx="2" fill="#3E628A"/>
-  <text x="1074.2" y="366.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">14.4</text>
+  <rect x="1047.4" y="353.0" width="53.6" height="20.0" rx="2" fill="#40648C"/>
+  <text x="1074.2" y="366.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">14.2</text>
   <rect x="24" y="377.0" width="5" height="17.0" rx="1.5" fill="#6C4F8F"/>
   <text x="35" y="389.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">原生全模态与语音交互 (Omni &amp; Audio)</text>
   <rect x="269.0" y="375.0" width="53.6" height="20.0" rx="2" fill="#C6CED4"/>
@@ -409,7 +409,7 @@
   <text x="963.0" y="388.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.3</text>
   <rect x="991.8" y="375.0" width="53.6" height="20.0" rx="2" fill="#2C5481"/>
   <text x="1018.6" y="388.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.2</text>
-  <rect x="1047.4" y="375.0" width="53.6" height="20.0" rx="2" fill="#3A5F88"/>
+  <rect x="1047.4" y="375.0" width="53.6" height="20.0" rx="2" fill="#385D87"/>
   <text x="1074.2" y="388.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.0</text>
   <rect x="24" y="399.0" width="5" height="17.0" rx="1.5" fill="#6C4F8F"/>
   <text x="35" y="411.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">文档解析、OCR与GUI感知 (Doc/GUI)</text>
@@ -441,7 +441,7 @@
   <text x="963.0" y="410.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.1</text>
   <rect x="991.8" y="397.0" width="53.6" height="20.0" rx="2" fill="#577698"/>
   <text x="1018.6" y="410.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.9</text>
-  <rect x="1047.4" y="397.0" width="53.6" height="20.0" rx="2" fill="#355B86"/>
+  <rect x="1047.4" y="397.0" width="53.6" height="20.0" rx="2" fill="#345A85"/>
   <text x="1074.2" y="410.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.5</text>
   <rect x="24" y="421.0" width="5" height="17.0" rx="1.5" fill="#C98A2C"/>
   <text x="35" y="433.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">极低比特量化 (FP8/INT4/1.58-bit)</text>
@@ -473,37 +473,37 @@
   <text x="963.0" y="432.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.5</text>
   <rect x="991.8" y="419.0" width="53.6" height="20.0" rx="2" fill="#CBD2D7"/>
   <text x="1018.6" y="432.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.7</text>
-  <rect x="1047.4" y="419.0" width="53.6" height="20.0" rx="2" fill="#BCC6CF"/>
-  <text x="1074.2" y="432.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.9</text>
+  <rect x="1047.4" y="419.0" width="53.6" height="20.0" rx="2" fill="#B9C4CD"/>
+  <text x="1074.2" y="432.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.0</text>
   <rect x="24" y="443.0" width="5" height="17.0" rx="1.5" fill="#C98A2C"/>
   <text x="35" y="455.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">KV缓存压缩与推测解码 (KV &amp; Speculative)</text>
-  <rect x="269.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#DADEE0"/>
+  <rect x="269.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#DADEDF"/>
   <text x="295.8" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
-  <rect x="324.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#D8DDDE"/>
+  <rect x="324.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#D8DCDE"/>
   <text x="351.4" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
-  <rect x="380.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#CED5D9"/>
+  <rect x="380.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#CED4D9"/>
   <text x="407.0" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.8</text>
-  <rect x="435.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#A0B0C0"/>
+  <rect x="435.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#9FAFBF"/>
   <text x="462.6" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.7</text>
-  <rect x="491.4" y="441.0" width="53.6" height="20.0" rx="2" fill="#6F89A5"/>
+  <rect x="491.4" y="441.0" width="53.6" height="20.0" rx="2" fill="#6D88A4"/>
   <text x="518.2" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.7</text>
-  <rect x="547.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#BEC7D0"/>
+  <rect x="547.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#BDC7D0"/>
   <text x="573.8" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.1</text>
-  <rect x="602.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#8FA3B7"/>
+  <rect x="602.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#8EA2B6"/>
   <text x="629.4" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.1</text>
-  <rect x="658.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#8399B0"/>
+  <rect x="658.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#8198AF"/>
   <text x="685.0" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.3</text>
-  <rect x="713.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#8CA0B5"/>
+  <rect x="713.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#8B9FB4"/>
   <text x="740.6" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.1</text>
-  <rect x="769.4" y="441.0" width="53.6" height="20.0" rx="2" fill="#99ABBC"/>
+  <rect x="769.4" y="441.0" width="53.6" height="20.0" rx="2" fill="#98AABC"/>
   <text x="796.2" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.9</text>
-  <rect x="825.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#7F96AE"/>
+  <rect x="825.0" y="441.0" width="53.6" height="20.0" rx="2" fill="#7E95AD"/>
   <text x="851.8" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.4</text>
-  <rect x="880.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#849AB1"/>
+  <rect x="880.6" y="441.0" width="53.6" height="20.0" rx="2" fill="#8399B0"/>
   <text x="907.4" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.3</text>
-  <rect x="936.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#3F638B"/>
+  <rect x="936.2" y="441.0" width="53.6" height="20.0" rx="2" fill="#3D618A"/>
   <text x="963.0" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.7</text>
-  <rect x="991.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#547396"/>
+  <rect x="991.8" y="441.0" width="53.6" height="20.0" rx="2" fill="#527295"/>
   <text x="1018.6" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.3</text>
   <rect x="1047.4" y="441.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
   <text x="1074.2" y="454.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.4</text>
@@ -537,8 +537,8 @@
   <text x="963.0" y="476.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.3</text>
   <rect x="991.8" y="463.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
   <text x="1018.6" y="476.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.4</text>
-  <rect x="1047.4" y="463.0" width="53.6" height="20.0" rx="2" fill="#46698F"/>
-  <text x="1074.2" y="476.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.3</text>
+  <rect x="1047.4" y="463.0" width="53.6" height="20.0" rx="2" fill="#47698F"/>
+  <text x="1074.2" y="476.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.2</text>
   <rect x="24" y="487.0" width="5" height="17.0" rx="1.5" fill="#4A5568"/>
   <text x="35" y="499.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">状态空间与线性注意力 (SSM/Mamba)</text>
   <rect x="269.0" y="485.0" width="53.6" height="20.0" rx="2" fill="#DFE2E2"/>
@@ -569,7 +569,7 @@
   <text x="963.0" y="498.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.4</text>
   <rect x="991.8" y="485.0" width="53.6" height="20.0" rx="2" fill="#B7C2CC"/>
   <text x="1018.6" y="498.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.0</text>
-  <rect x="1047.4" y="485.0" width="53.6" height="20.0" rx="2" fill="#94A6B9"/>
+  <rect x="1047.4" y="485.0" width="53.6" height="20.0" rx="2" fill="#91A4B8"/>
   <text x="1074.2" y="498.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.6</text>
   <rect x="24" y="509.0" width="5" height="17.0" rx="1.5" fill="#4A5568"/>
   <text x="35" y="521.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">混合专家与动态深度 (MoE/MoD)</text>
@@ -577,29 +577,29 @@
   <text x="295.8" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
   <rect x="324.6" y="507.0" width="53.6" height="20.0" rx="2" fill="#D2D8DB"/>
   <text x="351.4" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.6</text>
-  <rect x="380.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#B2BECA"/>
+  <rect x="380.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#B3BFCA"/>
   <text x="407.0" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.1</text>
-  <rect x="435.8" y="507.0" width="53.6" height="20.0" rx="2" fill="#63809F"/>
+  <rect x="435.8" y="507.0" width="53.6" height="20.0" rx="2" fill="#64809F"/>
   <text x="462.6" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.5</text>
-  <rect x="491.4" y="507.0" width="53.6" height="20.0" rx="2" fill="#7F95AE"/>
+  <rect x="491.4" y="507.0" width="53.6" height="20.0" rx="2" fill="#7F96AE"/>
   <text x="518.2" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.0</text>
-  <rect x="547.0" y="507.0" width="53.6" height="20.0" rx="2" fill="#738DA8"/>
+  <rect x="547.0" y="507.0" width="53.6" height="20.0" rx="2" fill="#748DA8"/>
   <text x="573.8" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.2</text>
   <rect x="602.6" y="507.0" width="53.6" height="20.0" rx="2" fill="#708AA6"/>
   <text x="629.4" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.2</text>
-  <rect x="658.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#8A9FB4"/>
+  <rect x="658.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#8B9FB4"/>
   <text x="685.0" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.8</text>
   <rect x="713.8" y="507.0" width="53.6" height="20.0" rx="2" fill="#7A92AB"/>
   <text x="740.6" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.1</text>
-  <rect x="769.4" y="507.0" width="53.6" height="20.0" rx="2" fill="#8298B0"/>
+  <rect x="769.4" y="507.0" width="53.6" height="20.0" rx="2" fill="#8399B0"/>
   <text x="796.2" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.9</text>
-  <rect x="825.0" y="507.0" width="53.6" height="20.0" rx="2" fill="#5B799A"/>
+  <rect x="825.0" y="507.0" width="53.6" height="20.0" rx="2" fill="#5C7A9B"/>
   <text x="851.8" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.6</text>
-  <rect x="880.6" y="507.0" width="53.6" height="20.0" rx="2" fill="#6D88A4"/>
+  <rect x="880.6" y="507.0" width="53.6" height="20.0" rx="2" fill="#6E88A5"/>
   <text x="907.4" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.3</text>
-  <rect x="936.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#5C7A9B"/>
+  <rect x="936.2" y="507.0" width="53.6" height="20.0" rx="2" fill="#5D7B9B"/>
   <text x="963.0" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">2.6</text>
-  <rect x="991.8" y="507.0" width="53.6" height="20.0" rx="2" fill="#375D87"/>
+  <rect x="991.8" y="507.0" width="53.6" height="20.0" rx="2" fill="#385D87"/>
   <text x="1018.6" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.2</text>
   <rect x="1047.4" y="507.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
   <text x="1074.2" y="520.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.7</text>
@@ -633,7 +633,7 @@
   <text x="963.0" y="542.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.3</text>
   <rect x="991.8" y="529.0" width="53.6" height="20.0" rx="2" fill="#BEC8D0"/>
   <text x="1018.6" y="542.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.9</text>
-  <rect x="1047.4" y="529.0" width="53.6" height="20.0" rx="2" fill="#ACBAC7"/>
+  <rect x="1047.4" y="529.0" width="53.6" height="20.0" rx="2" fill="#ADBBC7"/>
   <text x="1074.2" y="542.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.2</text>
   <rect x="24" y="553.0" width="5" height="17.0" rx="1.5" fill="#3B7EA1"/>
   <text x="35" y="565.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">图像扩散与流匹配生成 (Diffusion &amp; Flow)</text>
@@ -665,40 +665,40 @@
   <text x="963.0" y="564.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">6.9</text>
   <rect x="991.8" y="551.0" width="53.6" height="20.0" rx="2" fill="#B9C4CD"/>
   <text x="1018.6" y="564.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.9</text>
-  <rect x="1047.4" y="551.0" width="53.6" height="20.0" rx="2" fill="#B4C0CB"/>
-  <text x="1074.2" y="564.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">5.3</text>
+  <rect x="1047.4" y="551.0" width="53.6" height="20.0" rx="2" fill="#B5C1CB"/>
+  <text x="1074.2" y="564.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">5.2</text>
   <rect x="24" y="575.0" width="5" height="17.0" rx="1.5" fill="#3B7EA1"/>
   <text x="35" y="587.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">视频生成与交互世界模型 (Video &amp; World Models)</text>
-  <rect x="269.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#C6CED5"/>
+  <rect x="269.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#C7CFD5"/>
   <text x="295.8" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.5</text>
   <rect x="324.6" y="573.0" width="53.6" height="20.0" rx="2" fill="#C7CFD5"/>
   <text x="351.4" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.5</text>
-  <rect x="380.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#718BA7"/>
+  <rect x="380.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#738CA7"/>
   <text x="407.0" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.9</text>
-  <rect x="435.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#738CA7"/>
+  <rect x="435.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#748DA8"/>
   <text x="462.6" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.8</text>
-  <rect x="491.4" y="573.0" width="53.6" height="20.0" rx="2" fill="#6782A1"/>
+  <rect x="491.4" y="573.0" width="53.6" height="20.0" rx="2" fill="#6883A1"/>
   <text x="518.2" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">7.4</text>
-  <rect x="547.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#859BB1"/>
+  <rect x="547.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#869BB2"/>
   <text x="573.8" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">5.9</text>
-  <rect x="602.6" y="573.0" width="53.6" height="20.0" rx="2" fill="#597899"/>
+  <rect x="602.6" y="573.0" width="53.6" height="20.0" rx="2" fill="#5B799A"/>
   <text x="629.4" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.1</text>
-  <rect x="658.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#517195"/>
+  <rect x="658.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#537296"/>
   <text x="685.0" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">8.5</text>
-  <rect x="713.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#90A4B7"/>
+  <rect x="713.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#91A4B8"/>
   <text x="740.6" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">5.3</text>
-  <rect x="769.4" y="573.0" width="53.6" height="20.0" rx="2" fill="#879CB2"/>
+  <rect x="769.4" y="573.0" width="53.6" height="20.0" rx="2" fill="#889DB3"/>
   <text x="796.2" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">5.8</text>
-  <rect x="825.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#2E5682"/>
+  <rect x="825.0" y="573.0" width="53.6" height="20.0" rx="2" fill="#305783"/>
   <text x="851.8" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.3</text>
-  <rect x="880.6" y="573.0" width="53.6" height="20.0" rx="2" fill="#45688E"/>
+  <rect x="880.6" y="573.0" width="53.6" height="20.0" rx="2" fill="#47698F"/>
   <text x="907.4" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.1</text>
-  <rect x="936.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#254E7D"/>
+  <rect x="936.2" y="573.0" width="53.6" height="20.0" rx="2" fill="#27507E"/>
   <text x="963.0" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.8</text>
-  <rect x="991.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#224C7B"/>
+  <rect x="991.8" y="573.0" width="53.6" height="20.0" rx="2" fill="#244E7C"/>
   <text x="1018.6" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">10.9</text>
   <rect x="1047.4" y="573.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
-  <text x="1074.2" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">11.5</text>
+  <text x="1074.2" y="586.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">11.6</text>
   <rect x="24" y="597.0" width="5" height="17.0" rx="1.5" fill="#3B7EA1"/>
   <text x="35" y="609.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">3D高斯泼溅与资产绑定 (3DGS &amp; Rigging)</text>
   <rect x="269.0" y="595.0" width="53.6" height="20.0" rx="2" fill="#8FA3B7"/>
@@ -729,13 +729,13 @@
   <text x="963.0" y="608.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.7</text>
   <rect x="991.8" y="595.0" width="53.6" height="20.0" rx="2" fill="#D2D8DB"/>
   <text x="1018.6" y="608.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.0</text>
-  <rect x="1047.4" y="595.0" width="53.6" height="20.0" rx="2" fill="#CCD3D8"/>
+  <rect x="1047.4" y="595.0" width="53.6" height="20.0" rx="2" fill="#CDD3D8"/>
   <text x="1074.2" y="608.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.3</text>
   <rect x="24" y="619.0" width="5" height="17.0" rx="1.5" fill="#2F6B3C"/>
   <text x="35" y="631.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">视觉-语言-动作基座 (VLA &amp; Policy)</text>
   <rect x="269.0" y="617.0" width="53.6" height="20.0" rx="2" fill="#F8F6F0"/>
   <text x="295.8" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.0</text>
-  <rect x="324.6" y="617.0" width="53.6" height="20.0" rx="2" fill="#F0EFEB"/>
+  <rect x="324.6" y="617.0" width="53.6" height="20.0" rx="2" fill="#EFEFEB"/>
   <text x="351.4" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.2</text>
   <rect x="380.2" y="617.0" width="53.6" height="20.0" rx="2" fill="#F8F6F0"/>
   <text x="407.0" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.0</text>
@@ -747,51 +747,51 @@
   <text x="573.8" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.2</text>
   <rect x="602.6" y="617.0" width="53.6" height="20.0" rx="2" fill="#DDE0E1"/>
   <text x="629.4" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.7</text>
-  <rect x="658.2" y="617.0" width="53.6" height="20.0" rx="2" fill="#DEE2E2"/>
+  <rect x="658.2" y="617.0" width="53.6" height="20.0" rx="2" fill="#DEE1E2"/>
   <text x="685.0" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">0.7</text>
-  <rect x="713.8" y="617.0" width="53.6" height="20.0" rx="2" fill="#CAD1D7"/>
+  <rect x="713.8" y="617.0" width="53.6" height="20.0" rx="2" fill="#C9D1D6"/>
   <text x="740.6" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">1.2</text>
-  <rect x="769.4" y="617.0" width="53.6" height="20.0" rx="2" fill="#A7B5C4"/>
+  <rect x="769.4" y="617.0" width="53.6" height="20.0" rx="2" fill="#A6B5C3"/>
   <text x="796.2" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.1</text>
-  <rect x="825.0" y="617.0" width="53.6" height="20.0" rx="2" fill="#7A92AB"/>
+  <rect x="825.0" y="617.0" width="53.6" height="20.0" rx="2" fill="#7891AA"/>
   <text x="851.8" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">3.3</text>
-  <rect x="880.6" y="617.0" width="53.6" height="20.0" rx="2" fill="#8198AF"/>
+  <rect x="880.6" y="617.0" width="53.6" height="20.0" rx="2" fill="#8096AE"/>
   <text x="907.4" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.1</text>
-  <rect x="936.2" y="617.0" width="53.6" height="20.0" rx="2" fill="#5D7B9B"/>
+  <rect x="936.2" y="617.0" width="53.6" height="20.0" rx="2" fill="#5B799A"/>
   <text x="963.0" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.0</text>
-  <rect x="991.8" y="617.0" width="53.6" height="20.0" rx="2" fill="#3D618A"/>
+  <rect x="991.8" y="617.0" width="53.6" height="20.0" rx="2" fill="#3A5F88"/>
   <text x="1018.6" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">4.8</text>
   <rect x="1047.4" y="617.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
-  <text x="1074.2" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.8</text>
+  <text x="1074.2" y="630.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.7</text>
   <rect x="24" y="641.0" width="5" height="17.0" rx="1.5" fill="#2F6B3C"/>
   <text x="35" y="653.0" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="10.2" fill="#1E293B">人形控制与真机灵巧操作 (Humanoid &amp; Manip)</text>
-  <rect x="269.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#90A3B7"/>
+  <rect x="269.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#8FA2B7"/>
   <text x="295.8" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.3</text>
-  <rect x="324.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#6A85A3"/>
+  <rect x="324.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#6A85A2"/>
   <text x="351.4" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.8</text>
-  <rect x="380.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#A8B6C4"/>
+  <rect x="380.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#A7B6C4"/>
   <text x="407.0" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.3</text>
-  <rect x="435.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#99AABC"/>
+  <rect x="435.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#98AABC"/>
   <text x="462.6" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.9</text>
   <rect x="491.4" y="639.0" width="53.6" height="20.0" rx="2" fill="#C3CCD3"/>
   <text x="518.2" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">2.1</text>
-  <rect x="547.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#8DA1B6"/>
+  <rect x="547.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#8DA1B5"/>
   <text x="573.8" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.4</text>
-  <rect x="602.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#869BB2"/>
+  <rect x="602.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#859BB1"/>
   <text x="629.4" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.7</text>
-  <rect x="658.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#9AABBD"/>
+  <rect x="658.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#9AABBC"/>
   <text x="685.0" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">3.8</text>
-  <rect x="713.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#899DB3"/>
+  <rect x="713.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#889DB3"/>
   <text x="740.6" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.6</text>
   <rect x="769.4" y="639.0" width="53.6" height="20.0" rx="2" fill="#7F96AE"/>
   <text x="796.2" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#334155">4.9</text>
-  <rect x="825.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#6682A0"/>
+  <rect x="825.0" y="639.0" width="53.6" height="20.0" rx="2" fill="#6581A0"/>
   <text x="851.8" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.0</text>
-  <rect x="880.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#5D7B9C"/>
+  <rect x="880.6" y="639.0" width="53.6" height="20.0" rx="2" fill="#5C7A9B"/>
   <text x="907.4" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">6.3</text>
-  <rect x="936.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#6884A2"/>
+  <rect x="936.2" y="639.0" width="53.6" height="20.0" rx="2" fill="#6883A1"/>
   <text x="963.0" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">5.9</text>
-  <rect x="991.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#40648C"/>
+  <rect x="991.8" y="639.0" width="53.6" height="20.0" rx="2" fill="#3F638B"/>
   <text x="1018.6" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">7.5</text>
   <rect x="1047.4" y="639.0" width="53.6" height="20.0" rx="2" fill="#184476"/>
   <text x="1074.2" y="652.5" text-anchor="middle" font-family="'Hiragino Sans GB', 'PingFang SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Helvetica Neue', Arial, sans-serif" font-size="8.8" fill="#FFFFFF">9.2</text>

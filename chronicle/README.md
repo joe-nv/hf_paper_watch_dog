@@ -1,6 +1,6 @@
 # 人工智能前沿研究编年史与技术演进导论（2023–2026）
 
-> **欧美大学教材风活体编年史（Living University Textbook）** ｜ 累计覆盖 **18,237 篇**论文（`2023-05-04` — `2026-11-26`，共 922 个归档日）
+> **欧美大学教材风活体编年史（Living University Textbook）** ｜ 累计覆盖 **18,257 篇**论文（`2023-05-04` — `2026-11-27`，共 923 个归档日）
 
 📘 **全书精装合并版 PDF（含完整封面、目录、12 幅矢量桑基/趋势图与百篇里程碑全集）**：
 👉 **[`AI_Research_Chronicle_Textbook.pdf`](./AI_Research_Chronicle_Textbook.pdf)**
